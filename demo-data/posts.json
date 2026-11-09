@@ -1,0 +1,65 @@
+[
+  {
+    "number": "01",
+    "title": "デスク周りを整える3選",
+    "subtitle": "毎日の作業に、小さな余白を。",
+    "cover": "assets/creative/cover-01.svg",
+    "snsImage": "",
+    "coverFit": "contain",
+    "productIds": [
+      "cable",
+      "stand",
+      "mat"
+    ],
+    "videoUrl": "",
+    "creativeAssets": {
+      "cover": "assets/creative/cover-01.svg",
+      "background": "",
+      "decorations": [],
+      "origin": "original-demo-illustration",
+      "notes": "デモ専用のオリジナル仮イラスト。実商品の写真ではありません。"
+    }
+  },
+  {
+    "number": "02",
+    "title": "車内の小物をまとめる3選",
+    "subtitle": "移動する空間も、心地よく。",
+    "cover": "assets/creative/cover-02.svg",
+    "snsImage": "",
+    "coverFit": "contain",
+    "productIds": [
+      "seat",
+      "bin",
+      "case"
+    ],
+    "videoUrl": "",
+    "creativeAssets": {
+      "cover": "assets/creative/cover-02.svg",
+      "background": "",
+      "decorations": [],
+      "origin": "original-demo-illustration",
+      "notes": "デモ専用のオリジナル仮イラスト。実商品の写真ではありません。"
+    }
+  },
+  {
+    "number": "03",
+    "title": "持ち歩く荷物を整理する3選",
+    "subtitle": "身軽なお出かけは、整理から。",
+    "cover": "assets/creative/cover-03.svg",
+    "snsImage": "",
+    "coverFit": "contain",
+    "productIds": [
+      "gadget",
+      "bag",
+      "organizer"
+    ],
+    "videoUrl": "",
+    "creativeAssets": {
+      "cover": "assets/creative/cover-03.svg",
+      "background": "",
+      "decorations": [],
+      "origin": "original-demo-illustration",
+      "notes": "デモ専用のオリジナル仮イラスト。実商品の写真ではありません。"
+    }
+  }
+]

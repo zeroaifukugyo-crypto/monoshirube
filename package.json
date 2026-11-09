@@ -1,0 +1,1 @@
+{"name":"monoshirube","private":true,"type":"module","scripts":{"dev":"python3 -m http.server 3000 --bind 0.0.0.0 --directory dist","build":"node scripts/build.mjs","test":"node --test scripts/site.test.mjs","check":"node --check app.js && node --check editor.js && node --check update-data.js && node --check publication.js"}}

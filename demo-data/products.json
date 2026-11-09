@@ -1,0 +1,326 @@
+[
+  {
+    "id": "cable",
+    "name": "ケーブルホルダー",
+    "category": "デスク",
+    "image": "assets/cable.svg",
+    "description": "散らばるケーブルの定位置に。",
+    "check": "ケーブルの太さと固定方法を確認。",
+    "status": "demo",
+    "merchants": [
+      {
+        "name": "",
+        "affiliateUrl": "",
+        "verified": false
+      }
+    ],
+    "photo": {
+      "src": "",
+      "sourceName": "",
+      "sourceUrl": "",
+      "termsUrl": "",
+      "usageConditions": "",
+      "commercialUseAllowed": false,
+      "websiteUseAllowed": false,
+      "modificationAllowed": false,
+      "verified": false,
+      "verifiedAt": "",
+      "credit": ""
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "",
+      "specificationSourceName": "",
+      "checkedAt": ""
+    }
+  },
+  {
+    "id": "stand",
+    "name": "スマホスタンド",
+    "category": "デスク",
+    "image": "assets/stand.svg",
+    "description": "スマホを立てて、手元をすっきり。",
+    "check": "端末のサイズと充電口の位置を確認。",
+    "status": "demo",
+    "merchants": [
+      {
+        "name": "",
+        "affiliateUrl": "",
+        "verified": false
+      }
+    ],
+    "photo": {
+      "src": "",
+      "sourceName": "",
+      "sourceUrl": "",
+      "termsUrl": "",
+      "usageConditions": "",
+      "commercialUseAllowed": false,
+      "websiteUseAllowed": false,
+      "modificationAllowed": false,
+      "verified": false,
+      "verifiedAt": "",
+      "credit": ""
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "",
+      "specificationSourceName": "",
+      "checkedAt": ""
+    }
+  },
+  {
+    "id": "mat",
+    "name": "デスクマット",
+    "category": "デスク",
+    "image": "assets/mat.svg",
+    "description": "作業スペースをひとつにまとめる。",
+    "check": "デスクの寸法と表面の素材を確認。",
+    "status": "demo",
+    "merchants": [
+      {
+        "name": "",
+        "affiliateUrl": "",
+        "verified": false
+      }
+    ],
+    "photo": {
+      "src": "",
+      "sourceName": "",
+      "sourceUrl": "",
+      "termsUrl": "",
+      "usageConditions": "",
+      "commercialUseAllowed": false,
+      "websiteUseAllowed": false,
+      "modificationAllowed": false,
+      "verified": false,
+      "verifiedAt": "",
+      "credit": ""
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "",
+      "specificationSourceName": "",
+      "checkedAt": ""
+    }
+  },
+  {
+    "id": "seat",
+    "name": "シートすき間収納",
+    "category": "車内",
+    "image": "assets/seat.svg",
+    "description": "座席のすき間を小物の居場所に。",
+    "check": "座席とのすき間・シートベルトの位置を確認。",
+    "status": "demo",
+    "merchants": [
+      {
+        "name": "",
+        "affiliateUrl": "",
+        "verified": false
+      }
+    ],
+    "photo": {
+      "src": "",
+      "sourceName": "",
+      "sourceUrl": "",
+      "termsUrl": "",
+      "usageConditions": "",
+      "commercialUseAllowed": false,
+      "websiteUseAllowed": false,
+      "modificationAllowed": false,
+      "verified": false,
+      "verifiedAt": "",
+      "credit": ""
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "",
+      "specificationSourceName": "",
+      "checkedAt": ""
+    }
+  },
+  {
+    "id": "bin",
+    "name": "車内用ゴミ箱",
+    "category": "車内",
+    "image": "assets/bin.svg",
+    "description": "車内の小さなゴミをまとめる。",
+    "check": "設置場所とフタの開き方を確認。",
+    "status": "demo",
+    "merchants": [
+      {
+        "name": "",
+        "affiliateUrl": "",
+        "verified": false
+      }
+    ],
+    "photo": {
+      "src": "",
+      "sourceName": "",
+      "sourceUrl": "",
+      "termsUrl": "",
+      "usageConditions": "",
+      "commercialUseAllowed": false,
+      "websiteUseAllowed": false,
+      "modificationAllowed": false,
+      "verified": false,
+      "verifiedAt": "",
+      "credit": ""
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "",
+      "specificationSourceName": "",
+      "checkedAt": ""
+    }
+  },
+  {
+    "id": "case",
+    "name": "収納ポーチ",
+    "category": "車内",
+    "image": "assets/case.svg",
+    "description": "車内の細々した道具をひとまとめ。",
+    "check": "入れたいものの寸法と収納場所を確認。",
+    "status": "demo",
+    "merchants": [
+      {
+        "name": "",
+        "affiliateUrl": "",
+        "verified": false
+      }
+    ],
+    "photo": {
+      "src": "",
+      "sourceName": "",
+      "sourceUrl": "",
+      "termsUrl": "",
+      "usageConditions": "",
+      "commercialUseAllowed": false,
+      "websiteUseAllowed": false,
+      "modificationAllowed": false,
+      "verified": false,
+      "verifiedAt": "",
+      "credit": ""
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "",
+      "specificationSourceName": "",
+      "checkedAt": ""
+    }
+  },
+  {
+    "id": "gadget",
+    "name": "ガジェットポーチ",
+    "category": "持ち歩き",
+    "image": "assets/gadget.svg",
+    "description": "充電器やケーブルをまとめて持ち歩く。",
+    "check": "充電器の厚みと仕切りの数を確認。",
+    "status": "demo",
+    "merchants": [
+      {
+        "name": "",
+        "affiliateUrl": "",
+        "verified": false
+      }
+    ],
+    "photo": {
+      "src": "",
+      "sourceName": "",
+      "sourceUrl": "",
+      "termsUrl": "",
+      "usageConditions": "",
+      "commercialUseAllowed": false,
+      "websiteUseAllowed": false,
+      "modificationAllowed": false,
+      "verified": false,
+      "verifiedAt": "",
+      "credit": ""
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "",
+      "specificationSourceName": "",
+      "checkedAt": ""
+    }
+  },
+  {
+    "id": "bag",
+    "name": "折りたたみバッグ",
+    "category": "持ち歩き",
+    "image": "assets/bag.svg",
+    "description": "荷物が増えた日のサブバッグに。",
+    "check": "広げたサイズと収納時の大きさを確認。",
+    "status": "demo",
+    "merchants": [
+      {
+        "name": "",
+        "affiliateUrl": "",
+        "verified": false
+      }
+    ],
+    "photo": {
+      "src": "",
+      "sourceName": "",
+      "sourceUrl": "",
+      "termsUrl": "",
+      "usageConditions": "",
+      "commercialUseAllowed": false,
+      "websiteUseAllowed": false,
+      "modificationAllowed": false,
+      "verified": false,
+      "verifiedAt": "",
+      "credit": ""
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "",
+      "specificationSourceName": "",
+      "checkedAt": ""
+    }
+  },
+  {
+    "id": "organizer",
+    "name": "バッグインバッグ",
+    "category": "持ち歩き",
+    "image": "assets/organizer.svg",
+    "description": "バッグの中の小物に定位置を。",
+    "check": "手持ちのバッグの内寸を確認。",
+    "status": "demo",
+    "merchants": [
+      {
+        "name": "",
+        "affiliateUrl": "",
+        "verified": false
+      }
+    ],
+    "photo": {
+      "src": "",
+      "sourceName": "",
+      "sourceUrl": "",
+      "termsUrl": "",
+      "usageConditions": "",
+      "commercialUseAllowed": false,
+      "websiteUseAllowed": false,
+      "modificationAllowed": false,
+      "verified": false,
+      "verifiedAt": "",
+      "credit": ""
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "",
+      "specificationSourceName": "",
+      "checkedAt": ""
+    }
+  }
+]
