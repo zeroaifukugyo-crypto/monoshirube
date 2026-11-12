@@ -136,8 +136,18 @@
       "specificationSourceName": "Aíam 公式商品情報",
       "checkedAt": "2026-11-12"
     },
-    "merchants": [],
-    "linkNote": "販売リンク準備中"
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/596e45e9.6e64b44f.596e45ea.8e19a594/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faiambeauty%2F10000020%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "所有者提供のチャプター65発行タグの商品名・商品IDとの照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/aiam-chapter65.html",
+        "enabled": true
+      }
+    ],
+    "linkNote": ""
   },
   {
     "id": "samourai-eau-de-toilette",

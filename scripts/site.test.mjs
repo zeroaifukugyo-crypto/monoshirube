@@ -23,10 +23,10 @@ test('投稿・商品検索は番号、ブランド、タイトルとカテゴ�
  assert.ok(matchesProduct(product,'tom ford','すべて',[p]));assert.ok(matchesProduct(product,'#01','美容・香水',[p]));assert.ok(!matchesProduct(product,'#01','家電',[p]));
 });
 test('画像未設定・危険なURLでも安全な表示にフォールバック',()=>{assert.equal(mediaUrl(undefined),'');assert.equal(mediaUrl('javascript:alert(1)'),'');assert.equal(mediaUrl('assets/../secret'),'');assert.equal(mediaUrl('assets/photo.jpg'),'assets/photo.jpg');});
-test('香水特集はSNS画像の順、Aiamの誤リンクを表示せず、リンク文字列を保持',async()=>{
+test('香水特集はSNS画像の順、Aiam65の正しいリンクを使用し、リンク文字列を保持',async()=>{
  const products=JSON.parse(await readFile(new URL('../data/products.json',import.meta.url)));const posts=JSON.parse(await readFile(new URL('../data/posts.json',import.meta.url)));
  assert.deepEqual(posts[0].productIds,['jomalone-wood-sage','tomford-oud-wood','aiam-chapter65','samourai-eau-de-toilette','ahres-sayu','tomford-lost-cherry']);
- assert.equal(products.filter(visibleProduct).length,6);assert.equal(links(products.find(p=>p.id==='aiam-chapter65')).length,0);assert.equal(products.reduce((n,p)=>n+links(p).length,0),5);
+ assert.equal(products.filter(visibleProduct).length,6);assert.equal(links(products.find(p=>p.id==='aiam-chapter65')).length,1);assert.equal(products.reduce((n,p)=>n+links(p).length,0),6);assert.ok(links(products.find(p=>p.id==='aiam-chapter65'))[0].affiliateUrl.includes('10000020%2F'));assert.ok(!links(products.find(p=>p.id==='aiam-chapter65'))[0].affiliateUrl.includes('10000087'));
  for(const p of products){for(const m of links(p)){const raw=await readFile(new URL('../'+m.htmlPath,import.meta.url),'utf8');assert.ok(raw.includes(`href="${m.affiliateUrl}"`));assert.ok(m.affiliateUrl.includes('link_type=picttext'));}}
 });
 test('リンク未設定でも紹介のみ公開でき、非公開と未確認写真の公開は除外',()=>{
