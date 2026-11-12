@@ -1,1 +1,292 @@
-[]
+[
+  {
+    "id": "jomalone-wood-sage",
+    "brand": "JO MALONE LONDON",
+    "name": "ウッド セージ ＆ シー ソルト コロン",
+    "category": "美容・香水",
+    "description": "シーソルトとセージを組み合わせた、フレッシュなウッディの香り。",
+    "check": "購入前に、商品名・容量・香りの種類をご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "image": "",
+    "photo": {
+      "src": "",
+      "sourceName": "",
+      "sourceUrl": "",
+      "termsUrl": "",
+      "usageConditions": "",
+      "commercialUseAllowed": false,
+      "websiteUseAllowed": false,
+      "modificationAllowed": false,
+      "verified": false,
+      "verifiedAt": "",
+      "credit": ""
+    },
+    "presentation": {
+      "src": "assets/creative/perfume-01/01-jomalone.jpg",
+      "alt": "JO MALONE LONDON ウッド セージ ＆ シー ソルト コロンのSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true,
+      "note": "所有者提供のSNS紹介用ビジュアル。演出を含むため実物の写真とは別管理。画像内の表現はSNS原稿。サイトの説明は公開仕様に基づく。"
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://www.jomalone.jp/our-stories/wood-sage-sea-salt",
+      "specificationSourceName": "JO MALONE LONDON 公式商品情報",
+      "checkedAt": "2026-11-12"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/596a666a.da04ae23.596a666b.3a4807da/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjomalone%2F32241l41601%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "所有者提供の発行タグ内商品名との照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/jomalone-wood-sage.html",
+        "enabled": true
+      }
+    ],
+    "linkNote": ""
+  },
+  {
+    "id": "tomford-oud-wood",
+    "brand": "TOM FORD",
+    "name": "ウード・ウッド オード パルファム スプレィ",
+    "category": "美容・香水",
+    "description": "ウードやサンダルウッドの香りに、カルダモンなどのスパイスが重なる香り。",
+    "check": "購入前に、商品名・容量・香りの種類をご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "image": "",
+    "photo": {
+      "src": "",
+      "sourceName": "",
+      "sourceUrl": "",
+      "termsUrl": "",
+      "usageConditions": "",
+      "commercialUseAllowed": false,
+      "websiteUseAllowed": false,
+      "modificationAllowed": false,
+      "verified": false,
+      "verifiedAt": "",
+      "credit": ""
+    },
+    "presentation": {
+      "src": "assets/creative/perfume-01/02-oud-wood.jpg",
+      "alt": "TOM FORD ウード・ウッド オード パルファム スプレィのSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true,
+      "note": "所有者提供のSNS紹介用ビジュアル。演出を含むため実物の写真とは別管理。画像内の表現はSNS原稿。サイトの説明は公開仕様に基づく。"
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://www.tomfordbeauty.com/products/oud-wood-eau-de-parfum",
+      "specificationSourceName": "TOM FORD 公式商品情報",
+      "checkedAt": "2026-11-12"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/596e4394.abb07acf.596e4396.8854b99d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftomfordbeauty%2Ffgr_owops_30%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "所有者提供の発行タグ内商品名との照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/tomford-oud-wood.html",
+        "enabled": true
+      }
+    ],
+    "linkNote": ""
+  },
+  {
+    "id": "aiam-chapter65",
+    "brand": "Aíam",
+    "name": "チャプター65",
+    "category": "美容・香水",
+    "description": "オレンジフラワーやバイオレットのフローラルに、ムスクの温もりを重ねた香り。",
+    "check": "購入前に、商品名・容量・香りの種類をご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "image": "",
+    "photo": {
+      "src": "",
+      "sourceName": "",
+      "sourceUrl": "",
+      "termsUrl": "",
+      "usageConditions": "",
+      "commercialUseAllowed": false,
+      "websiteUseAllowed": false,
+      "modificationAllowed": false,
+      "verified": false,
+      "verifiedAt": "",
+      "credit": ""
+    },
+    "presentation": {
+      "src": "assets/creative/perfume-01/03-aiam65.jpg",
+      "alt": "Aíam チャプター65のSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true,
+      "note": "所有者提供のSNS紹介用ビジュアル。演出を含むため実物の写真とは別管理。画像内の表現はSNS原稿。サイトの説明は公開仕様に基づく。"
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://aiambeauty.jp/products/chapter65-50",
+      "specificationSourceName": "Aíam 公式商品情報",
+      "checkedAt": "2026-11-12"
+    },
+    "merchants": [],
+    "linkNote": "販売リンク準備中"
+  },
+  {
+    "id": "samourai-eau-de-toilette",
+    "brand": "SAMOURAÏ",
+    "name": "オードトワレ",
+    "category": "美容・香水",
+    "description": "ベルガモットにジャスミンやローズを重ねた、フレッシュアロマティックの香り。",
+    "check": "購入前に、商品名・容量・香りの種類をご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "image": "",
+    "photo": {
+      "src": "",
+      "sourceName": "",
+      "sourceUrl": "",
+      "termsUrl": "",
+      "usageConditions": "",
+      "commercialUseAllowed": false,
+      "websiteUseAllowed": false,
+      "modificationAllowed": false,
+      "verified": false,
+      "verifiedAt": "",
+      "credit": ""
+    },
+    "presentation": {
+      "src": "assets/creative/perfume-01/04-samourai.jpg",
+      "alt": "SAMOURAÏ オードトワレのSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true,
+      "note": "所有者提供のSNS紹介用ビジュアル。演出を含むため実物の写真とは別管理。画像内の表現はSNS原稿。サイトの説明は公開仕様に基づく。"
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://www.samourai.com/archives/fragrance/ad-etsp",
+      "specificationSourceName": "SAMOURAÏ 公式商品情報",
+      "checkedAt": "2026-11-12"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/596e4671.1fcad382.596e4672.0e27f59b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffragrance-u%2Fad-etsp-copy-100ml%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "所有者提供の発行タグ内商品名との照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/samourai-eau-de-toilette.html",
+        "enabled": true
+      }
+    ],
+    "linkNote": ""
+  },
+  {
+    "id": "ahres-sayu",
+    "brand": "AHRES",
+    "name": "サウンド スキン パフューム #SAYU",
+    "category": "美容・香水",
+    "description": "ブラックカラント、ジャスミン、ムスクをベースにしたフローラルムスク。",
+    "check": "購入前に、商品名・容量・香りの種類をご確認ください。販売ページで「#SAYU」を選択してください。",
+    "status": "listed",
+    "enabled": true,
+    "image": "",
+    "photo": {
+      "src": "",
+      "sourceName": "",
+      "sourceUrl": "",
+      "termsUrl": "",
+      "usageConditions": "",
+      "commercialUseAllowed": false,
+      "websiteUseAllowed": false,
+      "modificationAllowed": false,
+      "verified": false,
+      "verifiedAt": "",
+      "credit": ""
+    },
+    "presentation": {
+      "src": "assets/creative/perfume-01/05-ahres.jpg",
+      "alt": "AHRES サウンド スキン パフューム #SAYUのSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true,
+      "note": "所有者提供のSNS紹介用ビジュアル。演出を含むため実物の写真とは別管理。画像内の表現はSNS原稿。サイトの説明は公開仕様に基づく。"
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://ahres.jp/products/40000031",
+      "specificationSourceName": "AHRES 公式商品情報",
+      "checkedAt": "2026-11-12"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/596e483a.b38c2495.596e483b.013feb75/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fahres%2F40000032%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "所有者提供の発行タグ内商品名との照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/ahres-sayu.html",
+        "enabled": true
+      }
+    ],
+    "linkNote": ""
+  },
+  {
+    "id": "tomford-lost-cherry",
+    "brand": "TOM FORD",
+    "name": "ロスト チェリー オード パルファム スプレィ",
+    "category": "美容・香水",
+    "description": "ブラックチェリーとチェリーリキュールの香りに、ビターアーモンドを添えた香り。",
+    "check": "購入前に、商品名・容量・香りの種類をご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "image": "",
+    "photo": {
+      "src": "",
+      "sourceName": "",
+      "sourceUrl": "",
+      "termsUrl": "",
+      "usageConditions": "",
+      "commercialUseAllowed": false,
+      "websiteUseAllowed": false,
+      "modificationAllowed": false,
+      "verified": false,
+      "verifiedAt": "",
+      "credit": ""
+    },
+    "presentation": {
+      "src": "assets/creative/perfume-01/06-lost-cherry.jpg",
+      "alt": "TOM FORD ロスト チェリー オード パルファム スプレィのSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true,
+      "note": "所有者提供のSNS紹介用ビジュアル。演出を含むため実物の写真とは別管理。画像内の表現はSNS原稿。サイトの説明は公開仕様に基づく。"
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://www.tomfordbeauty.com/products/lost-cherry-eau-de-parfum",
+      "specificationSourceName": "TOM FORD 公式商品情報",
+      "checkedAt": "2026-11-12"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/596e4394.abb07acf.596e4396.8854b99d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftomfordbeauty%2Ffgr_lcops_30%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "所有者提供の発行タグ内商品名との照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/tomford-lost-cherry.html",
+        "enabled": true
+      }
+    ],
+    "linkNote": ""
+  }
+]
