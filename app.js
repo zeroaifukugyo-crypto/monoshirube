@@ -25,7 +25,7 @@ function purchase(p){
   if(m.renderMode==='provided-html'){
    const path=/^affiliate\/[a-z0-9-]+\.html$/.test(m.htmlPath||'')?m.htmlPath:'';
    if(!path)return '<div class="pending" aria-disabled="true">販売リンク準備中</div>';
-   return `<details class="affiliate"><summary>${esc(m.name)}で商品を見る <span aria-hidden="true">↗</span></summary><p class="affiliate-note">提供された広告を表示します。広告内の商品リンクから販売サイトへ進めます。</p><div class="affiliate-frame"><iframe data-src="${esc(path)}" title="${esc(p.brand)} ${esc(p.name)}の${esc(m.name)}広告" width="880" height="520" sandbox="allow-popups allow-popups-to-escape-sandbox" loading="lazy"></iframe></div><a class="affiliate-expand" href="${esc(path)}" target="_blank" rel="noopener noreferrer">広告を大きく開く ↗</a></details>`;
+   return `<section class="affiliate" aria-label="${esc(m.name)}の商品広告"><h4 class="affiliate-heading">${esc(m.name)}の商品広告</h4><div class="affiliate-frame"><iframe src="${esc(path)}" title="${esc(p.brand)} ${esc(p.name)}の${esc(m.name)}広告" width="880" height="520" sandbox="allow-popups allow-popups-to-escape-sandbox" loading="lazy"></iframe></div><a class="affiliate-expand" href="${esc(path)}" target="_blank" rel="noopener noreferrer">広告を大きく開く ↗</a></section>`;
   }
   return `<a class="buy" href="${esc(m.affiliateUrl)}" target="_blank" rel="nofollow sponsored noopener noreferrer">${esc(m.name)}で商品を見る <span aria-hidden="true">↗</span></a>`;
  }).join('');
@@ -61,11 +61,19 @@ function postPage(key){
  app.querySelector('.video-poster')?.addEventListener('click',()=>{const v=document.createElement('video');v.controls=true;v.playsInline=true;v.autoplay=true;v.src=post.videoUrl;v.poster=postCover(post);app.querySelector('.video').replaceChildren(v);});animate();
 }
 let observer;
-function animate(){if(!('IntersectionObserver'in window)||window.matchMedia('(prefers-reduced-motion: reduce)').matches)return;observer??=new IntersectionObserver(entries=>{for(const e of entries)if(e.isIntersecting){e.target.classList.remove('will-reveal');observer.unobserve(e.target);}},{threshold:.05});for(const el of app.querySelectorAll('.feature,.product')){if(el.getBoundingClientRect().top>window.innerHeight){el.classList.add('will-reveal');observer.observe(el);}}}
+function animate(){sizeAds();if(!('IntersectionObserver'in window)||window.matchMedia('(prefers-reduced-motion: reduce)').matches)return;observer??=new IntersectionObserver(entries=>{for(const e of entries)if(e.isIntersecting){e.target.classList.remove('will-reveal');observer.unobserve(e.target);}},{threshold:.05});for(const el of app.querySelectorAll('.feature,.product')){if(el.getBoundingClientRect().top>window.innerHeight){el.classList.add('will-reveal');observer.observe(el);}}}
 function route(){observer?.disconnect();const path=location.hash.slice(1)||'/';if(path==='/'||path==='/products'){home();if(path==='/products')requestAnimationFrame(()=>app.querySelector('#catalog').scrollIntoView());else window.scrollTo(0,0);}else if(/^\/posts\/[a-zA-Z0-9-]+$/.test(path)){postPage(path.split('/')[2]);window.scrollTo(0,0);}else{app.innerHTML='<h1>ページが見つかりませんでした。</h1><a class="back" href="#/">トップへ戻る</a>';}}
 app.addEventListener('error',e=>{if(e.target.tagName==='IMG'){e.target.hidden=true;e.target.closest('.media')?.classList.add('is-missing');}},true);
-// Only load the untouched supplied ad HTML when the visitor opens it.
-app.addEventListener('toggle',e=>{const details=e.target;if(!details.matches?.('.affiliate')||!details.open)return;const frame=details.querySelector('iframe');if(!frame.hasAttribute('src'))frame.src=frame.dataset.src;const box=frame.parentElement;const scale=()=>{frame.style.transform=`scale(${box.clientWidth/880})`;};scale();if('ResizeObserver'in window&&!frame._resizeObserver){frame._resizeObserver=new ResizeObserver(scale);frame._resizeObserver.observe(box);}},true);
+// Supplied ad HTML is visible immediately; only the outer iframe is scaled.
+function sizeAds(){
+ for(const frame of app.querySelectorAll('.affiliate-frame iframe')){
+  const box=frame.parentElement;
+  const scale=()=>{frame.style.transform=`scale(${box.clientWidth/880})`;};
+  scale();
+  if('ResizeObserver'in window&&!frame._resizeObserver){frame._resizeObserver=new ResizeObserver(scale);frame._resizeObserver.observe(box);}
+ }
+}
+
 try{
  [products,posts,settings]=await Promise.all(['products','posts','settings'].map(async name=>{const res=await fetch(`${demoPreview&&name!=='settings'?'demo-data':'data'}/${name}.json`);if(!res.ok)throw Error(name);return res.json();}));
  document.querySelector('.notice').innerHTML=(demoPreview?'<span>SAMPLE</span> 仮の商品・画像でサイトの使い方を確認できます。':'<span>広告・PR</span> 当サイトはアフィリエイト広告を利用しています')+(settings.programDisclosures||[]).map(s=>`<div>${esc(s)}</div>`).join('');route();window.addEventListener('hashchange',route);
