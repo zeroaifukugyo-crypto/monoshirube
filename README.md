@@ -4,7 +4,11 @@ https://monoshirube.pages.dev/
 
 Instagram・TikTokの投稿1本をサイトの特集1本に対応させる、HTML・CSS・JavaScriptの静的サイト。GitHubのmainを更新するとCloudflare Pagesがビルドして自動反映します。追加ライブラリ・CMS・ログイン・データベースはありません。
 
-## 今回の特集
+## レディース特集を追加
+
+`/#/posts/02`：「第一印象で差がつく レディース香水6選」を先頭に追加。提供画像順の6商品を掲載し、商品が一致する3商品の楽天広告を最初から表示。通常版リブレ・ジミー チュウ ロー・エタニティ オー フレッシュの提供リンクは、紹介画像の商品と異なるため使用せず確認待ちにしています。詳細は `docs/womens-perfume-update.md` を参照。
+
+## メンズ特集
 
 `/#/posts/01`（`/#/posts/mens-fragrance-6` でも表示）
 

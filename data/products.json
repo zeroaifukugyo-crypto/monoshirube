@@ -298,5 +298,275 @@
       }
     ],
     "linkNote": ""
+  },
+  {
+    "id": "jomalone-english-pear",
+    "brand": "JO MALONE LONDON",
+    "name": "イングリッシュ ペアー ＆ フリージア コロン",
+    "category": "美容・香水",
+    "description": "みずみずしい洋梨に、白いフリージアの香りを重ねたフルーティな香り。",
+    "check": "購入前に、商品名・容量・香りの種類をご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "image": "",
+    "photo": {
+      "src": "",
+      "sourceName": "",
+      "sourceUrl": "",
+      "termsUrl": "",
+      "usageConditions": "",
+      "commercialUseAllowed": false,
+      "websiteUseAllowed": false,
+      "modificationAllowed": false,
+      "verified": false,
+      "verifiedAt": "",
+      "credit": ""
+    },
+    "presentation": {
+      "src": "assets/creative/perfume-02/01-jomalone-pear.jpg",
+      "alt": "JO MALONE LONDON イングリッシュ ペアー ＆ フリージア コロンのSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true,
+      "note": "所有者提供の完成済みSNS紹介ビジュアル。演出を含み、実商品写真・仕様の根拠とは別管理。"
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://www.jomalone.jp/product/25946/12553/colognes/english-pear-freesia-cologne",
+      "specificationSourceName": "JO MALONE LONDON 公式商品情報",
+      "checkedAt": "2026-11-12"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/596a666a.da04ae23.596a666b.3a4807da/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjomalone%2F12553l26k01%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "所有者提供の発行タグ内商品名との照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/jomalone-english-pear.html",
+        "enabled": true
+      }
+    ],
+    "linkNote": ""
+  },
+  {
+    "id": "ysl-libre-intense",
+    "brand": "YVES SAINT LAURENT",
+    "name": "リブレ オーデパルファム アンタンス",
+    "category": "美容・香水",
+    "description": "ラベンダーとオレンジブロッサムに、オーキッドアコードを重ねた香り。",
+    "check": "購入前に、商品名・容量・香りの種類をご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "image": "",
+    "photo": {
+      "src": "",
+      "sourceName": "",
+      "sourceUrl": "",
+      "termsUrl": "",
+      "usageConditions": "",
+      "commercialUseAllowed": false,
+      "websiteUseAllowed": false,
+      "modificationAllowed": false,
+      "verified": false,
+      "verifiedAt": "",
+      "credit": ""
+    },
+    "presentation": {
+      "src": "assets/creative/perfume-02/02-ysl-libre-intense.jpg",
+      "alt": "YVES SAINT LAURENT リブレ オーデパルファム アンタンスのSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true,
+      "note": "所有者提供の完成済みSNS紹介ビジュアル。演出を含み、実商品写真・仕様の根拠とは別管理。"
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://www.yslb.jp/fragrance/fragrance-for-her/fragrance-libre/libre-eau-de-parfum-intense/WW-50657YSL.html",
+      "specificationSourceName": "YVES SAINT LAURENT 公式商品情報",
+      "checkedAt": "2026-11-12"
+    },
+    "merchants": [],
+    "linkNote": "販売リンク準備中"
+  },
+  {
+    "id": "shiro-savon",
+    "brand": "SHIRO",
+    "name": "サボン オードパルファン",
+    "category": "美容・香水",
+    "description": "レモンやオレンジなどのフルーティーな香りに、石けんを思わせるやさしい甘さを合わせた香り。",
+    "check": "購入前に、商品名・容量・香りの種類をご確認ください。販売ページで「サボン」と希望の容量を選択してください。",
+    "status": "listed",
+    "enabled": true,
+    "image": "",
+    "photo": {
+      "src": "",
+      "sourceName": "",
+      "sourceUrl": "",
+      "termsUrl": "",
+      "usageConditions": "",
+      "commercialUseAllowed": false,
+      "websiteUseAllowed": false,
+      "modificationAllowed": false,
+      "verified": false,
+      "verifiedAt": "",
+      "credit": ""
+    },
+    "presentation": {
+      "src": "assets/creative/perfume-02/03-shiro-savon.jpg",
+      "alt": "SHIRO サボン オードパルファンのSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true,
+      "note": "所有者提供の完成済みSNS紹介ビジュアル。演出を含み、実商品写真・仕様の根拠とは別管理。"
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://shiro-shiro.jp/item/12702.html",
+      "specificationSourceName": "SHIRO 公式商品情報",
+      "checkedAt": "2026-11-12"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/596f84d6.edd2e47c.596f84d7.47167a17/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhomelove%2F4580514122307%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "所有者提供の発行タグ内商品名との照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/shiro-savon.html",
+        "enabled": true
+      }
+    ],
+    "linkNote": ""
+  },
+  {
+    "id": "lanvin-eclat-darpege",
+    "brand": "LANVIN",
+    "name": "エクラ・ドゥ・アルページュ オードパルファム",
+    "category": "美容・香水",
+    "description": "ライラックとピーチブロッサムに、シダーウッドとホワイトムスクを重ねた香り。",
+    "check": "購入前に、商品名・容量・香りの種類をご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "image": "",
+    "photo": {
+      "src": "",
+      "sourceName": "",
+      "sourceUrl": "",
+      "termsUrl": "",
+      "usageConditions": "",
+      "commercialUseAllowed": false,
+      "websiteUseAllowed": false,
+      "modificationAllowed": false,
+      "verified": false,
+      "verifiedAt": "",
+      "credit": ""
+    },
+    "presentation": {
+      "src": "assets/creative/perfume-02/04-lanvin-eclat.jpg",
+      "alt": "LANVIN エクラ・ドゥ・アルページュ オードパルファムのSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true,
+      "note": "所有者提供の完成済みSNS紹介ビジュアル。演出を含み、実商品写真・仕様の根拠とは別管理。"
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://www.interparfums.fr/en/lanvin-eclat-darpege-2/",
+      "specificationSourceName": "LANVIN 公式商品情報",
+      "checkedAt": "2026-11-12"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/596f850f.ab01185d.596f8510.44e1812d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwish%2F668769%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "所有者提供の発行タグ内商品名との照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/lanvin-eclat-darpege.html",
+        "enabled": true
+      }
+    ],
+    "linkNote": ""
+  },
+  {
+    "id": "jimmy-choo-edt",
+    "brand": "JIMMY CHOO",
+    "name": "ジミー チュウ オードトワレ",
+    "category": "美容・香水",
+    "description": "洋梨とジンジャーに、ティーローズやタイガーオーキッドを合わせたフルーティ フローラル。",
+    "check": "購入前に、商品名・容量・香りの種類をご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "image": "",
+    "photo": {
+      "src": "",
+      "sourceName": "",
+      "sourceUrl": "",
+      "termsUrl": "",
+      "usageConditions": "",
+      "commercialUseAllowed": false,
+      "websiteUseAllowed": false,
+      "modificationAllowed": false,
+      "verified": false,
+      "verifiedAt": "",
+      "credit": ""
+    },
+    "presentation": {
+      "src": "assets/creative/perfume-02/05-jimmy-choo.jpg",
+      "alt": "JIMMY CHOO ジミー チュウ オードトワレのSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true,
+      "note": "所有者提供の完成済みSNS紹介ビジュアル。演出を含み、実商品写真・仕様の根拠とは別管理。"
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://latelierdesparfums.jp/products/jimmy-choo-edt-spray",
+      "specificationSourceName": "JIMMY CHOO 公式商品情報",
+      "checkedAt": "2026-11-12"
+    },
+    "merchants": [],
+    "linkNote": "販売リンク準備中"
+  },
+  {
+    "id": "ck-eternity-women",
+    "brand": "CALVIN KLEIN",
+    "name": "エタニティ オードパルファム",
+    "category": "美容・香水",
+    "description": "クラシックとモダンを調和させた、フローラルの香り。",
+    "check": "購入前に、商品名・容量・香りの種類をご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "image": "",
+    "photo": {
+      "src": "",
+      "sourceName": "",
+      "sourceUrl": "",
+      "termsUrl": "",
+      "usageConditions": "",
+      "commercialUseAllowed": false,
+      "websiteUseAllowed": false,
+      "modificationAllowed": false,
+      "verified": false,
+      "verifiedAt": "",
+      "credit": ""
+    },
+    "presentation": {
+      "src": "assets/creative/perfume-02/06-ck-eternity.jpg",
+      "alt": "CALVIN KLEIN エタニティ オードパルファムのSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true,
+      "note": "所有者提供の完成済みSNS紹介ビジュアル。演出を含み、実商品写真・仕様の根拠とは別管理。"
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://www.calvinklein.us/en/eternity-eau-de-parfum-for-women/LX000100.html",
+      "specificationSourceName": "CALVIN KLEIN 公式商品情報",
+      "checkedAt": "2026-11-12"
+    },
+    "merchants": [],
+    "linkNote": "販売リンク準備中"
   }
 ]

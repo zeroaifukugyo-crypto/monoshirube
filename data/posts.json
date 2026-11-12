@@ -28,5 +28,35 @@
       "origin": "user-supplied-social-artwork",
       "notes": "所有者から提供された完成済み画像をそのまま使用。商品写真や仕様の根拠とは別管理。"
     }
+  },
+  {
+    "id": "womens-fragrance-6",
+    "number": "02",
+    "publishedAt": null,
+    "displayOrder": 110,
+    "status": "published",
+    "isPublic": true,
+    "title": "第一印象で差がつく レディース香水6選",
+    "subtitle": "香りの特徴から、気になる1本をチェック。",
+    "category": "美容・香水",
+    "cover": "assets/creative/perfume-02/cover.jpg",
+    "snsImage": "assets/creative/perfume-02/cover.jpg",
+    "coverFit": "contain",
+    "productIds": [
+      "jomalone-english-pear",
+      "ysl-libre-intense",
+      "shiro-savon",
+      "lanvin-eclat-darpege",
+      "jimmy-choo-edt",
+      "ck-eternity-women"
+    ],
+    "videoUrl": "",
+    "creativeAssets": {
+      "cover": "assets/creative/perfume-02/cover.jpg",
+      "background": "",
+      "decorations": [],
+      "origin": "user-supplied-social-artwork",
+      "notes": "所有者提供の完成済み表紙を加工せず使用。"
+    }
   }
 ]
