@@ -58,5 +58,32 @@
       "origin": "user-supplied-social-artwork",
       "notes": "所有者提供の完成済み表紙を加工せず使用。"
     }
+  },
+  {
+    "id": "budget-fragrance-6",
+    "number": "03",
+    "publishedAt": null,
+    "displayOrder": 120,
+    "status": "published",
+    "isPublic": true,
+    "title": "予算で選ぶ 1万円以下の香水6選",
+    "subtitle": "1,000〜4,999円と5,000〜10,000円から3本ずつ。販売価格は各商品ページをご確認ください。",
+    "category": "美容・香水",
+    "cover": "assets/creative/perfume-03/cover.jpg",
+    "snsImage": "assets/creative/perfume-03/cover.jpg",
+    "coverFit": "contain",
+    "productIds": [
+      "budget-fiancee",
+      "budget-aqua-savon",
+      "budget-lanvin",
+      "budget-shiro",
+      "budget-roger-gallet",
+      "budget-loccitane"
+    ],
+    "videoUrl": "",
+    "creativeAssets": {
+      "cover": "assets/creative/perfume-03/cover.jpg",
+      "origin": "approved-social-artwork"
+    }
   }
 ]

@@ -601,5 +601,233 @@
       }
     ],
     "linkNote": ""
+  },
+  {
+    "id": "budget-fiancee",
+    "brand": "フィアンセ",
+    "name": "ピュアシャンプー パルファンドトワレ 50mL",
+    "category": "美容・香水",
+    "description": "洗いたての髪を思わせる香り。",
+    "check": "購入前に商品名・容量・最新価格をご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "image": "",
+    "presentation": {
+      "src": "assets/creative/perfume-03/budget-fiancee.jpg",
+      "alt": "フィアンセ ピュアシャンプー パルファンドトワレ 50mLの紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true,
+      "note": "生成した商品イメージを含む紹介画像。"
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/matsukiyo/4901008640952/",
+      "specificationSourceName": "マツモトキヨシ楽天市場店 商品情報",
+      "checkedAt": "2026-11-13"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "storeName": "マツモトキヨシ楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/597971b8.d2138fbe.597971b9.2b2e10f1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4901008640952%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "提供された広告の商品名・容量・販売先を照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/budget-fiancee.html",
+        "enabled": true
+      }
+    ],
+    "linkNote": "掲載時の価格帯：1,000〜4,999円"
+  },
+  {
+    "id": "budget-aqua-savon",
+    "brand": "アクアシャボン",
+    "name": "ウォータリーシャンプーの香り オードトワレ 80mL",
+    "category": "美容・香水",
+    "description": "みずみずしいシャンプーの香り。",
+    "check": "購入前に商品名・容量・最新価格をご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "image": "",
+    "presentation": {
+      "src": "assets/creative/perfume-03/budget-aqua-savon.jpg",
+      "alt": "アクアシャボン ウォータリーシャンプーの香り オードトワレ 80mLの紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true,
+      "note": "生成した商品イメージを含む紹介画像。"
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/matsukiyo/4941547585338/",
+      "specificationSourceName": "マツモトキヨシ楽天市場店 商品情報",
+      "checkedAt": "2026-11-13"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "storeName": "マツモトキヨシ楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/597971b8.d2138fbe.597971b9.2b2e10f1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4941547585338%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "提供された広告の商品名・容量・販売先を照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/budget-aqua-savon.html",
+        "enabled": true
+      }
+    ],
+    "linkNote": "掲載時の価格帯：1,000〜4,999円"
+  },
+  {
+    "id": "budget-lanvin",
+    "brand": "ランバン",
+    "name": "エクラ・ドゥ・アルページュ オードパルファム 30mL",
+    "category": "美容・香水",
+    "description": "やわらかな花とムスクの香り。",
+    "check": "購入前に商品名・容量・最新価格をご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "image": "",
+    "presentation": {
+      "src": "assets/creative/perfume-03/budget-lanvin.jpg",
+      "alt": "ランバン エクラ・ドゥ・アルページュ オードパルファム 30mLの紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true,
+      "note": "生成した商品イメージを含む紹介画像。"
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/osharecafe/10031159/",
+      "specificationSourceName": "おしゃれcafe楽天市場店 商品情報",
+      "checkedAt": "2026-11-13"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "storeName": "おしゃれcafe楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/596f85e5.1e40a244.596f85e6.41140978/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fosharecafe%2F10031159%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "提供された広告の商品名・容量・販売先を照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/budget-lanvin.html",
+        "enabled": true
+      }
+    ],
+    "linkNote": "掲載時の価格帯：1,000〜4,999円"
+  },
+  {
+    "id": "budget-shiro",
+    "brand": "SHIRO",
+    "name": "サボン オードパルファン 40mL",
+    "category": "美容・香水",
+    "description": "さわやかな果実と石けんを思わせる香り。",
+    "check": "購入前に商品名・容量・最新価格をご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "image": "",
+    "presentation": {
+      "src": "assets/creative/perfume-03/budget-shiro.jpg",
+      "alt": "SHIRO サボン オードパルファン 40mLの紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true,
+      "note": "生成した商品イメージを含む紹介画像。"
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/sunflowerjapan/sunfed2215fc2b/",
+      "specificationSourceName": "サンフラワーJapan 商品情報",
+      "checkedAt": "2026-11-13"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "storeName": "サンフラワーJapan",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/597974bf.009f2963.597974c1.e918f29c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsunflowerjapan%2Fsunfed2215fc2b%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "提供された広告の商品名・容量・販売先を照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/budget-shiro.html",
+        "enabled": true
+      }
+    ],
+    "linkNote": "掲載時の価格帯：5,000〜10,000円"
+  },
+  {
+    "id": "budget-roger-gallet",
+    "brand": "ロジェ・ガレ",
+    "name": "オ パフュメ フィグ オードトワレ 100mL",
+    "category": "美容・香水",
+    "description": "いちじくを思わせる甘い香り。",
+    "check": "購入前に商品名・容量・最新価格をご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "image": "",
+    "presentation": {
+      "src": "assets/creative/perfume-03/budget-roger-gallet.jpg",
+      "alt": "ロジェ・ガレ オ パフュメ フィグ オードトワレ 100mLの紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true,
+      "note": "生成した商品イメージを含む紹介画像。"
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/cosmecomonline/1000158420/",
+      "specificationSourceName": "アットコスメショッピング 商品情報",
+      "checkedAt": "2026-11-13"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "storeName": "アットコスメショッピング",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59797588.cc039790.59797589.79f42b16/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmecomonline%2F1000158420%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "提供された広告の商品名・容量・販売先を照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/budget-roger-gallet.html",
+        "enabled": true
+      }
+    ],
+    "linkNote": "掲載時の価格帯：5,000〜10,000円"
+  },
+  {
+    "id": "budget-loccitane",
+    "brand": "ロクシタン",
+    "name": "ヴェルヴェーヌ［ヴァーベナ］オードトワレ 75mL",
+    "category": "美容・香水",
+    "description": "柑橘を思わせる爽やかな香り。",
+    "check": "購入前に商品名・容量・最新価格をご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "image": "",
+    "presentation": {
+      "src": "assets/creative/perfume-03/budget-loccitane.jpg",
+      "alt": "ロクシタン ヴェルヴェーヌ［ヴァーベナ］オードトワレ 75mLの紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true,
+      "note": "生成した商品イメージを含む紹介画像。"
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/loccitane/loc00166/",
+      "specificationSourceName": "ロクシタン公式ショップ楽天市場店 商品情報",
+      "checkedAt": "2026-11-13"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "storeName": "ロクシタン公式ショップ楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59797657.5d9710d3.59797658.f330e091/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Floccitane%2Floc00166%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "提供された広告の商品名・容量・販売先を照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/budget-loccitane.html",
+        "enabled": true
+      }
+    ],
+    "linkNote": "掲載時の価格帯：5,000〜10,000円"
   }
 ]
