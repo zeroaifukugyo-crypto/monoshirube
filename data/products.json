@@ -386,8 +386,19 @@
       "specificationSourceName": "YVES SAINT LAURENT 公式商品情報",
       "checkedAt": "2026-11-12"
     },
-    "merchants": [],
-    "linkNote": "販売リンク準備中"
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "storeName": "YSL BEAUTÉ 楽天市場店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/596f81a0.c2b95c75.596f81a1.756dd092/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyslbeauty%2Fww-50657ysl-2%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "所有者提供タグの商品名と紹介商品の一致を確認。販売店の公式認定を示すものではない。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/ysl-libre-intense.html",
+        "enabled": true
+      }
+    ],
+    "linkNote": ""
   },
   {
     "id": "shiro-savon",
@@ -566,7 +577,28 @@
       "specificationSourceName": "CALVIN KLEIN 公式商品情報",
       "checkedAt": "2026-11-12"
     },
-    "merchants": [],
-    "linkNote": "販売リンク準備中"
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "storeName": "おしゃれcafe",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/596f85e5.1e40a244.596f85e6.41140978/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fosharecafe%2F10023567%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "所有者提供タグの商品名と紹介商品の一致を確認。販売店の公式認定を示すものではない。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/ck-eternity-osharecafe.html",
+        "enabled": true
+      },
+      {
+        "name": "楽天市場",
+        "storeName": "fragrance-u店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/596e4671.1fcad382.596e4672.0e27f59b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffragrance-u%2Fca-eternityladysep%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "所有者提供タグの商品名と紹介商品の一致を確認。販売店の公式認定を示すものではない。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/ck-eternity-fragrance-u.html",
+        "enabled": true
+      }
+    ],
+    "linkNote": ""
   }
 ]

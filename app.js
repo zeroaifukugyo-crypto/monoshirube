@@ -25,7 +25,7 @@ function purchase(p){
   if(m.renderMode==='provided-html'){
    const path=/^affiliate\/[a-z0-9-]+\.html$/.test(m.htmlPath||'')?m.htmlPath:'';
    if(!path)return '<div class="pending" aria-disabled="true">販売リンク準備中</div>';
-   return `<section class="affiliate" aria-label="${esc(m.name)}の商品広告"><h4 class="affiliate-heading">${esc(m.name)}の商品広告</h4><div class="affiliate-frame"><iframe src="${esc(path)}" title="${esc(p.brand)} ${esc(p.name)}の${esc(m.name)}広告" width="880" height="520" sandbox="allow-popups allow-popups-to-escape-sandbox" loading="lazy"></iframe></div><a class="affiliate-expand" href="${esc(path)}" target="_blank" rel="noopener noreferrer">広告を大きく開く ↗</a></section>`;
+   return `<section class="affiliate" aria-label="${esc(m.name)}の商品広告"><h4 class="affiliate-heading">${esc(m.name)}の商品広告${m.storeName?` · ${esc(m.storeName)}`:''}</h4><div class="affiliate-frame"><iframe src="${esc(path)}" title="${esc(p.brand)} ${esc(p.name)}の${esc(m.name)}広告" width="880" height="520" sandbox="allow-popups allow-popups-to-escape-sandbox" loading="lazy"></iframe></div><a class="affiliate-expand" href="${esc(path)}" target="_blank" rel="noopener noreferrer">広告を大きく開く ↗</a></section>`;
   }
   return `<a class="buy" href="${esc(m.affiliateUrl)}" target="_blank" rel="nofollow sponsored noopener noreferrer">${esc(m.name)}で商品を見る <span aria-hidden="true">↗</span></a>`;
  }).join('');
