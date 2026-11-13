@@ -537,8 +537,19 @@
       "specificationSourceName": "JIMMY CHOO 公式商品情報",
       "checkedAt": "2026-11-12"
     },
-    "merchants": [],
-    "linkNote": "販売リンク準備中"
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "storeName": "x-sell店",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59778bc9.32b43ba2.59778bca.4f253b3e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fx-sell%2F42630340%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "所有者提供のジミー チュウ オードトワレ発行タグの商品名との一致を確認。販売店の公式認定を示すものではない。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/jimmy-choo-edt.html",
+        "enabled": true
+      }
+    ],
+    "linkNote": ""
   },
   {
     "id": "ck-eternity-women",
@@ -578,16 +589,6 @@
       "checkedAt": "2026-11-12"
     },
     "merchants": [
-      {
-        "name": "楽天市場",
-        "storeName": "おしゃれcafe",
-        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/596f85e5.1e40a244.596f85e6.41140978/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fosharecafe%2F10023567%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-        "verified": true,
-        "verificationBasis": "所有者提供タグの商品名と紹介商品の一致を確認。販売店の公式認定を示すものではない。",
-        "renderMode": "provided-html",
-        "htmlPath": "affiliate/ck-eternity-osharecafe.html",
-        "enabled": true
-      },
       {
         "name": "楽天市場",
         "storeName": "fragrance-u店",

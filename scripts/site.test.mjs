@@ -39,8 +39,7 @@ test('追加画面は新しい投稿を自動で先頭に追加し、画像付�
 test('レディースは最新の#02、6商品を画像順に掲載し、重複と別商品の広告を除外',async()=>{
  const products=JSON.parse(await readFile(new URL('../data/products.json',import.meta.url)));const posts=JSON.parse(await readFile(new URL('../data/posts.json',import.meta.url)));const pending=JSON.parse(await readFile(new URL('../data/pending-links.json',import.meta.url)));
  const post=posts.find(p=>p.number==='02');assert.equal(sortPosts(posts)[0].number,'02');assert.deepEqual(post.productIds,['jomalone-english-pear','ysl-libre-intense','shiro-savon','lanvin-eclat-darpege','jimmy-choo-edt','ck-eternity-women']);
- const women=post.productIds.map(id=>products.find(p=>p.id===id));assert.equal(women.filter(visibleProduct).length,6);assert.equal(women.reduce((n,p)=>n+links(p).length,0),6);assert.equal(links(women.find(p=>p.id==='ysl-libre-intense')).length,1);assert.equal(links(women.find(p=>p.id==='ck-eternity-women')).length,2);
- for(const id of ['jimmy-choo-edt']){assert.equal(links(women.find(p=>p.id===id)).length,0);assert.ok(pending.some(p=>p.productId===id&&p.status==='mismatch'));}
- assert.equal(pending.length,1);assert.ok(!women.find(p=>p.id==='jimmy-choo-edt').relatedOffers);
+ const women=post.productIds.map(id=>products.find(p=>p.id===id));assert.equal(women.filter(visibleProduct).length,6);assert.equal(women.reduce((n,p)=>n+links(p).length,0),6);assert.equal(links(women.find(p=>p.id==='ysl-libre-intense')).length,1);assert.equal(links(women.find(p=>p.id==='ck-eternity-women')).length,1);
+ assert.equal(pending.length,0);for(const p of women)assert.equal(links(p).length,1);assert.ok(links(women.find(p=>p.id==='jimmy-choo-edt'))[0].affiliateUrl.includes('x-sell%2F42630340'));assert.equal(links(women.find(p=>p.id==='ck-eternity-women'))[0].htmlPath,'affiliate/ck-eternity-fragrance-u.html');assert.ok(!women.find(p=>p.id==='jimmy-choo-edt').relatedOffers);
  for(const p of women){assert.ok((await readFile(new URL('../'+p.presentation.src,import.meta.url))).length>0);for(const m of links(p)){const html=await readFile(new URL('../'+m.htmlPath,import.meta.url),'utf8');assert.ok(html.includes(`href="${m.affiliateUrl}"`));}}
 });
