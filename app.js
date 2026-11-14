@@ -10,7 +10,7 @@ const availablePosts=()=>sortPosts(posts);
 const orderedProducts=post=>post.productIds.map(id=>products.find(p=>p.id===id)).filter(p=>p&&visible(p));
 function media(src,alt,{className='',eager=false}={}){
  const url=mediaUrl(src);
- return `<div class="media ${className}${url?'':' is-missing'}"><span class="image-fallback">画像準備中</span>${url?`<img src="${esc(url)}" alt="${esc(alt)}" loading="${eager?'eager':'lazy'}" decoding="async" width="1024" height="1280">`:''}</div>`;
+ return `<div class="media ${className}${url?'':' is-missing'}"><span class="image-fallback">画像準備中</span>${url?`<img src="${esc(url)}" ${/^assets\/creative\/christmas-2026\/.*\.jpg$/.test(url)?`data-fallback="${esc(url.replace(/\.jpg$/,'.svg'))}"`:''} alt="${esc(alt)}" loading="${eager?'eager':'lazy'}" decoding="async" width="1024" height="1280">`:''}</div>`;
 }
 function productImage(p){
  if(p.status==='demo')return {src:p.image,alt:p.name+'のオリジナル仮イラスト',note:'デモ・サンプル商品'};
@@ -63,7 +63,7 @@ function postPage(key){
 let observer;
 function animate(){sizeAds();if(!('IntersectionObserver'in window)||window.matchMedia('(prefers-reduced-motion: reduce)').matches)return;observer??=new IntersectionObserver(entries=>{for(const e of entries)if(e.isIntersecting){e.target.classList.remove('will-reveal');observer.unobserve(e.target);}},{threshold:.05});for(const el of app.querySelectorAll('.feature,.product')){if(el.getBoundingClientRect().top>window.innerHeight){el.classList.add('will-reveal');observer.observe(el);}}}
 function route(){observer?.disconnect();const path=location.hash.slice(1)||'/';if(path==='/'||path==='/products'){home();if(path==='/products')requestAnimationFrame(()=>app.querySelector('#catalog').scrollIntoView());else window.scrollTo(0,0);}else if(/^\/posts\/[a-zA-Z0-9-]+$/.test(path)){postPage(path.split('/')[2]);window.scrollTo(0,0);}else{app.innerHTML='<h1>ページが見つかりませんでした。</h1><a class="back" href="#/">トップへ戻る</a>';}}
-app.addEventListener('error',e=>{if(e.target.tagName==='IMG'){e.target.hidden=true;e.target.closest('.media')?.classList.add('is-missing');}},true);
+app.addEventListener('error',e=>{if(e.target.tagName==='IMG'){const img=e.target;if(img.dataset.fallback&&!img.dataset.fallbackUsed){img.dataset.fallbackUsed='true';img.src=img.dataset.fallback;return;}img.hidden=true;img.closest('.media')?.classList.add('is-missing');}},true);
 // Supplied ad HTML is visible immediately; only the outer iframe is scaled.
 function sizeAds(){
  for(const frame of app.querySelectorAll('.affiliate-frame iframe')){
