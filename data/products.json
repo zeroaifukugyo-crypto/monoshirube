@@ -831,273 +831,343 @@
     "linkNote": "掲載時の価格帯：5,000〜10,000円"
   },
   {
-    "id": "xmas26-starbucks-via",
+    "id": "xmas26-men-01-share-warmer",
+    "brand": "Life on Products",
+    "name": "両手で使えるシェアカイロ",
+    "category": "クリスマスギフト",
+    "description": "充電して繰り返し使える分離式の木目調カイロ。",
+    "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "presentation": {
+      "src": "assets/creative/christmas-2026/men/01-share-warmer.jpg",
+      "alt": "Life on Products 両手で使えるシェアカイロのSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/lifeonproducts/lcaea007/",
+      "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
+      "checkedAt": "2026-11-14"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598676e1.f5299882.598676e2.0c3f45e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flifeonproducts%2Flcaea007%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+        "enabled": true,
+        "buttonLabel": "楽天で見る",
+        "disclosure": "広告・PR"
+      }
+    ]
+  },
+  {
+    "id": "xmas26-men-02-lindt",
+    "brand": "Lindt",
+    "name": "リンドール ギフトボックス",
+    "category": "クリスマスギフト",
+    "description": "クリスマス仕様のチョコレート20個セット。",
+    "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "presentation": {
+      "src": "assets/creative/christmas-2026/men/02-lindt.jpg",
+      "alt": "Lindt リンドール ギフトボックスのSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/lindt-chocolate/lindor_giftbox_m/",
+      "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
+      "checkedAt": "2026-11-14"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59866e9d.21d3355b.59866e9f.e9d5a3e1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flindt-chocolate%2Flindor_giftbox_m%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+        "enabled": true,
+        "buttonLabel": "楽天で見る",
+        "disclosure": "広告・PR"
+      }
+    ]
+  },
+  {
+    "id": "xmas26-men-03-starbucks",
     "brand": "STARBUCKS",
-    "name": "ヴィア＆オリガミ ホリデーシーズン",
+    "name": "オリガミ マグカップ付きギフト SBC-32A",
     "category": "クリスマスギフト",
-    "description": "2026年のクリスマス特集で紹介するギフト。",
-    "check": "参考価格：税込2,900円。最新の価格・送料・在庫・セット内容は購入前にご確認ください。",
-    "status": "listed",
+    "description": "グリーンマグ1個と、3種6袋のドリップコーヒーのセット。",
+    "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
+    "status": "published",
     "enabled": true,
-    "merchants": [],
-    "photo": {
-      "src": ""
-    },
     "presentation": {
-      "src": "assets/creative/christmas-2026/him-1.jpg",
-      "alt": "STARBUCKS ヴィア＆オリガミ ホリデーシーズンのSNS紹介画像（演出を含みます）",
+      "src": "assets/creative/christmas-2026/men/03-starbucks.jpg",
+      "alt": "STARBUCKS オリガミ マグカップ付きギフト SBC-32AのSNS紹介画像",
       "source": "user-supplied-social-artwork",
       "approvedForSite": true
     },
     "editorial": {
       "basis": "public-specifications",
       "personallyUsed": false,
-      "specificationUrl": "https://product.starbucks.co.jp/new/lineup/",
-      "specificationSourceName": "STARBUCKS公式",
+      "specificationUrl": "https://item.rakuten.co.jp/oculu/sb-10_002/",
+      "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
       "checkedAt": "2026-11-14"
-    }
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598670b6.ba5ef1b9.598670b7.65c2231a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foculu%2Fsb-10_002%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+        "enabled": true,
+        "buttonLabel": "楽天で見る",
+        "disclosure": "広告・PR"
+      }
+    ]
   },
   {
-    "id": "xmas26-starbucks-mugs",
-    "brand": "STARBUCKS",
-    "name": "ホリデー2026 スタッキングマグ ペアセット",
+    "id": "xmas26-men-04-proudmen",
+    "brand": "PROUDMEN.",
+    "name": "グルーミングバーム",
     "category": "クリスマスギフト",
-    "description": "2026年のクリスマス特集で紹介するギフト。",
-    "check": "参考価格：税込4,800円。最新の価格・送料・在庫・セット内容は購入前にご確認ください。",
-    "status": "listed",
+    "description": "グルーミング・シトラスの香りのクリームタイプのフレグランス。",
+    "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
+    "status": "published",
     "enabled": true,
-    "merchants": [],
-    "photo": {
-      "src": ""
-    },
     "presentation": {
-      "src": "assets/creative/christmas-2026/him-2.jpg",
-      "alt": "STARBUCKS ホリデー2026 スタッキングマグ ペアセットのSNS紹介画像（演出を含みます）",
+      "src": "assets/creative/christmas-2026/men/04-proudmen.jpg",
+      "alt": "PROUDMEN. グルーミングバームのSNS紹介画像",
       "source": "user-supplied-social-artwork",
       "approvedForSite": true
     },
     "editorial": {
       "basis": "public-specifications",
       "personallyUsed": false,
-      "specificationUrl": "https://www.starbucks.co.jp/seasonal-goods/",
-      "specificationSourceName": "STARBUCKS公式",
+      "specificationUrl": "https://item.rakuten.co.jp/mcosme-style/probod0040/",
+      "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
       "checkedAt": "2026-11-14"
-    }
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59867184.655d754c.59867185.c61703fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmcosme-style%2Fprobod0040%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+        "enabled": true,
+        "buttonLabel": "楽天で見る",
+        "disclosure": "広告・PR"
+      }
+    ]
   },
   {
-    "id": "xmas26-starbucks-bear",
-    "brand": "STARBUCKS",
-    "name": "ホリデー2026 グラスタンブラー ベアリスタ",
+    "id": "xmas26-men-05-bulk-homme",
+    "brand": "BULK HOMME",
+    "name": "洗顔料＆泡立てネットセット",
     "category": "クリスマスギフト",
-    "description": "2026年のクリスマス特集で紹介するギフト。",
-    "check": "参考価格：税込4,600円。最新の価格・送料・在庫・セット内容は購入前にご確認ください。",
-    "status": "listed",
+    "description": "ザ フェイスウォッシュと専用の泡立てネットのセット。",
+    "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
+    "status": "published",
     "enabled": true,
-    "merchants": [],
-    "photo": {
-      "src": ""
-    },
     "presentation": {
-      "src": "assets/creative/christmas-2026/him-3.jpg",
-      "alt": "STARBUCKS ホリデー2026 グラスタンブラー ベアリスタのSNS紹介画像（演出を含みます）",
+      "src": "assets/creative/christmas-2026/men/05-bulk-homme.jpg",
+      "alt": "BULK HOMME 洗顔料＆泡立てネットセットのSNS紹介画像",
       "source": "user-supplied-social-artwork",
       "approvedForSite": true
     },
     "editorial": {
       "basis": "public-specifications",
       "personallyUsed": false,
-      "specificationUrl": "https://www.starbucks.co.jp/seasonal-goods/",
-      "specificationSourceName": "STARBUCKS公式",
+      "specificationUrl": "https://item.rakuten.co.jp/bulkhomme-official/022/",
+      "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
       "checkedAt": "2026-11-14"
-    }
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59867280.e957ea8e.59867281.dade0bc2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbulkhomme-official%2F022%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+        "enabled": true,
+        "buttonLabel": "楽天で見る",
+        "disclosure": "広告・PR"
+      }
+    ]
   },
   {
-    "id": "xmas26-sabon-gent",
-    "brand": "SABON",
-    "name": "ウェルカムキット ジェントルマン",
+    "id": "xmas26-women-01-gelato-pique",
+    "brand": "gelato pique",
+    "name": "ベビモコチェックジャガードソックス",
     "category": "クリスマスギフト",
-    "description": "2026年のクリスマス特集で紹介するギフト。",
-    "check": "参考価格：税込3,080円。最新の価格・送料・在庫・セット内容は購入前にご確認ください。",
-    "status": "listed",
+    "description": "赤いチェック柄のHOLIDAYルームソックス。",
+    "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
+    "status": "published",
     "enabled": true,
-    "merchants": [],
-    "photo": {
-      "src": ""
-    },
     "presentation": {
-      "src": "assets/creative/christmas-2026/him-4.jpg",
-      "alt": "SABON ウェルカムキット ジェントルマンのSNS紹介画像（演出を含みます）",
+      "src": "assets/creative/christmas-2026/women/01-gelato-pique.jpg",
+      "alt": "gelato pique ベビモコチェックジャガードソックスのSNS紹介画像",
       "source": "user-supplied-social-artwork",
       "approvedForSite": true
     },
     "editorial": {
       "basis": "public-specifications",
       "personallyUsed": false,
-      "specificationUrl": "https://sabon.co.jp/pages/gift",
-      "specificationSourceName": "SABON公式",
+      "specificationUrl": "https://item.rakuten.co.jp/shirohato/b52pwgs265658/",
+      "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
       "checkedAt": "2026-11-14"
-    }
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598679b3.b73e4b64.598679b4.2213799f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshirohato%2Fb52pwgs265658%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+        "enabled": true,
+        "buttonLabel": "楽天で見る",
+        "disclosure": "広告・PR"
+      }
+    ]
   },
   {
-    "id": "xmas26-godiva-box",
-    "brand": "GODIVA",
-    "name": "プティフール アソートボックス",
+    "id": "xmas26-women-02-lindt",
+    "brand": "Lindt",
+    "name": "リンドール ギフトボックス",
     "category": "クリスマスギフト",
-    "description": "2026年のクリスマス特集で紹介するギフト。",
-    "check": "参考価格：税込3,780円。最新の価格・送料・在庫・セット内容は購入前にご確認ください。",
-    "status": "listed",
+    "description": "クリスマス仕様のチョコレート20個セット。",
+    "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
+    "status": "published",
     "enabled": true,
-    "merchants": [],
-    "photo": {
-      "src": ""
-    },
     "presentation": {
-      "src": "assets/creative/christmas-2026/him-5.jpg",
-      "alt": "GODIVA プティフール アソートボックスのSNS紹介画像（演出を含みます）",
+      "src": "assets/creative/christmas-2026/women/02-lindt.jpg",
+      "alt": "Lindt リンドール ギフトボックスのSNS紹介画像",
       "source": "user-supplied-social-artwork",
       "approvedForSite": true
     },
     "editorial": {
       "basis": "public-specifications",
       "personallyUsed": false,
-      "specificationUrl": "https://www.godiva.co.jp/christmas/",
-      "specificationSourceName": "GODIVA公式",
+      "specificationUrl": "https://item.rakuten.co.jp/lindt-chocolate/lindor_giftbox_m/",
+      "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
       "checkedAt": "2026-11-14"
-    }
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59866e9d.21d3355b.59866e9f.e9d5a3e1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flindt-chocolate%2Flindor_giftbox_m%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+        "enabled": true,
+        "buttonLabel": "楽天で見る",
+        "disclosure": "広告・PR"
+      }
+    ]
   },
   {
-    "id": "xmas26-jill-bath",
+    "id": "xmas26-women-03-loccitane",
+    "brand": "L’OCCITANE",
+    "name": "フローラル ハンドクリームデュオ",
+    "category": "クリスマスギフト",
+    "description": "2種類のハンドクリームとタオルのセット。",
+    "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "presentation": {
+      "src": "assets/creative/christmas-2026/women/03-loccitane.jpg",
+      "alt": "L’OCCITANE フローラル ハンドクリームデュオのSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/loccitane/loc00217/",
+      "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
+      "checkedAt": "2026-11-14"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59797657.5d9710d3.59797658.f330e091/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Floccitane%2Floc00217%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+        "enabled": true,
+        "buttonLabel": "楽天で見る",
+        "disclosure": "広告・PR"
+      }
+    ]
+  },
+  {
+    "id": "xmas26-women-04-jill-stuart",
     "brand": "JILL STUART",
-    "name": "ホワイトフローラル バスタイムギフト ドリームナイトプリンセス",
+    "name": "ハンカチ＆ハンドクリームギフト",
     "category": "クリスマスギフト",
-    "description": "2026年のクリスマス特集で紹介するギフト。",
-    "check": "参考価格：税込3,630円。最新の価格・送料・在庫・セット内容は購入前にご確認ください。",
-    "status": "listed",
+    "description": "花の香りのハンドクリームとリボン刺繍のハンカチ。",
+    "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
+    "status": "published",
     "enabled": true,
-    "merchants": [],
-    "photo": {
-      "src": ""
-    },
     "presentation": {
-      "src": "assets/creative/christmas-2026/her-1.jpg",
-      "alt": "JILL STUART ホワイトフローラル バスタイムギフト ドリームナイトプリンセスのSNS紹介画像（演出を含みます）",
+      "src": "assets/creative/christmas-2026/women/04-jill-stuart.jpg",
+      "alt": "JILL STUART ハンカチ＆ハンドクリームギフトのSNS紹介画像",
       "source": "user-supplied-social-artwork",
       "approvedForSite": true
     },
     "editorial": {
       "basis": "public-specifications",
       "personallyUsed": false,
-      "specificationUrl": "https://www.jillstuart-floranotisjillstuart.com/site/jillstuart/s/newitem_2611_lifestyle_holiday_collection.aspx",
-      "specificationSourceName": "JILL STUART公式",
+      "specificationUrl": "https://item.rakuten.co.jp/partytime-tokyo/19js008cfr/",
+      "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
       "checkedAt": "2026-11-14"
-    }
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59809dee.17f0834d.59809def.bd18a417/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpartytime-tokyo%2F19js008cfr%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+        "enabled": true,
+        "buttonLabel": "楽天で見る",
+        "disclosure": "広告・PR"
+      }
+    ]
   },
   {
-    "id": "xmas26-jill-bed",
-    "brand": "JILL STUART",
-    "name": "ホワイトフローラル ベッドタイムギフト ドリームナイトプリンセス",
+    "id": "xmas26-women-05-refa",
+    "brand": "ReFa",
+    "name": "リファハートブラシ",
     "category": "クリスマスギフト",
-    "description": "2026年のクリスマス特集で紹介するギフト。",
-    "check": "参考価格：税込4,950円。最新の価格・送料・在庫・セット内容は購入前にご確認ください。",
-    "status": "listed",
+    "description": "髪のからまりをほぐしながら整えるヘアブラシ。",
+    "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
+    "status": "published",
     "enabled": true,
-    "merchants": [],
-    "photo": {
-      "src": ""
-    },
     "presentation": {
-      "src": "assets/creative/christmas-2026/her-2.jpg",
-      "alt": "JILL STUART ホワイトフローラル ベッドタイムギフト ドリームナイトプリンセスのSNS紹介画像（演出を含みます）",
+      "src": "assets/creative/christmas-2026/women/05-refa.jpg",
+      "alt": "ReFa リファハートブラシのSNS紹介画像",
       "source": "user-supplied-social-artwork",
       "approvedForSite": true
     },
     "editorial": {
       "basis": "public-specifications",
       "personallyUsed": false,
-      "specificationUrl": "https://www.jillstuart-floranotisjillstuart.com/site/jillstuart/s/newitem_2611_lifestyle_holiday_collection.aspx",
-      "specificationSourceName": "JILL STUART公式",
+      "specificationUrl": "https://item.rakuten.co.jp/mtgec-beauty/5385720101/",
+      "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
       "checkedAt": "2026-11-14"
-    }
-  },
-  {
-    "id": "xmas26-loccitane-seven",
-    "brand": "L'OCCITANE",
-    "name": "カドー ド ジョワ 7本セット",
-    "category": "クリスマスギフト",
-    "description": "2026年のクリスマス特集で紹介するギフト。",
-    "check": "参考価格：税込4,950円。最新の価格・送料・在庫・セット内容は購入前にご確認ください。",
-    "status": "listed",
-    "enabled": true,
-    "merchants": [],
-    "photo": {
-      "src": ""
     },
-    "presentation": {
-      "src": "assets/creative/christmas-2026/her-3.jpg",
-      "alt": "L'OCCITANE カドー ド ジョワ 7本セットのSNS紹介画像（演出を含みます）",
-      "source": "user-supplied-social-artwork",
-      "approvedForSite": true
-    },
-    "editorial": {
-      "basis": "public-specifications",
-      "personallyUsed": false,
-      "specificationUrl": "https://jp.loccitane.com/items/JPOCVKIR03349.html",
-      "specificationSourceName": "L'OCCITANE公式",
-      "checkedAt": "2026-11-14"
-    }
-  },
-  {
-    "id": "xmas26-sabon-treasure",
-    "brand": "SABON",
-    "name": "トレジャーギフト ゴールデン・シトラス",
-    "category": "クリスマスギフト",
-    "description": "2026年のクリスマス特集で紹介するギフト。",
-    "check": "参考価格：税込4,950円。最新の価格・送料・在庫・セット内容は購入前にご確認ください。",
-    "status": "listed",
-    "enabled": true,
-    "merchants": [],
-    "photo": {
-      "src": ""
-    },
-    "presentation": {
-      "src": "assets/creative/christmas-2026/her-4.jpg",
-      "alt": "SABON トレジャーギフト ゴールデン・シトラスのSNS紹介画像（演出を含みます）",
-      "source": "user-supplied-social-artwork",
-      "approvedForSite": true
-    },
-    "editorial": {
-      "basis": "public-specifications",
-      "personallyUsed": false,
-      "specificationUrl": "https://sabon.co.jp/collections/holidaycollection2026/products/55408501",
-      "specificationSourceName": "SABON公式",
-      "checkedAt": "2026-11-14"
-    }
-  },
-  {
-    "id": "xmas26-godiva-thirteen",
-    "brand": "GODIVA",
-    "name": "プティフール アソートメント（13粒入）",
-    "category": "クリスマスギフト",
-    "description": "2026年のクリスマス特集で紹介するギフト。",
-    "check": "参考価格：税込4,860円。最新の価格・送料・在庫・セット内容は購入前にご確認ください。",
-    "status": "listed",
-    "enabled": true,
-    "merchants": [],
-    "photo": {
-      "src": ""
-    },
-    "presentation": {
-      "src": "assets/creative/christmas-2026/her-5.jpg",
-      "alt": "GODIVA プティフール アソートメント（13粒入）のSNS紹介画像（演出を含みます）",
-      "source": "user-supplied-social-artwork",
-      "approvedForSite": true
-    },
-    "editorial": {
-      "basis": "public-specifications",
-      "personallyUsed": false,
-      "specificationUrl": "https://www.godiva.co.jp/christmas/",
-      "specificationSourceName": "GODIVA公式",
-      "checkedAt": "2026-11-14"
-    }
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59866d17.a58b7172.59866d18.0710f5c4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmtgec-beauty%2F5385720101%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+        "enabled": true,
+        "buttonLabel": "楽天で見る",
+        "disclosure": "広告・PR"
+      }
+    ]
   }
 ]

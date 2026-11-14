@@ -94,17 +94,17 @@
     "status": "published",
     "isPublic": true,
     "title": "彼氏に贈るクリスマスギフト5選",
-    "subtitle": "予算5,000円以内。商品イメージを先行掲載しています。楽天広告リンクは準備中です。",
+    "subtitle": "SNSで紹介した5つのクリスマスギフト。各商品の詳細は楽天で確認できます。",
     "category": "クリスマスギフト",
     "cover": "assets/creative/christmas-2026/cover-him.jpg",
     "snsImage": "assets/creative/christmas-2026/cover-him.jpg",
     "coverFit": "contain",
     "productIds": [
-      "xmas26-starbucks-via",
-      "xmas26-starbucks-mugs",
-      "xmas26-starbucks-bear",
-      "xmas26-sabon-gent",
-      "xmas26-godiva-box"
+      "xmas26-men-01-share-warmer",
+      "xmas26-men-02-lindt",
+      "xmas26-men-03-starbucks",
+      "xmas26-men-04-proudmen",
+      "xmas26-men-05-bulk-homme"
     ],
     "videoUrl": "",
     "creativeAssets": {
@@ -121,17 +121,17 @@
     "status": "published",
     "isPublic": true,
     "title": "彼女に贈るクリスマスギフト5選",
-    "subtitle": "予算5,000円以内。商品イメージを先行掲載しています。楽天広告リンクは準備中です。",
+    "subtitle": "SNSで紹介した5つのクリスマスギフト。各商品の詳細は楽天で確認できます。",
     "category": "クリスマスギフト",
     "cover": "assets/creative/christmas-2026/cover-her.jpg",
     "snsImage": "assets/creative/christmas-2026/cover-her.jpg",
     "coverFit": "contain",
     "productIds": [
-      "xmas26-jill-bath",
-      "xmas26-jill-bed",
-      "xmas26-loccitane-seven",
-      "xmas26-sabon-treasure",
-      "xmas26-godiva-thirteen"
+      "xmas26-women-01-gelato-pique",
+      "xmas26-women-02-lindt",
+      "xmas26-women-03-loccitane",
+      "xmas26-women-04-jill-stuart",
+      "xmas26-women-05-refa"
     ],
     "videoUrl": "",
     "creativeAssets": {
