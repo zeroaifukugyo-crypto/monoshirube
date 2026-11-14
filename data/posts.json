@@ -109,8 +109,8 @@
     "videoUrl": "",
     "creativeAssets": {
       "cover": "assets/creative/christmas-2026/cover-him.jpg",
-      "origin": "illustration-preview",
-      "notes": "アップロード後は完成画像を表示。JPG未アップロード時は仮のSVG画像を表示。楽天リンクは別途設定。"
+      "origin": "user-supplied-social-artwork",
+      "notes": "提供された完成画像を無加工で掲載。商品紹介画像はSNS用の演出を含みます。楽天リンクは別途設定。"
     }
   },
   {
@@ -136,8 +136,8 @@
     "videoUrl": "",
     "creativeAssets": {
       "cover": "assets/creative/christmas-2026/cover-her.jpg",
-      "origin": "illustration-preview",
-      "notes": "アップロード後は完成画像を表示。JPG未アップロード時は仮のSVG画像を表示。楽天リンクは別途設定。"
+      "origin": "user-supplied-social-artwork",
+      "notes": "提供された完成画像を無加工で掲載。商品紹介画像はSNS用の演出を含みます。楽天リンクは別途設定。"
     }
   }
 ]
