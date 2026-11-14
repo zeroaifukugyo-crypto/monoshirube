@@ -829,5 +829,275 @@
       }
     ],
     "linkNote": "掲載時の価格帯：5,000〜10,000円"
+  },
+  {
+    "id": "xmas26-starbucks-via",
+    "brand": "STARBUCKS",
+    "name": "ヴィア＆オリガミ ホリデーシーズン",
+    "category": "クリスマスギフト",
+    "description": "2026年のクリスマス特集で紹介するギフト。",
+    "check": "参考価格：税込2,900円。最新の価格・送料・在庫・セット内容は購入前にご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "merchants": [],
+    "photo": {
+      "src": ""
+    },
+    "presentation": {
+      "src": "assets/creative/christmas-2026/him-1.svg",
+      "alt": "STARBUCKS ヴィア＆オリガミ ホリデーシーズン の仮イメージイラスト（実物写真ではありません）",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://product.starbucks.co.jp/new/lineup/",
+      "specificationSourceName": "STARBUCKS公式",
+      "checkedAt": "2026-11-14"
+    }
+  },
+  {
+    "id": "xmas26-starbucks-mugs",
+    "brand": "STARBUCKS",
+    "name": "ホリデー2026 スタッキングマグ ペアセット",
+    "category": "クリスマスギフト",
+    "description": "2026年のクリスマス特集で紹介するギフト。",
+    "check": "参考価格：税込4,800円。最新の価格・送料・在庫・セット内容は購入前にご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "merchants": [],
+    "photo": {
+      "src": ""
+    },
+    "presentation": {
+      "src": "assets/creative/christmas-2026/him-2.svg",
+      "alt": "STARBUCKS ホリデー2026 スタッキングマグ ペアセット の仮イメージイラスト（実物写真ではありません）",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://www.starbucks.co.jp/seasonal-goods/",
+      "specificationSourceName": "STARBUCKS公式",
+      "checkedAt": "2026-11-14"
+    }
+  },
+  {
+    "id": "xmas26-starbucks-bear",
+    "brand": "STARBUCKS",
+    "name": "ホリデー2026 グラスタンブラー ベアリスタ",
+    "category": "クリスマスギフト",
+    "description": "2026年のクリスマス特集で紹介するギフト。",
+    "check": "参考価格：税込4,600円。最新の価格・送料・在庫・セット内容は購入前にご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "merchants": [],
+    "photo": {
+      "src": ""
+    },
+    "presentation": {
+      "src": "assets/creative/christmas-2026/him-3.svg",
+      "alt": "STARBUCKS ホリデー2026 グラスタンブラー ベアリスタ の仮イメージイラスト（実物写真ではありません）",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://www.starbucks.co.jp/seasonal-goods/",
+      "specificationSourceName": "STARBUCKS公式",
+      "checkedAt": "2026-11-14"
+    }
+  },
+  {
+    "id": "xmas26-sabon-gent",
+    "brand": "SABON",
+    "name": "ウェルカムキット ジェントルマン",
+    "category": "クリスマスギフト",
+    "description": "2026年のクリスマス特集で紹介するギフト。",
+    "check": "参考価格：税込3,080円。最新の価格・送料・在庫・セット内容は購入前にご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "merchants": [],
+    "photo": {
+      "src": ""
+    },
+    "presentation": {
+      "src": "assets/creative/christmas-2026/him-4.svg",
+      "alt": "SABON ウェルカムキット ジェントルマン の仮イメージイラスト（実物写真ではありません）",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://sabon.co.jp/pages/gift",
+      "specificationSourceName": "SABON公式",
+      "checkedAt": "2026-11-14"
+    }
+  },
+  {
+    "id": "xmas26-godiva-box",
+    "brand": "GODIVA",
+    "name": "プティフール アソートボックス",
+    "category": "クリスマスギフト",
+    "description": "2026年のクリスマス特集で紹介するギフト。",
+    "check": "参考価格：税込3,780円。最新の価格・送料・在庫・セット内容は購入前にご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "merchants": [],
+    "photo": {
+      "src": ""
+    },
+    "presentation": {
+      "src": "assets/creative/christmas-2026/him-5.svg",
+      "alt": "GODIVA プティフール アソートボックス の仮イメージイラスト（実物写真ではありません）",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://www.godiva.co.jp/christmas/",
+      "specificationSourceName": "GODIVA公式",
+      "checkedAt": "2026-11-14"
+    }
+  },
+  {
+    "id": "xmas26-jill-bath",
+    "brand": "JILL STUART",
+    "name": "ホワイトフローラル バスタイムギフト ドリームナイトプリンセス",
+    "category": "クリスマスギフト",
+    "description": "2026年のクリスマス特集で紹介するギフト。",
+    "check": "参考価格：税込3,630円。最新の価格・送料・在庫・セット内容は購入前にご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "merchants": [],
+    "photo": {
+      "src": ""
+    },
+    "presentation": {
+      "src": "assets/creative/christmas-2026/her-1.svg",
+      "alt": "JILL STUART ホワイトフローラル バスタイムギフト ドリームナイトプリンセス の仮イメージイラスト（実物写真ではありません）",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://www.jillstuart-floranotisjillstuart.com/site/jillstuart/s/newitem_2611_lifestyle_holiday_collection.aspx",
+      "specificationSourceName": "JILL STUART公式",
+      "checkedAt": "2026-11-14"
+    }
+  },
+  {
+    "id": "xmas26-jill-bed",
+    "brand": "JILL STUART",
+    "name": "ホワイトフローラル ベッドタイムギフト ドリームナイトプリンセス",
+    "category": "クリスマスギフト",
+    "description": "2026年のクリスマス特集で紹介するギフト。",
+    "check": "参考価格：税込4,950円。最新の価格・送料・在庫・セット内容は購入前にご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "merchants": [],
+    "photo": {
+      "src": ""
+    },
+    "presentation": {
+      "src": "assets/creative/christmas-2026/her-2.svg",
+      "alt": "JILL STUART ホワイトフローラル ベッドタイムギフト ドリームナイトプリンセス の仮イメージイラスト（実物写真ではありません）",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://www.jillstuart-floranotisjillstuart.com/site/jillstuart/s/newitem_2611_lifestyle_holiday_collection.aspx",
+      "specificationSourceName": "JILL STUART公式",
+      "checkedAt": "2026-11-14"
+    }
+  },
+  {
+    "id": "xmas26-loccitane-seven",
+    "brand": "L'OCCITANE",
+    "name": "カドー ド ジョワ 7本セット",
+    "category": "クリスマスギフト",
+    "description": "2026年のクリスマス特集で紹介するギフト。",
+    "check": "参考価格：税込4,950円。最新の価格・送料・在庫・セット内容は購入前にご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "merchants": [],
+    "photo": {
+      "src": ""
+    },
+    "presentation": {
+      "src": "assets/creative/christmas-2026/her-3.svg",
+      "alt": "L'OCCITANE カドー ド ジョワ 7本セット の仮イメージイラスト（実物写真ではありません）",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://jp.loccitane.com/items/JPOCVKIR03349.html",
+      "specificationSourceName": "L'OCCITANE公式",
+      "checkedAt": "2026-11-14"
+    }
+  },
+  {
+    "id": "xmas26-sabon-treasure",
+    "brand": "SABON",
+    "name": "トレジャーギフト ゴールデン・シトラス",
+    "category": "クリスマスギフト",
+    "description": "2026年のクリスマス特集で紹介するギフト。",
+    "check": "参考価格：税込4,950円。最新の価格・送料・在庫・セット内容は購入前にご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "merchants": [],
+    "photo": {
+      "src": ""
+    },
+    "presentation": {
+      "src": "assets/creative/christmas-2026/her-4.svg",
+      "alt": "SABON トレジャーギフト ゴールデン・シトラス の仮イメージイラスト（実物写真ではありません）",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://sabon.co.jp/collections/holidaycollection2026/products/55408501",
+      "specificationSourceName": "SABON公式",
+      "checkedAt": "2026-11-14"
+    }
+  },
+  {
+    "id": "xmas26-godiva-thirteen",
+    "brand": "GODIVA",
+    "name": "プティフール アソートメント（13粒入）",
+    "category": "クリスマスギフト",
+    "description": "2026年のクリスマス特集で紹介するギフト。",
+    "check": "参考価格：税込4,860円。最新の価格・送料・在庫・セット内容は購入前にご確認ください。",
+    "status": "listed",
+    "enabled": true,
+    "merchants": [],
+    "photo": {
+      "src": ""
+    },
+    "presentation": {
+      "src": "assets/creative/christmas-2026/her-5.svg",
+      "alt": "GODIVA プティフール アソートメント（13粒入） の仮イメージイラスト（実物写真ではありません）",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://www.godiva.co.jp/christmas/",
+      "specificationSourceName": "GODIVA公式",
+      "checkedAt": "2026-11-14"
+    }
   }
 ]

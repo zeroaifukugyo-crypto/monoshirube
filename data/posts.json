@@ -85,5 +85,59 @@
       "cover": "assets/creative/perfume-03/cover.jpg",
       "origin": "approved-social-artwork"
     }
+  },
+  {
+    "id": "xmas26-him-5",
+    "number": "04",
+    "publishedAt": null,
+    "displayOrder": 140,
+    "status": "published",
+    "isPublic": true,
+    "title": "彼氏に贈るクリスマスギフト5選",
+    "subtitle": "予算5,000円以内。商品イメージを先行掲載しています。楽天広告リンクは準備中です。",
+    "category": "クリスマスギフト",
+    "cover": "assets/creative/christmas-2026/cover-him.svg",
+    "snsImage": "assets/creative/christmas-2026/cover-him.svg",
+    "coverFit": "contain",
+    "productIds": [
+      "xmas26-starbucks-via",
+      "xmas26-starbucks-mugs",
+      "xmas26-starbucks-bear",
+      "xmas26-sabon-gent",
+      "xmas26-godiva-box"
+    ],
+    "videoUrl": "",
+    "creativeAssets": {
+      "cover": "assets/creative/christmas-2026/cover-him.svg",
+      "origin": "illustration-preview",
+      "notes": "商品写真ではない仮イラスト。広告リンクは後日登録。"
+    }
+  },
+  {
+    "id": "xmas26-her-5",
+    "number": "05",
+    "publishedAt": null,
+    "displayOrder": 150,
+    "status": "published",
+    "isPublic": true,
+    "title": "彼女に贈るクリスマスギフト5選",
+    "subtitle": "予算5,000円以内。商品イメージを先行掲載しています。楽天広告リンクは準備中です。",
+    "category": "クリスマスギフト",
+    "cover": "assets/creative/christmas-2026/cover-her.svg",
+    "snsImage": "assets/creative/christmas-2026/cover-her.svg",
+    "coverFit": "contain",
+    "productIds": [
+      "xmas26-jill-bath",
+      "xmas26-jill-bed",
+      "xmas26-loccitane-seven",
+      "xmas26-sabon-treasure",
+      "xmas26-godiva-thirteen"
+    ],
+    "videoUrl": "",
+    "creativeAssets": {
+      "cover": "assets/creative/christmas-2026/cover-her.svg",
+      "origin": "illustration-preview",
+      "notes": "商品写真ではない仮イラスト。広告リンクは後日登録。"
+    }
   }
 ]
