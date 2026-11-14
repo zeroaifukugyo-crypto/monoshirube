@@ -96,8 +96,8 @@
     "title": "彼氏に贈るクリスマスギフト5選",
     "subtitle": "予算5,000円以内。商品イメージを先行掲載しています。楽天広告リンクは準備中です。",
     "category": "クリスマスギフト",
-    "cover": "assets/creative/christmas-2026/cover-him.svg",
-    "snsImage": "assets/creative/christmas-2026/cover-him.svg",
+    "cover": "assets/creative/christmas-2026/cover-him.jpg",
+    "snsImage": "assets/creative/christmas-2026/cover-him.jpg",
     "coverFit": "contain",
     "productIds": [
       "xmas26-starbucks-via",
@@ -108,9 +108,9 @@
     ],
     "videoUrl": "",
     "creativeAssets": {
-      "cover": "assets/creative/christmas-2026/cover-him.svg",
+      "cover": "assets/creative/christmas-2026/cover-him.jpg",
       "origin": "illustration-preview",
-      "notes": "商品写真ではない仮イラスト。広告リンクは後日登録。"
+      "notes": "アップロード後は完成画像を表示。JPG未アップロード時は仮のSVG画像を表示。楽天リンクは別途設定。"
     }
   },
   {
@@ -123,8 +123,8 @@
     "title": "彼女に贈るクリスマスギフト5選",
     "subtitle": "予算5,000円以内。商品イメージを先行掲載しています。楽天広告リンクは準備中です。",
     "category": "クリスマスギフト",
-    "cover": "assets/creative/christmas-2026/cover-her.svg",
-    "snsImage": "assets/creative/christmas-2026/cover-her.svg",
+    "cover": "assets/creative/christmas-2026/cover-her.jpg",
+    "snsImage": "assets/creative/christmas-2026/cover-her.jpg",
     "coverFit": "contain",
     "productIds": [
       "xmas26-jill-bath",
@@ -135,9 +135,9 @@
     ],
     "videoUrl": "",
     "creativeAssets": {
-      "cover": "assets/creative/christmas-2026/cover-her.svg",
+      "cover": "assets/creative/christmas-2026/cover-her.jpg",
       "origin": "illustration-preview",
-      "notes": "商品写真ではない仮イラスト。広告リンクは後日登録。"
+      "notes": "アップロード後は完成画像を表示。JPG未アップロード時は仮のSVG画像を表示。楽天リンクは別途設定。"
     }
   }
 ]
