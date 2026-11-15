@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: /editor.html
 Disallow: /demo.html
+Sitemap: https://monoshirube.pages.dev/sitemap.xml

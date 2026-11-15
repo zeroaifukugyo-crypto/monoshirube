@@ -151,3 +151,17 @@ Cloudflare Pages：ブランチ `main`、フレームワークなし、ビルド
 商品は `data/products.json` の `displayMode: "ad-only"` を持つレコードを複製し、新しいID・名前・カテゴリ・出典・広告HTMLパス・発行されたURLを設定してください。広告HTMLは `affiliate/` に保存し、その中のリンクや画像を勝手に変更しません。小さい広告には `frameWidth`・`frameHeight` で外側の表示枠を設定できます。
 
 例：`{"id":"necklaces","title":"ネックレス","productIds":["jewel-sophia"]}`。iPhoneのGitHubで編集・コミットし、Cloudflareのビルド成功後に `/#/posts/07` を確認してください。画像制作中のため、この投稿は表紙・SNS紹介画像を掲載せず、提供された楽天広告だけを表示します。写真の利用・加工条件が確認できてから制作画像を別途追加します。
+
+## A8.netのPR紹介ページ
+
+本番の入口は `https://monoshirube.pages.dev/pr/`。トップページの案内枠・ヘッダーナビから入れます。SNSの投稿一覧とは独立した静的ページです。
+
+- `/pr/travel/`：旅行・スキー予約（トラベルウエスト／ビッグホリデー）
+- `/pr/travel-gear/`：旅のバッグ・スーツケース（New Trip／OSUMAC）
+- `/pr/gifts/`：オーダーギフト・お祝い（dearmini／HYACCA）
+
+各カテゴリに個別の紹介記事を2件ずつ用意。`data/pr-guides.json` が記事・カテゴリの編集元、`scripts/pr-pages.mjs` が静的HTMLを生成し、通常の `npm run build` に含まれます。発行済みA8タグは `affiliate/a8-*.html` の6ファイルに、リンク・バナー・1px計測画像をそのまま保存し、対応記事に1件ずつ埋め込んでいます。広告部分を編集する場合は、A8で再発行したタグ全体に差し替えてください。
+
+記事は2026-11-15に公式サイトで確認した情報と、当サイトの選び方の提案を区別。利用体験・レビュー・最安値を創作していません。旅行・スキー・フィギュアの3枚はAI生成のイメージで、実在の施設・プランや実際の製品・制作実例ではない旨を画像の直下に表示しています。公開情報の参照先・確認日、各ページ冒頭と広告枠にPR・アフィリエイト表示を掲載。
+
+`npm run build` → `npm test` で、6組の広告URL・バナー・計測画像の対応、各記事への導線、出典・画像注記と生成HTMLの内部リンクを確認できます。`/sitemap.xml` にPR一覧・カテゴリ・記事URLを出力します。GitHubのmainにpushすると、既存のCloudflare Pages設定で配信されます。
