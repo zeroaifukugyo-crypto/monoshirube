@@ -139,5 +139,32 @@
       "origin": "user-supplied-social-artwork",
       "notes": "提供された完成画像を無加工で掲載。商品紹介画像はSNS用の演出を含みます。楽天リンクは別途設定。"
     }
+  },
+  {
+    "id": "refa-gift-5",
+    "number": "06",
+    "publishedAt": null,
+    "displayOrder": 160,
+    "status": "published",
+    "isPublic": true,
+    "title": "プレゼントにおすすめ 人気のReFaアイテム5選",
+    "subtitle": "コームからドライヤーまで。確認時の楽天掲載価格が安い順に紹介します。",
+    "category": "美容・ヘアケア",
+    "cover": "assets/creative/refa-2026/cover.jpg",
+    "snsImage": "assets/creative/refa-2026/cover.jpg",
+    "coverFit": "contain",
+    "productIds": [
+      "refa-heart-comb-aira",
+      "refa-aile-brush",
+      "refa-marquise-with",
+      "refa-straight-iron-pro",
+      "refa-beautech-dryer-s-plus"
+    ],
+    "videoUrl": "",
+    "creativeAssets": {
+      "cover": "assets/creative/refa-2026/cover.jpg",
+      "origin": "user-supplied-social-artwork",
+      "notes": "提供された6枚を無加工で掲載。最後の添付画像が表紙。"
+    }
   }
 ]

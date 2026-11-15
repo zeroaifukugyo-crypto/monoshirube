@@ -1169,5 +1169,210 @@
         "disclosure": "広告・PR"
       }
     ]
+  },
+  {
+    "id": "refa-heart-comb-aira",
+    "brand": "ReFa",
+    "name": "リファハートコーム アイラ",
+    "category": "美容・ヘアケア",
+    "description": "前髪などを整える、持ち運び用のヘアコーム。",
+    "check": "色・型番・付属品・送料・最新価格は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "presentation": {
+      "src": "assets/creative/refa-2026/01-heart-comb-aira.jpg",
+      "alt": "リファハートコーム アイラのSNS紹介画像（演出を含みます）",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/mtgec-beauty/1186210101/",
+      "specificationSourceName": "MTG ONLINESHOP（楽天市場）・提供された紹介資料",
+      "checkedAt": "2026-11-15"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "storeName": "MTG ONLINESHOP",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59866d17.a58b7172.59866d18.0710f5c4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmtgec-beauty%2F1186210101%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "提供された楽天広告HTMLの商品名・商品URL・画像を照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/refa-heart-comb-aira.html",
+        "enabled": true
+      }
+    ],
+    "listingOrderBasis": {
+      "price": 2970,
+      "currency": "JPY",
+      "checkedAt": "2026-11-15",
+      "sourceUrl": "https://item.rakuten.co.jp/mtgec-beauty/1186210101/"
+    }
+  },
+  {
+    "id": "refa-aile-brush",
+    "brand": "ReFa",
+    "name": "リファエールブラシ",
+    "category": "美容・ヘアケア",
+    "description": "髪をとかして整えるヘアブラシ。",
+    "check": "色・型番・付属品・送料・最新価格は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "presentation": {
+      "src": "assets/creative/refa-2026/02-aile-brush.jpg",
+      "alt": "リファエールブラシのSNS紹介画像（演出を含みます）",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/mtgec-beauty/1201310101/",
+      "specificationSourceName": "MTG ONLINESHOP（楽天市場）・提供された紹介資料",
+      "checkedAt": "2026-11-15"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "storeName": "MTG ONLINESHOP",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59866d17.a58b7172.59866d18.0710f5c4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmtgec-beauty%2F1201310101%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "提供された楽天広告HTMLの商品名・商品URL・画像を照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/refa-aile-brush.html",
+        "enabled": true
+      }
+    ],
+    "listingOrderBasis": {
+      "price": 3800,
+      "currency": "JPY",
+      "checkedAt": "2026-11-15",
+      "sourceUrl": "https://item.rakuten.co.jp/mtgec-beauty/1201310101/"
+    }
+  },
+  {
+    "id": "refa-marquise-with",
+    "brand": "ReFa",
+    "name": "リファマーキスウィズ",
+    "category": "美容・ヘアケア",
+    "description": "幅の異なる歯を備えた、持ち運び用のヘアコーム。",
+    "check": "色・型番・付属品・送料・最新価格は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "presentation": {
+      "src": "assets/creative/refa-2026/03-marquise-with.jpg",
+      "alt": "リファマーキスウィズのSNS紹介画像（演出を含みます）",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/mtgec-beauty/1995110101/",
+      "specificationSourceName": "MTG ONLINESHOP（楽天市場）・提供された紹介資料",
+      "checkedAt": "2026-11-15"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "storeName": "MTG ONLINESHOP",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59866d17.a58b7172.59866d18.0710f5c4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmtgec-beauty%2F1995110101%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "提供された楽天広告HTMLの商品名・商品URL・画像を照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/refa-marquise-with.html",
+        "enabled": true
+      }
+    ],
+    "listingOrderBasis": {
+      "price": 4620,
+      "currency": "JPY",
+      "checkedAt": "2026-11-15",
+      "sourceUrl": "https://item.rakuten.co.jp/mtgec-beauty/1995110101/"
+    }
+  },
+  {
+    "id": "refa-straight-iron-pro",
+    "brand": "ReFa",
+    "name": "リファストレートアイロン プロ",
+    "category": "美容・ヘアケア",
+    "description": "髪のスタイリングに使うストレートヘアアイロン。",
+    "check": "色・型番・付属品・送料・最新価格は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "presentation": {
+      "src": "assets/creative/refa-2026/04-straight-iron-pro.jpg",
+      "alt": "リファストレートアイロン プロのSNS紹介画像（演出を含みます）",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/mtgec-beauty/3891620108/",
+      "specificationSourceName": "MTG ONLINESHOP（楽天市場）・提供された紹介資料",
+      "checkedAt": "2026-11-15"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "storeName": "MTG ONLINESHOP",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59866d17.a58b7172.59866d18.0710f5c4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmtgec-beauty%2F3891620108%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "提供された楽天広告HTMLの商品名・商品URL・画像を照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/refa-straight-iron-pro.html",
+        "enabled": true
+      }
+    ],
+    "listingOrderBasis": {
+      "price": 23000,
+      "currency": "JPY",
+      "checkedAt": "2026-11-15",
+      "sourceUrl": "https://item.rakuten.co.jp/mtgec-beauty/3891620108/"
+    }
+  },
+  {
+    "id": "refa-beautech-dryer-s-plus",
+    "brand": "ReFa",
+    "name": "リファビューテック ドライヤー S+",
+    "category": "美容・ヘアケア",
+    "description": "髪を乾かすためのコンパクトなヘアドライヤー。",
+    "check": "色・型番・付属品・送料・最新価格は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "presentation": {
+      "src": "assets/creative/refa-2026/05-beautech-dryer-s-plus.jpg",
+      "alt": "リファビューテック ドライヤー S+のSNS紹介画像（演出を含みます）",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/mtgec-beauty/1850320101/",
+      "specificationSourceName": "MTG ONLINESHOP（楽天市場）・提供された紹介資料",
+      "checkedAt": "2026-11-15"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "storeName": "MTG ONLINESHOP",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59866d17.a58b7172.59866d18.0710f5c4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmtgec-beauty%2F1850320101%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "提供された楽天広告HTMLの商品名・商品URL・画像を照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/refa-beautech-dryer-s-plus.html",
+        "enabled": true
+      }
+    ],
+    "listingOrderBasis": {
+      "price": 39600,
+      "currency": "JPY",
+      "checkedAt": "2026-11-15",
+      "sourceUrl": "https://item.rakuten.co.jp/mtgec-beauty/1850320101/"
+    }
   }
 ]
