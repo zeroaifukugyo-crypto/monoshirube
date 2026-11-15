@@ -14,7 +14,7 @@ test('6件の提供A8広告でリンク・バナー・計測ピクセルの組�
  ['big-holiday-ski','4BGMK5+BD0UWY+57BW+BXB8X','www23','261116213687','24278002003000','www13'],
  ['dearmini','4BGMK5+BB8K3M+5YCY+5ZEMP','www29','261116213684','27781001005000','www11'],
  ['hyacca','4BGMK5+ATYZK2+5VGS+5ZEMP','www23','261116213655','27406001005000','www15']];
- assert.equal(guides.length,6);assert.equal(categories.length,3);
+ assert.equal(guides.length,7);assert.equal(categories.length,4);
  for(const [id,code,server,aid,mid,pixel] of expected){
   const p=guides.find(p=>p.id===id),ad=await load(p.adPath),html=await load(`dist/pr/${id}/index.html`);
   const exact=`<a href="https://px.a8.net/svt/ejp?a8mat=${code}" rel="nofollow">\n<img border="0" width="300" height="250" alt="" src="https://${server}.a8.net/svt/bgt?aid=${aid}&wid=003&eno=01&mid=s000000${mid}&mc=1"></a>\n<img border="0" width="1" height="1" src="https://${pixel}.a8.net/0.gif?a8mat=${code}" alt="">`;
@@ -46,4 +46,13 @@ test('PR出力内のローカルリンク・画像・スタイルに欠落がな
    await access(new URL('dist'+target,root));
   }
  }
+});
+
+test('メルカリの最新広告タグとコードを保持し、トップとPR一覧から到達できる',async()=>{
+ const ad=await load('affiliate/a8-mercari.html'),html=await load('dist/pr/mercari/index.html');
+ assert.equal(ad.trim(),'<a href="https://px.a8.net/svt/ejp?a8mat=4BGMK5+E39DQA+5LNQ+5YJRM" rel="nofollow">メルカリ</a>\n<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BGMK5+E39DQA+5LNQ+5YJRM" alt="">');
+ assert.ok(html.includes(ad));assert.ok(html.includes('<code>ZGSHGG</code>'));assert.ok(html.includes('運営者にもポイント'));
+ assert.ok(html.includes('a8-text-ad'));assert.ok((await load('app.js')).includes('href="/pr/mercari/"'));
+ assert.ok((await load('dist/pr/index.html')).includes('href="/pr/mercari/"'));
+ assert.ok(!html.includes('5YRHE'));assert.ok(!html.includes('5YRHE'.replace('RHE','JRM')+'-invalid'));
 });
