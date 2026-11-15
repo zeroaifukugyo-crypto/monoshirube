@@ -143,3 +143,11 @@ Cloudflare Pages：ブランチ `main`、フレームワークなし、ビルド
 手元の確認は `python3 -m http.server 3000 --directory dist`。iPhoneだけならGitHubへのコミットとCloudflareの自動ビルドで運用できます。`/demo.html` の既存サンプルも維持しています。任意のMP4は表紙の再生ボタンを押してからロード。URLの検索パラメータ（UTM等）は変更しません。
 
 今回の検証結果と変更点は `docs/perfume-update.md` を参照してください。
+
+### 投稿 #07：カテゴリ別の広告一覧
+
+`data/posts.json` の `accessory-gift-18` は `layout: "category-ads"` を使います。`groups` の各要素に `id`、カテゴリ名の `title`、掲載順の `productIds` を設定します。件数は各配列から自動計算し、6点固定ではありません。特集全体の `productIds` は、`groups` を上から順につないだ配列と一致させてください。不一致はビルドで検出します。
+
+商品は `data/products.json` の `displayMode: "ad-only"` を持つレコードを複製し、新しいID・名前・カテゴリ・出典・広告HTMLパス・発行されたURLを設定してください。広告HTMLは `affiliate/` に保存し、その中のリンクや画像を勝手に変更しません。小さい広告には `frameWidth`・`frameHeight` で外側の表示枠を設定できます。
+
+例：`{"id":"necklaces","title":"ネックレス","productIds":["jewel-sophia"]}`。iPhoneのGitHubで編集・コミットし、Cloudflareのビルド成功後に `/#/posts/07` を確認してください。画像制作中のため、この投稿は表紙・SNS紹介画像を掲載せず、提供された楽天広告だけを表示します。写真の利用・加工条件が確認できてから制作画像を別途追加します。

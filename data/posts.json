@@ -166,5 +166,79 @@
       "origin": "user-supplied-social-artwork",
       "notes": "提供された6枚を無加工で掲載。最後の添付画像が表紙。"
     }
+  },
+  {
+    "id": "accessory-gift-18",
+    "number": "07",
+    "publishedAt": null,
+    "displayOrder": 170,
+    "status": "published",
+    "isPublic": true,
+    "title": "彼女に贈る アクセサリーギフト18選",
+    "subtitle": "ネックレス・ピアス・ブレスレットを、カテゴリごとにまとめてチェック。",
+    "category": "アクセサリー",
+    "cover": "",
+    "snsImage": "",
+    "coverFit": "contain",
+    "productIds": [
+      "jewel-thekiss-2026",
+      "jewel-open-heart-nine",
+      "jewel-thekiss-spd270dm",
+      "jewel-thekiss-spd7039cb",
+      "jewel-sophia",
+      "jewel-startfly-nk0029",
+      "jewel-fromparis-ap004",
+      "jewel-candy",
+      "jewel-leaf",
+      "jewel-angelin",
+      "jewel-karen",
+      "jewel-twist",
+      "jewel-fromny-b024",
+      "jewel-silverkyasya-bs197",
+      "jewel-loseford-b34",
+      "jewel-loseford-b63",
+      "jewel-loseford-b50",
+      "jewel-furla-heart"
+    ],
+    "videoUrl": "",
+    "layout": "category-ads",
+    "groups": [
+      {
+        "id": "necklaces",
+        "title": "ネックレス",
+        "productIds": [
+          "jewel-thekiss-2026",
+          "jewel-open-heart-nine",
+          "jewel-thekiss-spd270dm",
+          "jewel-thekiss-spd7039cb",
+          "jewel-sophia",
+          "jewel-startfly-nk0029"
+        ]
+      },
+      {
+        "id": "earrings",
+        "title": "ピアス",
+        "productIds": [
+          "jewel-fromparis-ap004",
+          "jewel-candy",
+          "jewel-leaf",
+          "jewel-angelin",
+          "jewel-karen",
+          "jewel-twist"
+        ]
+      },
+      {
+        "id": "bracelets",
+        "title": "ブレスレット",
+        "productIds": [
+          "jewel-fromny-b024",
+          "jewel-silverkyasya-bs197",
+          "jewel-loseford-b34",
+          "jewel-loseford-b63",
+          "jewel-loseford-b50",
+          "jewel-furla-heart"
+        ]
+      }
+    ]
   }
 ]

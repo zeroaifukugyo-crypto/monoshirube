@@ -23,19 +23,23 @@ function purchase(p){
  if(!merchants.length)return '<div class="pending" aria-disabled="true">販売リンク準備中</div>';
  return merchants.map(m=>{
   if(m.renderMode==='provided-html'){
+   const frameWidth=Number.isInteger(m.frameWidth)&&m.frameWidth>=320&&m.frameWidth<=1000?m.frameWidth:880;
+   const frameHeight=Number.isInteger(m.frameHeight)&&m.frameHeight>=200&&m.frameHeight<=800?m.frameHeight:520;
    const path=/^affiliate\/[a-z0-9-]+\.html$/.test(m.htmlPath||'')?m.htmlPath:'';
    if(!path)return '<div class="pending" aria-disabled="true">販売リンク準備中</div>';
-   return `<section class="affiliate" aria-label="${esc(m.name)}の商品広告"><h4 class="affiliate-heading">${esc(m.name)}の商品広告${m.storeName?` · ${esc(m.storeName)}`:''}</h4><div class="affiliate-frame"><iframe src="${esc(path)}" title="${esc(p.brand)} ${esc(p.name)}の${esc(m.name)}広告" width="880" height="520" sandbox="allow-popups allow-popups-to-escape-sandbox" loading="lazy"></iframe></div><a class="affiliate-expand" href="${esc(path)}" target="_blank" rel="noopener noreferrer">広告を大きく開く ↗</a></section>`;
+   return `<section class="affiliate" aria-label="${esc(m.name)}の商品広告"><h4 class="affiliate-heading">${esc(m.name)}の商品広告${m.storeName?` · ${esc(m.storeName)}`:''}</h4><div class="affiliate-frame" style="aspect-ratio:${frameWidth}/${frameHeight}"><iframe src="${esc(path)}" title="${esc(p.brand)} ${esc(p.name)}の${esc(m.name)}広告" width="${frameWidth}" height="${frameHeight}" style="width:${frameWidth}px;height:${frameHeight}px" sandbox="allow-popups allow-popups-to-escape-sandbox" loading="lazy"></iframe></div><a class="affiliate-expand" href="${esc(path)}" target="_blank" rel="noopener noreferrer">広告を大きく開く ↗</a></section>`;
   }
   return `${m.disclosure?`<p class="image-note">${esc(m.disclosure)}</p>`:''}<a class="buy" href="${esc(m.affiliateUrl)}" target="_blank" rel="nofollow sponsored noopener noreferrer">${esc(m.buttonLabel||`${m.name}で商品を見る`)} <span aria-hidden="true">↗</span></a>`;
  }).join('');
 }
+function adCard(p){return `<article class="product ad-only" id="product-${esc(p.id)}"><div class="product-body"><p class="eyebrow">${esc(p.category)}</p><h3>${esc(p.name)}</h3>${purchase(p)}</div></article>`;}
 function card(p,index){
+ if(p.displayMode==='ad-only')return adCard(p);
  const image=productImage(p),related=availablePosts().filter(post=>post.productIds.includes(p.id));
  return `<article class="product" id="product-${esc(p.id)}">${media(image.src,image.alt,{className:'product-image',eager:index===0})}<div class="product-body">${image.note?`<p class="image-note">${esc(image.note)}</p>`:''}<div class="product-meta"><span>${esc(p.category)}</span><span>${related.map(post=>`<a href="#${postRoute(post)}">#${esc(post.number)}</a>`).join(' ')}</span></div>${p.brand?`<p class="brand">${esc(p.brand)}</p>`:''}<h3>${esc(p.name)}</h3><p class="description">${esc(p.description)}</p>${p.status!=='demo'?`<details class="sources"><summary>紹介文の出典</summary><p>実使用なし・公開仕様に基づく紹介</p><a href="${esc(p.editorial.specificationUrl)}" target="_blank" rel="noopener noreferrer">${esc(p.editorial.specificationSourceName)} ↗</a><p>確認：${esc(p.editorial.checkedAt)}</p></details>`:''}${p.check?`<div class="check"><span>買う前にチェック</span>${esc(p.check)}</div>`:''}${purchase(p)}</div></article>`;
 }
 function feature(post){const count=orderedProducts(post).length;
- return `<a class="feature" href="#${postRoute(post)}">${media(postCover(post),post.title+'の表紙',{className:'cover'})}<div class="feature-body"><div class="feature-meta"><span class="category-tag">${esc(post.category||'特集')}</span><span>${count}商品</span></div><p class="feature-number">投稿 #${esc(post.number)}</p><h3>${esc(post.title)}</h3><p>${esc(post.subtitle)}</p><span class="feature-cta">紹介商品を見る <span aria-hidden="true">→</span></span></div></a>`;
+ return `<a class="feature${post.layout==='category-ads'&&!postCover(post)?' feature--text':''}" href="#${postRoute(post)}">${post.layout==='category-ads'&&!postCover(post)?'':media(postCover(post),post.title+'の表紙',{className:'cover'})}<div class="feature-body"><div class="feature-meta"><span class="category-tag">${esc(post.category||'特集')}</span><span>${count}商品</span></div><p class="feature-number">投稿 #${esc(post.number)}</p><h3>${esc(post.title)}</h3><p>${esc(post.subtitle)}</p><span class="feature-cta">紹介商品を見る <span aria-hidden="true">→</span></span></div></a>`;
 }
 function filterButtons(categories,name){return ['すべて',...new Set(categories.filter(Boolean))].map((c,i)=>`<button type="button" data-${name}="${esc(c)}" aria-pressed="${i===0}">${esc(c)}</button>`).join('');}
 function home(){
@@ -52,10 +56,17 @@ function home(){
  for(const button of app.querySelectorAll('[data-post-category]'))button.addEventListener('click',()=>{postCategory=button.dataset.postCategory;app.querySelectorAll('[data-post-category]').forEach(b=>b.setAttribute('aria-pressed',b===button));updatePosts();});
  updatePosts();updateProducts();
 }
+function categoryAdPage(post,ordered){
+ const groups=(post.groups||[]).map(g=>({...g,items:(g.productIds||[]).map(id=>ordered.find(p=>p.id===id)).filter(Boolean)}));
+ app.innerHTML=`<a class="back" href="#/">← 投稿一覧に戻る</a><section class="intro grouped-intro"><p class="eyebrow">投稿 #${esc(post.number)} ／ ${esc(post.category)}</p><h1>${esc(post.title)}</h1><p>${esc(post.subtitle)}</p><p>${ordered.length}商品 · 広告・PR</p></section><div class="category-jumps" aria-label="カテゴリに移動">${groups.map(g=>`<button type="button" data-group="${esc(g.id)}">${esc(g.title)} <span>${g.items.length}点</span></button>`).join('')}</div><p class="post-guidance">楽天の画像付き広告を掲載しています。価格・在庫・仕様・選択できる種類は販売先でご確認ください。</p>${groups.map((g,i)=>`<section class="category-ad-group" id="group-${esc(g.id)}"><div class="section-head"><h2><span class="group-number">0${i+1}</span> ${esc(g.title)}</h2><span>${g.items.length}商品</span></div><div class="products grouped-ads">${g.items.length?g.items.map(adCard).join(''):'<p class="empty">商品は準備中です。</p>'}</div></section>`).join('')}<a class="back" href="#/">← ほかの投稿・商品を探す</a>`;
+ for(const button of app.querySelectorAll('[data-group]'))button.addEventListener('click',()=>{const section=document.getElementById('group-'+button.dataset.group);section?.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});});
+ animate();
+}
 function postPage(key){
  const post=availablePosts().find(p=>p.number===key||p.id===key);
  if(!post){app.innerHTML='<h1>特集が見つかりませんでした。</h1><a class="back" href="#/">← トップへ戻る</a>';return;}
  const ordered=orderedProducts(post);document.title=`#${post.number} ${post.title} | モノシルベ`;
+ if(post.layout==='category-ads'){categoryAdPage(post,ordered);return;}
  app.innerHTML=`<a class="back" href="#/">← 投稿一覧に戻る</a><section class="post-intro">${media(postCover(post),post.title+'の表紙',{className:'post-cover',eager:true})}<div><p class="eyebrow">投稿 #${esc(post.number)} ／ ${esc(post.category||'特集')}</p><h1>${esc(post.title)}</h1><p>${esc(post.subtitle)}</p><p class="post-count">${ordered.length}商品 · SNSで紹介した順に掲載</p><button class="share">この投稿のリンクをコピー ↗</button><p class="share-status" role="status"></p></div></section>${mediaUrl(post.videoUrl)?`<div class="video"><button class="video-poster" aria-label="動画を読み込んで再生">${media(postCover(post),'投稿動画の表紙')}<span>▶ 投稿の動画を見る</span></button></div>`:''}<div class="section-head"><h2>この投稿で紹介した商品</h2><span>${ordered.length}商品</span></div><p class="post-guidance">紹介文は各ブランドの公開情報に基づいています。画像はSNS紹介用のビジュアルです。</p><div class="products post-products">${ordered.length?ordered.map(card).join(''):'<p class="empty">商品は準備中です。</p>'}</div><a class="back" href="#/">← ほかの投稿・商品を探す</a>`;
  app.querySelector('.share').addEventListener('click',async()=>{try{await navigator.clipboard.writeText(location.href);app.querySelector('.share-status').textContent='リンクをコピーしました。';}catch{app.querySelector('.share-status').textContent=`このURLをコピーしてください：${location.href}`;}});
  app.querySelector('.video-poster')?.addEventListener('click',()=>{const v=document.createElement('video');v.controls=true;v.playsInline=true;v.autoplay=true;v.src=post.videoUrl;v.poster=postCover(post);app.querySelector('.video').replaceChildren(v);});animate();
@@ -68,7 +79,7 @@ app.addEventListener('error',e=>{if(e.target.tagName==='IMG'){const img=e.target
 function sizeAds(){
  for(const frame of app.querySelectorAll('.affiliate-frame iframe')){
   const box=frame.parentElement;
-  const scale=()=>{frame.style.transform=`scale(${box.clientWidth/880})`;};
+  const scale=()=>{frame.style.transform=`scale(${box.clientWidth/frame.width})`;};
   scale();
   if('ResizeObserver'in window&&!frame._resizeObserver){frame._resizeObserver=new ResizeObserver(scale);frame._resizeObserver.observe(box);}
  }

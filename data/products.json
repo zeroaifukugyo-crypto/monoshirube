@@ -1374,5 +1374,505 @@
       "checkedAt": "2026-11-15",
       "sourceUrl": "https://item.rakuten.co.jp/mtgec-beauty/1850320101/"
     }
+  },
+  {
+    "id": "jewel-thekiss-2026",
+    "name": "THE KISS シルバーネックレス 2026-02N-CZ",
+    "category": "ネックレス",
+    "description": "",
+    "status": "listed",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/fast-forward/2026-02n-cz/",
+      "specificationSourceName": "提供された楽天の商品広告",
+      "checkedAt": "2026-11-15"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598c43a6.d13eaad0.598c43a7.fc0bee55/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffast-forward%2F2026-02n-cz%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者が提供した楽天画像付き広告HTMLの画像・商品名・商品URLを照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/jewel-thekiss-2026.html",
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "jewel-open-heart-nine",
+    "name": "オープンハート ネックレス",
+    "category": "ネックレス",
+    "description": "",
+    "status": "listed",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/powerful55/ns129-tkm1218/",
+      "specificationSourceName": "提供された楽天の商品広告",
+      "checkedAt": "2026-11-15"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598c45f6.ef4a73c3.598c45f7.fef96269/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpowerful55%2Fns129-tkm1218%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者が提供した楽天画像付き広告HTMLの画像・商品名・商品URLを照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/jewel-open-heart-nine.html",
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "jewel-thekiss-spd270dm",
+    "name": "THE KISS シルバーネックレス SPD270DM",
+    "category": "ネックレス",
+    "description": "",
+    "status": "listed",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/hiraiart-gallery/spd270dm/",
+      "specificationSourceName": "提供された楽天の商品広告",
+      "checkedAt": "2026-11-15"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598c4837.5a36fe13.598c4838.3ef17ca1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiraiart-gallery%2Fspd270dm%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者が提供した楽天画像付き広告HTMLの画像・商品名・商品URLを照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/jewel-thekiss-spd270dm.html",
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "jewel-thekiss-spd7039cb",
+    "name": "THE KISS シルバーネックレス SPD7039CB",
+    "category": "ネックレス",
+    "description": "",
+    "status": "listed",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/hiraiart-gallery/spd7039cb/",
+      "specificationSourceName": "提供された楽天の商品広告",
+      "checkedAt": "2026-11-15"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598c4837.5a36fe13.598c4838.3ef17ca1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiraiart-gallery%2Fspd7039cb%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者が提供した楽天画像付き広告HTMLの画像・商品名・商品URLを照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/jewel-thekiss-spd7039cb.html",
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "jewel-sophia",
+    "name": "ソフィア ネックレス",
+    "category": "ネックレス",
+    "description": "",
+    "status": "listed",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/clementiadecor/n0076/",
+      "specificationSourceName": "提供された楽天の商品広告",
+      "checkedAt": "2026-11-15"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598c3314.b155c686.598c3316.6c73b67d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclementiadecor%2Fn0076%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者が提供した楽天画像付き広告HTMLの画像・商品名・商品URLを照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/jewel-sophia.html",
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "jewel-startfly-nk0029",
+    "name": "ネックレス NK0029",
+    "category": "ネックレス",
+    "description": "",
+    "status": "listed",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/startfly/nk0029/",
+      "specificationSourceName": "提供された楽天の商品広告",
+      "checkedAt": "2026-11-15"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598c50bc.fd73041b.598c50bd.5de2d8b2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstartfly%2Fnk0029%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIxMDB4MTAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者が提供した楽天画像付き広告HTMLの画像・商品名・商品URLを照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/jewel-startfly-nk0029.html",
+        "enabled": true,
+        "frameWidth": 560,
+        "frameHeight": 340
+      }
+    ]
+  },
+  {
+    "id": "jewel-fromparis-ap004",
+    "name": "一粒ピアス AP004-05C",
+    "category": "ピアス",
+    "description": "",
+    "status": "listed",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/fromparis/ap004-05c/",
+      "specificationSourceName": "提供された楽天の商品広告",
+      "checkedAt": "2026-11-15"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598c2d76.aee2e2e2.598c2d77.07c2947a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffromparis%2Fap004-05c%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者が提供した楽天画像付き広告HTMLの画像・商品名・商品URLを照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/jewel-fromparis-ap004.html",
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "jewel-candy",
+    "name": "キャンディ オープンハート ピアス・イヤリング",
+    "category": "ピアス",
+    "description": "",
+    "status": "listed",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/clementiadecor/h-e0021/",
+      "specificationSourceName": "提供された楽天の商品広告",
+      "checkedAt": "2026-11-15"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598c3314.b155c686.598c3316.6c73b67d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclementiadecor%2Fh-e0021%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者が提供した楽天画像付き広告HTMLの画像・商品名・商品URLを照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/jewel-candy.html",
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "jewel-leaf",
+    "name": "リーフ ピアス・イヤリング",
+    "category": "ピアス",
+    "description": "",
+    "status": "listed",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/clementiadecor/e0010/",
+      "specificationSourceName": "提供された楽天の商品広告",
+      "checkedAt": "2026-11-15"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598c3314.b155c686.598c3316.6c73b67d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclementiadecor%2Fe0010%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者が提供した楽天画像付き広告HTMLの画像・商品名・商品URLを照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/jewel-leaf.html",
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "jewel-angelin",
+    "name": "アンジェリン オープンハートピアス",
+    "category": "ピアス",
+    "description": "",
+    "status": "listed",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/clementiadecor/e0020/",
+      "specificationSourceName": "提供された楽天の商品広告",
+      "checkedAt": "2026-11-15"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598c3314.b155c686.598c3316.6c73b67d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclementiadecor%2Fe0020%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者が提供した楽天画像付き広告HTMLの画像・商品名・商品URLを照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/jewel-angelin.html",
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "jewel-karen",
+    "name": "カレン ピアス",
+    "category": "ピアス",
+    "description": "",
+    "status": "listed",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/clementiadecor/e0026/",
+      "specificationSourceName": "提供された楽天の商品広告",
+      "checkedAt": "2026-11-15"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598c3314.b155c686.598c3316.6c73b67d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclementiadecor%2Fe0026%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者が提供した楽天画像付き広告HTMLの画像・商品名・商品URLを照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/jewel-karen.html",
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "jewel-twist",
+    "name": "ツイストピアス",
+    "category": "ピアス",
+    "description": "",
+    "status": "listed",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/clementiadecor/h-e0011/",
+      "specificationSourceName": "提供された楽天の商品広告",
+      "checkedAt": "2026-11-15"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598c3314.b155c686.598c3316.6c73b67d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fclementiadecor%2Fh-e0011%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者が提供した楽天画像付き広告HTMLの画像・商品名・商品URLを照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/jewel-twist.html",
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "jewel-fromny-b024",
+    "name": "フラワー チェーンブレスレット B024",
+    "category": "ブレスレット",
+    "description": "",
+    "status": "listed",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/fromny/b024/",
+      "specificationSourceName": "提供された楽天の商品広告",
+      "checkedAt": "2026-11-15"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598c5ae7.d2e19b6d.598c5ae8.92cd5476/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffromny%2Fb024%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者が提供した楽天画像付き広告HTMLの画像・商品名・商品URLを照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/jewel-fromny-b024.html",
+        "enabled": true,
+        "frameWidth": 560,
+        "frameHeight": 340
+      }
+    ]
+  },
+  {
+    "id": "jewel-silverkyasya-bs197",
+    "name": "シルバー925 マンテルブレスレット BS197",
+    "category": "ブレスレット",
+    "description": "",
+    "status": "listed",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/silverkyasya/bs197/",
+      "specificationSourceName": "提供された楽天の商品広告",
+      "checkedAt": "2026-11-15"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598c603f.1cc93f3c.598c6040.5fab35d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsilverkyasya%2Fbs197%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者が提供した楽天画像付き広告HTMLの画像・商品名・商品URLを照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/jewel-silverkyasya-bs197.html",
+        "enabled": true,
+        "frameWidth": 560,
+        "frameHeight": 340
+      }
+    ]
+  },
+  {
+    "id": "jewel-loseford-b34",
+    "name": "LOSE FORD アンカーチェーンブレスレット B34",
+    "category": "ブレスレット",
+    "description": "",
+    "status": "listed",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/loseford/073c/",
+      "specificationSourceName": "提供された楽天の商品広告",
+      "checkedAt": "2026-11-15"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598c62f4.d5853859.598c62f5.69a8e8ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Floseford%2F073c%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者が提供した楽天画像付き広告HTMLの画像・商品名・商品URLを照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/jewel-loseford-b34.html",
+        "enabled": true,
+        "frameWidth": 560,
+        "frameHeight": 340
+      }
+    ]
+  },
+  {
+    "id": "jewel-loseford-b63",
+    "name": "LOSE FORD チェーンブレスレット B63",
+    "category": "ブレスレット",
+    "description": "",
+    "status": "listed",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/loseford/96155479/",
+      "specificationSourceName": "提供された楽天の商品広告",
+      "checkedAt": "2026-11-15"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598c62f4.d5853859.598c62f5.69a8e8ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Floseford%2F96155479%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者が提供した楽天画像付き広告HTMLの画像・商品名・商品URLを照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/jewel-loseford-b63.html",
+        "enabled": true,
+        "frameWidth": 560,
+        "frameHeight": 340
+      }
+    ]
+  },
+  {
+    "id": "jewel-loseford-b50",
+    "name": "LOSE FORD ホースシューブレスレット B50",
+    "category": "ブレスレット",
+    "description": "",
+    "status": "listed",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/loseford/10111/",
+      "specificationSourceName": "提供された楽天の商品広告",
+      "checkedAt": "2026-11-15"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598c62f4.d5853859.598c62f5.69a8e8ea/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Floseford%2F10111%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者が提供した楽天画像付き広告HTMLの画像・商品名・商品URLを照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/jewel-loseford-b50.html",
+        "enabled": true,
+        "frameWidth": 560,
+        "frameHeight": 340
+      }
+    ]
+  },
+  {
+    "id": "jewel-furla-heart",
+    "name": "FURLA ハート チェーンブレスレット",
+    "category": "ブレスレット",
+    "description": "",
+    "status": "listed",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/capsule/item-25063001/",
+      "specificationSourceName": "提供された楽天の商品広告",
+      "checkedAt": "2026-11-15"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598c6b41.47307c60.598c6b42.7fd430d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcapsule%2Fitem-25063001%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者が提供した楽天画像付き広告HTMLの画像・商品名・商品URLを照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/jewel-furla-heart.html",
+        "enabled": true,
+        "frameWidth": 560,
+        "frameHeight": 340
+      }
+    ]
   }
 ]

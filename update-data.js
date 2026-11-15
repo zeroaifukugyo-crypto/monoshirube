@@ -2,6 +2,12 @@ export const isHttps = value => {try{return new URL(value).protocol==='https:';}
 export function validateProducts(data){if(!Array.isArray(data)||data.some(p=>!p||typeof p.id!=='string'||!Array.isArray(p.merchants))||new Set(data.map(p=>p.id)).size!==data.length)throw Error('products.jsonの商品IDや形式を確認してください。');}
 export function validatePosts(data){
  if(!Array.isArray(data)||data.some(p=>!p||!/^\d{2}$/.test(p.number)||!Array.isArray(p.productIds)||new Set(p.productIds).size!==p.productIds.length||(p.displayOrder!=null&&!Number.isFinite(p.displayOrder))||(p.publishedAt&&!Number.isFinite(Date.parse(p.publishedAt))))||new Set(data.map(p=>p.number)).size!==data.length)throw Error('posts.jsonの番号・商品ID・日時・表示順を確認してください。');
+ for(const post of data.filter(p=>p.layout==='category-ads')){
+  const groups=post.groups;
+  if(!Array.isArray(groups)||groups.some(g=>!g||!/^[-a-z0-9]+$/.test(g.id)||!g.title||!Array.isArray(g.productIds))||new Set(groups.map(g=>g.id)).size!==groups.length)throw Error('カテゴリ別特集のgroupsを確認してください。');
+  const ordered=groups.flatMap(g=>g.productIds);
+  if(JSON.stringify(ordered)!==JSON.stringify(post.productIds))throw Error('カテゴリの商品順と特集の商品順を一致させてください。');
+ }
  const ids=data.map(p=>p.id).filter(Boolean);if(new Set(ids).size!==ids.length)throw Error('投稿IDが重複しています。');
 }
 const list = value => String(value||'').split(',').map(s=>s.trim()).filter(Boolean);
