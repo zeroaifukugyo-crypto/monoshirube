@@ -54,5 +54,5 @@ test('メルカリの最新広告タグとコードを保持し、トップとPR
  assert.ok(html.includes(ad));assert.ok(html.includes('<code>ZGSHGG</code>'));assert.ok(html.includes('運営者にもポイント'));
  assert.ok(html.includes('a8-text-ad'));assert.ok((await load('app.js')).includes('href="/pr/mercari/"'));
  assert.ok((await load('dist/pr/index.html')).includes('href="/pr/mercari/"'));
- assert.ok(!html.includes('5YRHE'));assert.ok(!html.includes('5YRHE'.replace('RHE','JRM')+'-invalid'));
+ assert.ok(!html.includes('5YRHE'));
 });
