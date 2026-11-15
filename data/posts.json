@@ -193,12 +193,12 @@
       "jewel-karen",
       "jewel-twist",
       "jewel-fromparis-ap004",
-      "jewel-fromny-b024",
       "jewel-silverkyasya-bs197",
-      "jewel-loseford-b34",
       "jewel-loseford-b63",
-      "jewel-loseford-b50",
-      "jewel-furla-heart"
+      "jewel-furla-heart",
+      "jewel-loseford-b34",
+      "jewel-fromny-b024",
+      "jewel-loseford-b50"
     ],
     "videoUrl": "",
     "layout": "category-ads",
@@ -235,13 +235,15 @@
         "id": "bracelets",
         "title": "ブレスレット",
         "productIds": [
-          "jewel-fromny-b024",
           "jewel-silverkyasya-bs197",
-          "jewel-loseford-b34",
           "jewel-loseford-b63",
-          "jewel-loseford-b50",
-          "jewel-furla-heart"
-        ]
+          "jewel-furla-heart",
+          "jewel-loseford-b34",
+          "jewel-fromny-b024",
+          "jewel-loseford-b50"
+        ],
+        "collage": "assets/creative/accessories-07/bracelets-6.png",
+        "sortOrder": "price-ascending"
       }
     ],
     "creativeAssets": {

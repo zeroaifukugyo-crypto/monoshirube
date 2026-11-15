@@ -1789,7 +1789,12 @@
         "frameWidth": 560,
         "frameHeight": 340
       }
-    ]
+    ],
+    "selectionNumber": 5,
+    "price": 14220,
+    "priceFrom": false,
+    "priceBasis": "利用者提供の楽天アフィリエイト画面の表示額",
+    "priceTaxLabel": "税込"
   },
   {
     "id": "jewel-silverkyasya-bs197",
@@ -1818,7 +1823,12 @@
         "frameWidth": 560,
         "frameHeight": 340
       }
-    ]
+    ],
+    "selectionNumber": 1,
+    "price": 8470,
+    "priceFrom": false,
+    "priceBasis": "利用者提供の楽天アフィリエイト画面の表示額",
+    "priceTaxLabel": "税込"
   },
   {
     "id": "jewel-loseford-b34",
@@ -1847,7 +1857,12 @@
         "frameWidth": 560,
         "frameHeight": 340
       }
-    ]
+    ],
+    "selectionNumber": 4,
+    "price": 10880,
+    "priceFrom": false,
+    "priceBasis": "利用者提供の楽天アフィリエイト画面の表示額",
+    "priceTaxLabel": "税込"
   },
   {
     "id": "jewel-loseford-b63",
@@ -1876,7 +1891,12 @@
         "frameWidth": 560,
         "frameHeight": 340
       }
-    ]
+    ],
+    "selectionNumber": 2,
+    "price": 8580,
+    "priceFrom": false,
+    "priceBasis": "利用者提供の楽天アフィリエイト画面の表示額",
+    "priceTaxLabel": "税込"
   },
   {
     "id": "jewel-loseford-b50",
@@ -1905,7 +1925,12 @@
         "frameWidth": 560,
         "frameHeight": 340
       }
-    ]
+    ],
+    "selectionNumber": 6,
+    "price": 14980,
+    "priceFrom": false,
+    "priceBasis": "利用者提供の楽天アフィリエイト画面の表示額",
+    "priceTaxLabel": "税込"
   },
   {
     "id": "jewel-furla-heart",
@@ -1934,6 +1959,11 @@
         "frameWidth": 560,
         "frameHeight": 340
       }
-    ]
+    ],
+    "selectionNumber": 3,
+    "price": 9680,
+    "priceFrom": true,
+    "priceBasis": "利用者提供の楽天アフィリエイト画面の表示額",
+    "priceTaxLabel": "税込"
   }
 ]
