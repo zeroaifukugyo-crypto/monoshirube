@@ -177,8 +177,8 @@
     "title": "彼女に贈る アクセサリーギフト18選",
     "subtitle": "ネックレス・ピアス・ブレスレットを、カテゴリごとにまとめてチェック。",
     "category": "アクセサリー",
-    "cover": "",
-    "snsImage": "",
+    "cover": "assets/creative/accessories-07/cover.jpg",
+    "snsImage": "assets/creative/accessories-07/cover.jpg",
     "coverFit": "contain",
     "productIds": [
       "jewel-startfly-nk0029",
@@ -243,6 +243,11 @@
           "jewel-furla-heart"
         ]
       }
-    ]
+    ],
+    "creativeAssets": {
+      "cover": "assets/creative/accessories-07/cover.jpg",
+      "origin": "user-supplied-social-artwork",
+      "notes": "利用者提供のアクセサリーギフト18選の完成表紙を無加工で掲載。"
+    }
   }
 ]
