@@ -45,3 +45,17 @@ test('レディースは#02、6商品を画像順に掲載し、重複と別商�
 });
 
 test('カテゴリ別特集は可変件数に対応し、カテゴリの欠落・重複・順序ずれを拒否',()=>{const post={number:'07',layout:'category-ads',productIds:['a','b','c'],groups:[{id:'first',title:'カテゴリ1',productIds:['a']},{id:'second',title:'カテゴリ2',productIds:['b','c']}]};assert.doesNotThrow(()=>validatePosts([post]));assert.throws(()=>validatePosts([{...post,groups:[{id:'first',title:'カテゴリ1',productIds:['a','b']}]}]),/商品順/);assert.throws(()=>validatePosts([{...post,groups:[...post.groups,{id:'first',title:'重複',productIds:[]}]}]),/groups/);assert.throws(()=>validatePosts([{...post,groups:[{id:'first',title:'カテゴリ1',productIds:['b','a','c']}]}]),/商品順/);});
+
+test('投稿07のネックレス・ピアスはまとめ画像の番号と価格順が一致し、12広告を保持',async()=>{
+ const load=async path=>JSON.parse(await readFile(new URL('../'+path,import.meta.url)));
+ const posts=await load('data/posts.json'),products=await load('data/products.json');
+ const post=posts.find(p=>p.number==='07');assert.equal(post.groups.length,3);assert.equal(post.productIds.length,18);
+ for(const [groupId,prices] of [['necklaces',[7980,9900,12100,12100,13525,14300]],['earrings',[6600,6600,6600,8250,8250,14800]]]){
+  const group=post.groups.find(g=>g.id===groupId),items=group.productIds.map(id=>products.find(p=>p.id===id));
+  assert.deepEqual(items.map(p=>p.price),prices);assert.deepEqual(items.map(p=>p.selectionNumber),[1,2,3,4,5,6]);
+  assert.ok((await readFile(new URL('../'+group.collage,import.meta.url))).length>1000);
+  for(const p of items){const m=links(p)[0];assert.equal(m.renderMode,'provided-html');const html=await readFile(new URL('../'+m.htmlPath,import.meta.url),'utf8');assert.ok(html.includes(`href="${m.affiliateUrl}"`));}
+ }
+ assert.deepEqual(post.productIds,post.groups.flatMap(g=>g.productIds));
+ const missing=products.find(p=>p.id==='jewel-startfly-nk0029');assert.ok((await readFile(new URL('../'+missing.supplementalImage,import.meta.url))).length>1000);
+});

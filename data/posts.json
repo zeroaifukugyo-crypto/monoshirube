@@ -181,18 +181,18 @@
     "snsImage": "",
     "coverFit": "contain",
     "productIds": [
-      "jewel-thekiss-2026",
-      "jewel-open-heart-nine",
-      "jewel-thekiss-spd270dm",
-      "jewel-thekiss-spd7039cb",
-      "jewel-sophia",
       "jewel-startfly-nk0029",
-      "jewel-fromparis-ap004",
+      "jewel-thekiss-spd7039cb",
+      "jewel-thekiss-spd270dm",
+      "jewel-sophia",
+      "jewel-open-heart-nine",
+      "jewel-thekiss-2026",
       "jewel-candy",
       "jewel-leaf",
       "jewel-angelin",
       "jewel-karen",
       "jewel-twist",
+      "jewel-fromparis-ap004",
       "jewel-fromny-b024",
       "jewel-silverkyasya-bs197",
       "jewel-loseford-b34",
@@ -207,25 +207,29 @@
         "id": "necklaces",
         "title": "ネックレス",
         "productIds": [
-          "jewel-thekiss-2026",
-          "jewel-open-heart-nine",
-          "jewel-thekiss-spd270dm",
+          "jewel-startfly-nk0029",
           "jewel-thekiss-spd7039cb",
+          "jewel-thekiss-spd270dm",
           "jewel-sophia",
-          "jewel-startfly-nk0029"
-        ]
+          "jewel-open-heart-nine",
+          "jewel-thekiss-2026"
+        ],
+        "collage": "assets/creative/accessories-07/necklaces-6.png",
+        "sortOrder": "price-ascending"
       },
       {
         "id": "earrings",
         "title": "ピアス",
         "productIds": [
-          "jewel-fromparis-ap004",
           "jewel-candy",
           "jewel-leaf",
           "jewel-angelin",
           "jewel-karen",
-          "jewel-twist"
-        ]
+          "jewel-twist",
+          "jewel-fromparis-ap004"
+        ],
+        "collage": "assets/creative/accessories-07/earrings-6.png",
+        "sortOrder": "price-ascending"
       },
       {
         "id": "bracelets",

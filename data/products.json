@@ -1400,7 +1400,12 @@
         "htmlPath": "affiliate/jewel-thekiss-2026.html",
         "enabled": true
       }
-    ]
+    ],
+    "selectionNumber": 6,
+    "price": 14300,
+    "priceFrom": false,
+    "priceBasis": "利用者提供の楽天アフィリエイト画面の表示額",
+    "priceTaxLabel": "税込"
   },
   {
     "id": "jewel-open-heart-nine",
@@ -1427,7 +1432,12 @@
         "htmlPath": "affiliate/jewel-open-heart-nine.html",
         "enabled": true
       }
-    ]
+    ],
+    "selectionNumber": 5,
+    "price": 13525,
+    "priceFrom": false,
+    "priceBasis": "利用者提供の楽天アフィリエイト画面の表示額",
+    "priceTaxLabel": "税込"
   },
   {
     "id": "jewel-thekiss-spd270dm",
@@ -1454,7 +1464,12 @@
         "htmlPath": "affiliate/jewel-thekiss-spd270dm.html",
         "enabled": true
       }
-    ]
+    ],
+    "selectionNumber": 3,
+    "price": 12100,
+    "priceFrom": false,
+    "priceBasis": "利用者提供の楽天アフィリエイト画面の表示額",
+    "priceTaxLabel": "税込"
   },
   {
     "id": "jewel-thekiss-spd7039cb",
@@ -1481,7 +1496,12 @@
         "htmlPath": "affiliate/jewel-thekiss-spd7039cb.html",
         "enabled": true
       }
-    ]
+    ],
+    "selectionNumber": 2,
+    "price": 9900,
+    "priceFrom": false,
+    "priceBasis": "利用者提供の楽天アフィリエイト画面の表示額",
+    "priceTaxLabel": "税込"
   },
   {
     "id": "jewel-sophia",
@@ -1508,7 +1528,12 @@
         "htmlPath": "affiliate/jewel-sophia.html",
         "enabled": true
       }
-    ]
+    ],
+    "selectionNumber": 4,
+    "price": 12100,
+    "priceFrom": true,
+    "priceBasis": "利用者提供の楽天アフィリエイト画面の表示額",
+    "priceTaxLabel": "税込"
   },
   {
     "id": "jewel-startfly-nk0029",
@@ -1537,7 +1562,13 @@
         "frameWidth": 560,
         "frameHeight": 340
       }
-    ]
+    ],
+    "selectionNumber": 1,
+    "price": 7980,
+    "priceFrom": false,
+    "priceBasis": "利用者提供の楽天アフィリエイト画面の表示額",
+    "priceTaxLabel": "税込",
+    "supplementalImage": "assets/creative/accessories-07/nk0029-reference.jpg"
   },
   {
     "id": "jewel-fromparis-ap004",
@@ -1564,7 +1595,12 @@
         "htmlPath": "affiliate/jewel-fromparis-ap004.html",
         "enabled": true
       }
-    ]
+    ],
+    "selectionNumber": 6,
+    "price": 14800,
+    "priceFrom": true,
+    "priceBasis": "利用者提供の楽天アフィリエイト画面の表示額",
+    "priceTaxLabel": "税込"
   },
   {
     "id": "jewel-candy",
@@ -1591,7 +1627,12 @@
         "htmlPath": "affiliate/jewel-candy.html",
         "enabled": true
       }
-    ]
+    ],
+    "selectionNumber": 1,
+    "price": 6600,
+    "priceFrom": true,
+    "priceBasis": "利用者提供の楽天アフィリエイト画面の表示額",
+    "priceTaxLabel": "税込"
   },
   {
     "id": "jewel-leaf",
@@ -1618,7 +1659,12 @@
         "htmlPath": "affiliate/jewel-leaf.html",
         "enabled": true
       }
-    ]
+    ],
+    "selectionNumber": 2,
+    "price": 6600,
+    "priceFrom": true,
+    "priceBasis": "利用者提供の楽天アフィリエイト画面の表示額",
+    "priceTaxLabel": "税込"
   },
   {
     "id": "jewel-angelin",
@@ -1645,7 +1691,12 @@
         "htmlPath": "affiliate/jewel-angelin.html",
         "enabled": true
       }
-    ]
+    ],
+    "selectionNumber": 3,
+    "price": 6600,
+    "priceFrom": true,
+    "priceBasis": "利用者提供の楽天アフィリエイト画面の表示額",
+    "priceTaxLabel": "税込"
   },
   {
     "id": "jewel-karen",
@@ -1672,7 +1723,12 @@
         "htmlPath": "affiliate/jewel-karen.html",
         "enabled": true
       }
-    ]
+    ],
+    "selectionNumber": 4,
+    "price": 8250,
+    "priceFrom": true,
+    "priceBasis": "利用者提供の楽天アフィリエイト画面の表示額",
+    "priceTaxLabel": "税込"
   },
   {
     "id": "jewel-twist",
@@ -1699,7 +1755,12 @@
         "htmlPath": "affiliate/jewel-twist.html",
         "enabled": true
       }
-    ]
+    ],
+    "selectionNumber": 5,
+    "price": 8250,
+    "priceFrom": true,
+    "priceBasis": "利用者提供の楽天アフィリエイト画面の表示額",
+    "priceTaxLabel": "税込"
   },
   {
     "id": "jewel-fromny-b024",
