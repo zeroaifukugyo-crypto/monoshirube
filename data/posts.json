@@ -277,5 +277,84 @@
       "origin": "user-supplied-social-artwork",
       "notes": "利用者の依頼に基づき制作した商品紹介用AIイメージ。実物写真・使用体験ではありません。価格は提供スクショ表示額。"
     }
+  },
+  {
+    "id": "winter-warm-items-9",
+    "number": "09",
+    "publishedAt": null,
+    "displayOrder": 190,
+    "status": "published",
+    "isPublic": true,
+    "title": "冬のおうち時間をもっと快適に。冬のあったかアイテム9選",
+    "subtitle": "足元あったかグッズ・着る毛布・湯たんぽを3点ずつ。カテゴリ別にまとめてチェック。",
+    "category": "冬のあったかグッズ",
+    "cover": "assets/creative/winter-09/cover.png",
+    "snsImage": "assets/creative/winter-09/cover.png",
+    "coverFit": "contain",
+    "productIds": [
+      "winter-01-panel-heater",
+      "winter-02-foot-heater",
+      "winter-03-foot-blanket",
+      "winter-04-usb-blanket",
+      "winter-05-kotanpo",
+      "winter-06-darakatsu",
+      "winter-07-mofca-cat",
+      "winter-08-mofca",
+      "winter-09-smore"
+    ],
+    "videoUrl": "",
+    "layout": "category-ads",
+    "showCover": true,
+    "groups": [
+      {
+        "id": "feet",
+        "title": "足元あったかグッズ",
+        "productIds": [
+          "winter-01-panel-heater",
+          "winter-02-foot-heater",
+          "winter-03-foot-blanket"
+        ],
+        "collage": "assets/creative/winter-09/01-feet.png",
+        "collageWidth": 1024,
+        "collageHeight": 1280,
+        "sortOrder": "provided-order",
+        "caption": "紹介用ビジュアル（演出を含みます）。画像の①〜③と下の広告番号が対応しています。価格は2026年11月16日の掲載額で、最新情報は販売先でご確認ください。"
+      },
+      {
+        "id": "blankets",
+        "title": "着る毛布・ブランケット",
+        "productIds": [
+          "winter-04-usb-blanket",
+          "winter-05-kotanpo",
+          "winter-06-darakatsu"
+        ],
+        "collage": "assets/creative/winter-09/02-blankets.png",
+        "collageWidth": 1024,
+        "collageHeight": 1280,
+        "sortOrder": "provided-order",
+        "caption": "紹介用ビジュアル（演出を含みます）。画像の①〜③と下の広告番号が対応しています。価格は2026年11月16日の掲載額で、最新情報は販売先でご確認ください。"
+      },
+      {
+        "id": "hotwater",
+        "title": "湯たんぽ",
+        "productIds": [
+          "winter-07-mofca-cat",
+          "winter-08-mofca",
+          "winter-09-smore"
+        ],
+        "collage": "assets/creative/winter-09/03-hotwater.png",
+        "collageWidth": 1024,
+        "collageHeight": 1280,
+        "sortOrder": "provided-order",
+        "caption": "紹介用ビジュアル（演出を含みます）。画像の①〜③と下の広告番号が対応しています。価格は2026年11月16日の掲載額で、最新情報は販売先でご確認ください。"
+      }
+    ],
+    "creativeAssets": {
+      "cover": "assets/creative/winter-09/cover.png",
+      "origin": "user-supplied-social-artwork",
+      "instagramEnding": "assets/creative/winter-09/instagram-ending.png",
+      "tiktokEnding": "assets/creative/winter-09/tiktok-ending.png",
+      "notes": "利用者の依頼に基づいて実際の商品画像を参照して制作した演出ビジュアル。末尾画像の投稿番号09・プロフィールURL・実QRは別途照合。"
+    }
   }
 ]

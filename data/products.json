@@ -2180,5 +2180,365 @@
         "enabled": true
       }
     ]
+  },
+  {
+    "id": "winter-01-panel-heater",
+    "name": "遠赤外線パネルヒーター OPH-01",
+    "category": "足元あったかグッズ",
+    "brand": "",
+    "description": "デスク下の足元を囲む、毛布付きの折りたたみ式パネルヒーター。",
+    "check": "最新価格・在庫・サイズ・電源・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 1,
+    "price": 4680,
+    "priceBasis": "2026-11-16に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/winter-09/01-feet.png",
+      "alt": "足元あったかグッズ3選の紹介用イメージ",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/lalastation/oph-01/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-16"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5999de15.bd869cce.5999de16.911931ce/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flalastation%2Foph-01%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者提供広告の店舗・商品ID・商品画像・URLを照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/winter-01-panel-heater.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "winter-02-foot-heater",
+    "name": "ホットマルチヒーター NA-23MH",
+    "category": "足元あったかグッズ",
+    "brand": "椙山紡織",
+    "description": "足元に敷いて使える、日本製の足温器。",
+    "check": "最新価格・在庫・サイズ・電源・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 2,
+    "price": 4580,
+    "priceBasis": "2026-11-16に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/winter-09/01-feet.png",
+      "alt": "足元あったかグッズ3選の紹介用イメージ",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/dantotsu-online/880007/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-16"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5999c8d4.53976314.5999c8d5.94d48032/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdantotsu-online%2F880007%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者提供広告の店舗・商品ID・商品画像・URLを照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/winter-02-foot-heater.html",
+        "frameWidth": 560,
+        "frameHeight": 340,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "winter-03-foot-blanket",
+    "name": "足入れ電気毛布",
+    "category": "足元あったかグッズ",
+    "brand": "",
+    "description": "肩まで包める、タイマー付きの足入れ電気毛布。",
+    "check": "最新価格・在庫・サイズ・電源・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 3,
+    "price": 9980,
+    "priceBasis": "2026-11-16に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/winter-09/01-feet.png",
+      "alt": "足元あったかグッズ3選の紹介用イメージ",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/jmei/foot_warmer-12/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-16"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5999cdf1.92688ff8.5999cdf2.ea721f28/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjmei%2Ffoot_warmer-12%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者提供広告の店舗・商品ID・商品画像・URLを照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/winter-03-foot-blanket.html",
+        "frameWidth": 560,
+        "frameHeight": 340,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "winter-04-usb-blanket",
+    "name": "USB電熱ブランケット",
+    "category": "着る毛布・ブランケット",
+    "brand": "",
+    "description": "ひざ掛け・肩掛けに使えるUSB給電の電熱ブランケット。",
+    "check": "最新価格・在庫・サイズ・電源・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 1,
+    "price": 6280,
+    "priceBasis": "2026-11-16に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/winter-09/02-blankets.png",
+      "alt": "着る毛布・ブランケット3選の紹介用イメージ",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/nagifukushop/78jrd01a/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-16"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5999d24f.6cb2f282.5999d250.102ee1e8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnagifukushop%2F78jrd01a%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者提供広告の店舗・商品ID・商品画像・URLを照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/winter-04-usb-blanket.html",
+        "frameWidth": 560,
+        "frameHeight": 340,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "winter-05-kotanpo",
+    "name": "着るこたつ こたんぽ KTTK23CBW",
+    "category": "着る毛布・ブランケット",
+    "brand": "THANKO",
+    "description": "つま先まで包む、キルティング仕様の着るこたつ。",
+    "check": "最新価格・在庫・サイズ・電源・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 2,
+    "price": 5290,
+    "priceBasis": "2026-11-16に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/winter-09/02-blankets.png",
+      "alt": "着る毛布・ブランケット3選の紹介用イメージ",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/lifewith-007/62374/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-16"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5999d484.6a887b2c.5999d485.74863155/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flifewith-007%2F62374%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者提供広告の店舗・商品ID・商品画像・URLを照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/winter-05-kotanpo.html",
+        "frameWidth": 560,
+        "frameHeight": 340,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "winter-06-darakatsu",
+    "name": "腕だし電気毛布 だら活毛布 UDDS24H-JU",
+    "category": "着る毛布・ブランケット",
+    "brand": "THANKO",
+    "description": "腕を出してくつろぎながら使える電気毛布。",
+    "check": "最新価格・在庫・サイズ・電源・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 3,
+    "price": 4480,
+    "priceBasis": "2026-11-16に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/winter-09/02-blankets.png",
+      "alt": "着る毛布・ブランケット3選の紹介用イメージ",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/aruyan/4580060598625/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-16"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5999d642.adeae44e.5999d643.ebfc1b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faruyan%2F4580060598625%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者提供広告の店舗・商品ID・商品画像・URLを照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/winter-06-darakatsu.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "winter-07-mofca-cat",
+    "name": "mofca モフカ ネコ QS431NK",
+    "category": "湯たんぽ",
+    "brand": "QUADS",
+    "description": "ネコのカバー付き、蓄熱式湯たんぽ。",
+    "check": "最新価格・在庫・サイズ・電源・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 1,
+    "price": 2728,
+    "priceBasis": "2026-11-16に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/winter-09/03-hotwater.png",
+      "alt": "湯たんぽ3選の紹介用イメージ",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/ksdenki/4580726872526/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-16"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5999d91a.df72c89a.5999d91b.abcd8033/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fksdenki%2F4580726872526%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者提供広告の店舗・商品ID・商品画像・URLを照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/winter-07-mofca-cat.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "winter-08-mofca",
+    "name": "mofca モフカ アニマルカバー付き",
+    "category": "湯たんぽ",
+    "brand": "QUADS",
+    "description": "カバーを洗って繰り返し使える蓄熱式湯たんぽ。紹介画像はウサギです。",
+    "check": "最新価格・在庫・サイズ・電源・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 2,
+    "price": 4378,
+    "priceBasis": "2026-11-16に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/winter-09/03-hotwater.png",
+      "alt": "湯たんぽ3選の紹介用イメージ",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/mecu/qs331/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-16"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5992e7ec.ebce8269.5992e7ed.842dd601/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmecu%2Fqs331%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者提供広告の店舗・商品ID・商品画像・URLを照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/winter-08-mofca.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "winter-09-smore",
+    "name": "smore スモア QS552",
+    "category": "湯たんぽ",
+    "brand": "QUADS",
+    "description": "マイクロビーズ入りのクッション型蓄熱式湯たんぽ。",
+    "check": "最新価格・在庫・サイズ・電源・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 3,
+    "price": 4480,
+    "priceBasis": "2026-11-16に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/winter-09/03-hotwater.png",
+      "alt": "湯たんぽ3選の紹介用イメージ",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/quads/qs552/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-16"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5999dcbd.d208e6e7.5999dcbe.1f1226bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fquads%2Fqs552%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者提供広告の店舗・商品ID・商品画像・URLを照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/winter-09-smore.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   }
 ]
