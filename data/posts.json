@@ -251,5 +251,31 @@
       "origin": "user-supplied-social-artwork",
       "notes": "利用者提供のアクセサリーギフト18選の完成表紙を無加工で掲載。"
     }
+  },
+  {
+    "id": "neon-light-5",
+    "number": "08",
+    "publishedAt": null,
+    "displayOrder": 180,
+    "status": "published",
+    "isPublic": true,
+    "title": "部屋がちょっと、おしゃれになる。ネオンライト5選",
+    "subtitle": "光を楽しむインテリア。SNSで紹介した5つのライトをチェック。",
+    "category": "照明・インテリア",
+    "cover": "assets/creative/neon-2026/cover.png",
+    "snsImage": "assets/creative/neon-2026/cover.png",
+    "coverFit": "contain",
+    "productIds": [
+      "neon-billiards",
+      "neon-lemon",
+      "neon-chill",
+      "neon-unicorn",
+      "neon-neony"
+    ],
+    "videoUrl": "",
+    "creativeAssets": {
+      "origin": "user-supplied-social-artwork",
+      "notes": "利用者の依頼に基づき制作した商品紹介用AIイメージ。実物写真・使用体験ではありません。価格は提供スクショ表示額。"
+    }
   }
 ]

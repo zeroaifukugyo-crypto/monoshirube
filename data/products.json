@@ -1965,5 +1965,220 @@
     "priceFrom": true,
     "priceBasis": "利用者提供の楽天アフィリエイト画面の表示額",
     "priceTaxLabel": "税込"
+  },
+  {
+    "id": "neon-billiards",
+    "name": "ビリヤード ネオンサイン",
+    "category": "照明・インテリア",
+    "brand": "",
+    "description": "USB給電・調光対応のLEDサイン。",
+    "check": "サイズ・設置方法・電源・付属品を販売先でご確認ください。画像の価格は提供スクショの表示額で、現在価格とは異なる場合があります。",
+    "status": "published",
+    "enabled": true,
+    "presentation": {
+      "src": "assets/creative/neon-2026/01-billiards.png",
+      "alt": "ビリヤード ネオンサインのSNS紹介画像（商品イメージ・配置は演出）",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/shop-nihonshukai/jsxx-604/",
+      "specificationSourceName": "提供された楽天の商品広告・スクリーンショット",
+      "checkedAt": "2026-11-16"
+    },
+    "referencePrice": {
+      "amount": 6137,
+      "fromPrice": false,
+      "currency": "JPY",
+      "basis": "提供されたスクリーンショットの表示額",
+      "currentPriceVerified": false
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5992db06.f2b919fb.5992db07.eda3cb72/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshop-nihonshukai%2Fjsxx-604%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者提供の広告HTMLの画像・商品名・URLと紹介画像を照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/neon-billiards.html",
+        "frameWidth": 560,
+        "frameHeight": 340,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "neon-lemon",
+    "name": "レモン ネオンサイン",
+    "category": "照明・インテリア",
+    "brand": "",
+    "description": "USB給電のレモン形LEDサイン。壁掛け・吊り下げに対応。",
+    "check": "サイズ・設置方法・電源・付属品を販売先でご確認ください。画像の価格は提供スクショの表示額で、現在価格とは異なる場合があります。",
+    "status": "published",
+    "enabled": true,
+    "presentation": {
+      "src": "assets/creative/neon-2026/02-lemon.png",
+      "alt": "レモン ネオンサインのSNS紹介画像（商品イメージ・配置は演出）",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/shop-iifoods/jsxx-lq-529/",
+      "specificationSourceName": "提供された楽天の商品広告・スクリーンショット",
+      "checkedAt": "2026-11-16"
+    },
+    "referencePrice": {
+      "amount": 6190,
+      "fromPrice": false,
+      "currency": "JPY",
+      "basis": "提供されたスクリーンショットの表示額",
+      "currentPriceVerified": false
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5992dfb7.7033b123.5992dfb8.c82ee7e0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshop-iifoods%2Fjsxx-lq-529%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者提供の広告HTMLの画像・商品名・URLと紹介画像を照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/neon-lemon.html",
+        "frameWidth": 560,
+        "frameHeight": 340,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "neon-chill",
+    "name": "Chill ネオンサイン",
+    "category": "照明・インテリア",
+    "brand": "",
+    "description": "USB給電・調光対応の、Chillの文字をかたどったLEDサイン。",
+    "check": "サイズ・設置方法・電源・付属品を販売先でご確認ください。画像の価格は提供スクショの表示額で、現在価格とは異なる場合があります。",
+    "status": "published",
+    "enabled": true,
+    "presentation": {
+      "src": "assets/creative/neon-2026/03-chill.png",
+      "alt": "Chill ネオンサインのSNS紹介画像（商品イメージ・配置は演出）",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/shop-iifoods/jsxx-753/",
+      "specificationSourceName": "提供された楽天の商品広告・スクリーンショット",
+      "checkedAt": "2026-11-16"
+    },
+    "referencePrice": {
+      "amount": 4399,
+      "fromPrice": false,
+      "currency": "JPY",
+      "basis": "提供されたスクリーンショットの表示額",
+      "currentPriceVerified": false
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5992dfb7.7033b123.5992dfb8.c82ee7e0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshop-iifoods%2Fjsxx-753%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者提供の広告HTMLの画像・商品名・URLと紹介画像を照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/neon-chill.html",
+        "frameWidth": 560,
+        "frameHeight": 340,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "neon-unicorn",
+    "name": "SLOWER ユニコーン",
+    "category": "照明・インテリア",
+    "brand": "SLOWER",
+    "description": "USB電源・調光機能付きのユニコーン形LEDライト。",
+    "check": "サイズ・設置方法・電源・付属品を販売先でご確認ください。画像の価格は提供スクショの表示額で、現在価格とは異なる場合があります。",
+    "status": "published",
+    "enabled": true,
+    "presentation": {
+      "src": "assets/creative/neon-2026/04-unicorn.png",
+      "alt": "SLOWER ユニコーンのSNS紹介画像（商品イメージ・配置は演出）",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/mecu/neony5/",
+      "specificationSourceName": "提供された楽天の商品広告・スクリーンショット",
+      "checkedAt": "2026-11-16"
+    },
+    "referencePrice": {
+      "amount": 4950,
+      "fromPrice": false,
+      "currency": "JPY",
+      "basis": "提供されたスクリーンショットの表示額",
+      "currentPriceVerified": false
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5992e7ec.ebce8269.5992e7ed.842dd601/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmecu%2Fneony5%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者提供の広告HTMLの画像・商品名・URLと紹介画像を照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/neon-unicorn.html",
+        "frameWidth": 560,
+        "frameHeight": 340,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "neon-neony",
+    "name": "SLOWER ネオニーサインライト",
+    "category": "照明・インテリア",
+    "brand": "SLOWER",
+    "description": "USB電源・明るさ10段階調光。デザインを選ぶ商品で、セット商品ではありません。",
+    "check": "サイズ・設置方法・電源・付属品を販売先でご確認ください。画像の価格は提供スクショの表示額で、現在価格とは異なる場合があります。デザインにより価格が異なります。",
+    "status": "published",
+    "enabled": true,
+    "presentation": {
+      "src": "assets/creative/neon-2026/05-neony.png",
+      "alt": "SLOWER ネオニーサインライトのSNS紹介画像（商品イメージ・配置は演出）",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/yonekura/tri1/",
+      "specificationSourceName": "提供された楽天の商品広告・スクリーンショット",
+      "checkedAt": "2026-11-16"
+    },
+    "referencePrice": {
+      "amount": 2970,
+      "fromPrice": true,
+      "currency": "JPY",
+      "basis": "提供されたスクリーンショットの表示額",
+      "currentPriceVerified": false
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5992edbd.af19ee2e.5992edbe.51937fdf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyonekura%2Ftri1%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiIyNDB4MjQwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者提供の広告HTMLの画像・商品名・URLと紹介画像を照合。",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/neon-neony.html",
+        "frameWidth": 560,
+        "frameHeight": 340,
+        "enabled": true
+      }
+    ]
   }
 ]
