@@ -356,5 +356,32 @@
       "tiktokEnding": "assets/creative/winter-09/tiktok-ending.png",
       "notes": "利用者の依頼に基づいて実際の商品画像を参照して制作した演出ビジュアル。末尾画像の投稿番号09・プロフィールURL・実QRは別途照合。"
     }
+  },
+  {
+    "id": "bike-winter-3",
+    "number": "10",
+    "publishedAt": null,
+    "displayOrder": 200,
+    "status": "published",
+    "isPublic": true,
+    "title": "冬の自転車通勤・通学に。防寒グッズ3選",
+    "subtitle": "スマホ対応グローブ・フェイスマスク・つま先カバー。冬チャリの寒さ対策3点。",
+    "category": "自転車・防寒",
+    "cover": "assets/creative/bike-10/cover.jpg",
+    "snsImage": "assets/creative/bike-10/cover.jpg",
+    "coverFit": "contain",
+    "productIds": [
+      "bike-01-gloves",
+      "bike-02-facemask",
+      "bike-03-toecover"
+    ],
+    "videoUrl": "",
+    "creativeAssets": {
+      "cover": "assets/creative/bike-10/cover.jpg",
+      "background": "",
+      "decorations": [],
+      "origin": "user-supplied-social-artwork",
+      "notes": "所有者から提供された完成済み画像をそのまま使用。商品写真や仕様の根拠とは別管理。"
+    }
   }
 ]
