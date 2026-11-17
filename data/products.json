@@ -2540,5 +2540,125 @@
         "enabled": true
       }
     ]
+  },
+  {
+    "id": "bike-01-gloves",
+    "name": "ROCKBROS ロックブロス スマホ対応防寒グローブ",
+    "category": "自転車防寒",
+    "brand": "ROCKBROS",
+    "description": "手袋のままスマホ操作ができる防寒グローブ。手首はダイヤル式でフィット感を調整できる。裏起毛で保温。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 1,
+    "price": 3148,
+    "priceBasis": "2026-11-17に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/bike-10/01-gloves.jpg",
+      "alt": "スマホ対応防寒グローブの紹介用イメージ",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/rockbros-bike/110000085/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-17"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59a31396.649dd757.59a31397.8e5f17d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frockbros-bike%2F110000085%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・価格を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/bike-01-gloves.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "bike-02-facemask",
+    "name": "ROCKBROS ロックブロス 防寒フェイスマスク",
+    "category": "自転車防寒",
+    "brand": "ROCKBROS",
+    "description": "口元がメッシュ素材で息がしやすいバラクラバ。顔と首元まで覆って冷たい風を対策。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 2,
+    "price": 1880,
+    "priceBasis": "2026-11-17に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/bike-10/02-facemask.jpg",
+      "alt": "防寒フェイスマスクの紹介用イメージ",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/rockbros/500001027/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-17"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5eaa8a0f.44323360.5eaa8a10.17ba519d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frockbros%2F500001027%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・価格を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/bike-02-facemask.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "bike-03-toecover",
+    "name": "ROCKBROS ロックブロス つま先シューズカバー LF1207",
+    "category": "自転車防寒",
+    "brand": "ROCKBROS",
+    "description": "靴の上から着けるつま先カバー。防風・防寒・撥水仕様。白ライン入りのLF1207（ラインあり）。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 3,
+    "price": 2658,
+    "priceBasis": "2026-11-17に楽天商品ページで確認した掲載額（ラインありLF1207）",
+    "presentation": {
+      "src": "assets/creative/bike-10/03-toecover.jpg",
+      "alt": "つま先シューズカバーの紹介用イメージ",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/rockbros/500000110/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-17"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/594acb0d.44323360.594acb0e.17ba519d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frockbros%2F500000110%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・価格を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/bike-03-toecover.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   }
 ]
