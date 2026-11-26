@@ -473,5 +473,185 @@
    "tiktokEnding": "assets/creative/tower-11/tiktok-ending.jpg",
    "notes": "所有者から提供された完成済み画像をそのまま使用。末尾画像の投稿番号11・プロフィールURL・実QRは別途照合。"
   }
+ },
+ {
+  "id": "winter-warm-15",
+  "number": "12",
+  "publishedAt": null,
+  "displayOrder": 220,
+  "status": "published",
+  "isPublic": true,
+  "title": "予算5,000円以下。おうちで使える冬のあったかグッズ15選",
+  "subtitle": "足もと・からだ・ひと息の3テーマ。全品5,000円以下でそろう、冬のおうち時間を温める15点。",
+  "category": "冬のあったかグッズ",
+  "cover": "assets/creative/warm-12/cover.jpg",
+  "snsImage": "assets/creative/warm-12/cover.jpg",
+  "coverFit": "contain",
+  "productIds": [
+   "warm-01-kotatsu-socks",
+   "warm-02-leg-warmer",
+   "warm-03-ondo-beads",
+   "warm-04-mouton-slippers",
+   "warm-05-room-boots",
+   "warm-06-hokaron-pants",
+   "warm-07-silk-haramaki",
+   "warm-08-groony",
+   "warm-09-panel-heater",
+   "warm-10-neck-warmer",
+   "warm-11-fashy-yutanpo",
+   "warm-12-maruka-yutanpo",
+   "warm-13-azuki-neck",
+   "warm-14-azuki-eye",
+   "warm-15-azuki-belt"
+  ],
+  "videoUrl": "",
+  "layout": "category-ads",
+  "showCover": true,
+  "groups": [
+   {
+    "id": "feet",
+    "title": "足もとを、あたたかく。",
+    "productIds": [
+     "warm-01-kotatsu-socks",
+     "warm-02-leg-warmer",
+     "warm-03-ondo-beads",
+     "warm-04-mouton-slippers",
+     "warm-05-room-boots"
+    ],
+    "collage": "assets/creative/warm-12/list-01-05.jpg",
+    "collageWidth": 1122,
+    "collageHeight": 1402,
+    "sortOrder": "provided-order",
+    "caption": "紹介用ビジュアル（演出を含みます）。画像の01〜05と下の広告番号が対応しています。価格は2026年11月26日の掲載額で、最新情報は販売先でご確認ください。"
+   },
+   {
+    "id": "body",
+    "title": "からだを、ぬくぬく。",
+    "productIds": [
+     "warm-06-hokaron-pants",
+     "warm-07-silk-haramaki",
+     "warm-08-groony",
+     "warm-09-panel-heater",
+     "warm-10-neck-warmer"
+    ],
+    "collage": "assets/creative/warm-12/list-06-10.jpg",
+    "collageWidth": 1122,
+    "collageHeight": 1402,
+    "sortOrder": "provided-order",
+    "caption": "紹介用ビジュアル（演出を含みます）。画像の06〜10と下の広告番号が対応しています。価格は2026年11月26日の掲載額で、最新情報は販売先でご確認ください。"
+   },
+   {
+    "id": "relax",
+    "title": "ひと息ついて、ぽかぽか。",
+    "productIds": [
+     "warm-11-fashy-yutanpo",
+     "warm-12-maruka-yutanpo",
+     "warm-13-azuki-neck",
+     "warm-14-azuki-eye",
+     "warm-15-azuki-belt"
+    ],
+    "collage": "assets/creative/warm-12/list-11-15.jpg",
+    "collageWidth": 1122,
+    "collageHeight": 1402,
+    "sortOrder": "provided-order",
+    "caption": "紹介用ビジュアル（演出を含みます）。画像の11〜15と下の広告番号が対応しています。価格は2026年11月26日の掲載額で、最新情報は販売先でご確認ください。"
+   }
+  ],
+  "creativeAssets": {
+   "cover": "assets/creative/warm-12/cover.jpg",
+   "origin": "user-supplied-social-artwork",
+   "summary": "assets/creative/warm-12/summary.jpg",
+   "notes": "所有者から提供された完成済み画像をそのまま使用。商品ビジュアルはAIによる紹介用イメージ（画像内に明記）。まとめ画像はSNS投稿の2枚目に使う全15点一覧。商品写真や仕様の根拠とは別管理。"
+  }
+ },
+ {
+  "id": "coffee-gift-15",
+  "number": "13",
+  "publishedAt": null,
+  "displayOrder": 230,
+  "status": "published",
+  "isPublic": true,
+  "title": "予算5,000円以下。コーヒー好きへ贈るクリスマスギフト15選",
+  "subtitle": "一杯・淹れる時間・カフェ時間の3テーマ。全品5,000円以下でそろう、コーヒー好きへの贈り物15点。",
+  "category": "コーヒーギフト",
+  "cover": "assets/creative/coffee-13/cover.jpg",
+  "snsImage": "assets/creative/coffee-13/cover.jpg",
+  "coverFit": "contain",
+  "productIds": [
+   "coffee-01-stack-mug",
+   "coffee-02-aroma-mug",
+   "coffee-03-pavina",
+   "coffee-04-travel-tumbler",
+   "coffee-05-chambord",
+   "coffee-06-v60-dripper",
+   "coffee-07-wave-dripper",
+   "coffee-08-carafe-set",
+   "coffee-09-dripper-switch",
+   "coffee-10-coffee-mill",
+   "coffee-11-canister",
+   "coffee-12-drip-kettle",
+   "coffee-13-sepia-cup",
+   "coffee-14-filter-stand",
+   "coffee-15-creamer"
+  ],
+  "videoUrl": "",
+  "layout": "category-ads",
+  "showCover": true,
+  "groups": [
+   {
+    "id": "cup",
+    "title": "一杯を、特別に。",
+    "productIds": [
+     "coffee-01-stack-mug",
+     "coffee-02-aroma-mug",
+     "coffee-03-pavina",
+     "coffee-04-travel-tumbler",
+     "coffee-05-chambord"
+    ],
+    "collage": "assets/creative/coffee-13/list-01-05.jpg",
+    "collageWidth": 1122,
+    "collageHeight": 1402,
+    "sortOrder": "provided-order",
+    "caption": "紹介用ビジュアル（演出を含みます）。画像の01〜05と下の広告番号が対応しています。価格は2026年11月26日の掲載額で、最新情報は販売先でご確認ください。"
+   },
+   {
+    "id": "brew",
+    "title": "淹れる時間も、楽しく。",
+    "productIds": [
+     "coffee-06-v60-dripper",
+     "coffee-07-wave-dripper",
+     "coffee-08-carafe-set",
+     "coffee-09-dripper-switch",
+     "coffee-10-coffee-mill"
+    ],
+    "collage": "assets/creative/coffee-13/list-06-10.jpg",
+    "collageWidth": 1122,
+    "collageHeight": 1402,
+    "sortOrder": "provided-order",
+    "caption": "紹介用ビジュアル（演出を含みます）。画像の06〜10と下の広告番号が対応しています。価格は2026年11月26日の掲載額で、最新情報は販売先でご確認ください。"
+   },
+   {
+    "id": "cafe",
+    "title": "カフェ時間を、整える。",
+    "productIds": [
+     "coffee-11-canister",
+     "coffee-12-drip-kettle",
+     "coffee-13-sepia-cup",
+     "coffee-14-filter-stand",
+     "coffee-15-creamer"
+    ],
+    "collage": "assets/creative/coffee-13/list-11-15.jpg",
+    "collageWidth": 1122,
+    "collageHeight": 1402,
+    "sortOrder": "provided-order",
+    "caption": "紹介用ビジュアル（演出を含みます）。画像の11〜15と下の広告番号が対応しています。価格は2026年11月26日の掲載額で、最新情報は販売先でご確認ください。"
+   }
+  ],
+  "creativeAssets": {
+   "cover": "assets/creative/coffee-13/cover.jpg",
+   "origin": "user-supplied-social-artwork",
+   "summary": "assets/creative/coffee-13/summary.jpg",
+   "notes": "所有者から提供された完成済み画像をそのまま使用。商品ビジュアルはAIによる紹介用イメージ（画像内に明記）。まとめ画像はSNS投稿の2枚目に使う全15点一覧。商品写真や仕様の根拠とは別管理。"
+  }
  }
 ]
