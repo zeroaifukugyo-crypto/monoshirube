@@ -682,5 +682,91 @@
       "summary": "assets/creative/warm-12/summary.jpg",
       "notes": "所有者から提供された完成済み画像をそのまま使用。商品ビジュアルはAIによる紹介用イメージ（画像内に明記）。まとめ画像はSNS投稿の2枚目に使う全15点一覧。商品写真や仕様の根拠とは別管理。"
     }
+  },
+  {
+    "id": "accessory-gift-18",
+    "number": "10",
+    "publishedAt": null,
+    "displayOrder": 100,
+    "status": "published",
+    "isPublic": true,
+    "title": "彼女に贈る アクセサリーギフト18選",
+    "subtitle": "ネックレス・ピアス・ブレスレットを、カテゴリごとにまとめてチェック。",
+    "category": "アクセサリー",
+    "cover": "assets/creative/accessories-07/cover.jpg",
+    "snsImage": "assets/creative/accessories-07/cover.jpg",
+    "coverFit": "contain",
+    "productIds": [
+      "jewel-startfly-nk0029",
+      "jewel-thekiss-spd7039cb",
+      "jewel-thekiss-spd270dm",
+      "jewel-sophia",
+      "jewel-open-heart-nine",
+      "jewel-thekiss-2026",
+      "jewel-candy",
+      "jewel-leaf",
+      "jewel-angelin",
+      "jewel-karen",
+      "jewel-twist",
+      "jewel-fromparis-ap004",
+      "jewel-silverkyasya-bs197",
+      "jewel-loseford-b63",
+      "jewel-furla-heart",
+      "jewel-loseford-b34",
+      "jewel-fromny-b024",
+      "jewel-loseford-b50"
+    ],
+    "videoUrl": "",
+    "layout": "category-ads",
+    "groups": [
+      {
+        "id": "necklaces",
+        "title": "ネックレス",
+        "productIds": [
+          "jewel-startfly-nk0029",
+          "jewel-thekiss-spd7039cb",
+          "jewel-thekiss-spd270dm",
+          "jewel-sophia",
+          "jewel-open-heart-nine",
+          "jewel-thekiss-2026"
+        ],
+        "collage": "assets/creative/accessories-07/necklaces-6.jpg",
+        "sortOrder": "price-ascending"
+      },
+      {
+        "id": "earrings",
+        "title": "ピアス",
+        "productIds": [
+          "jewel-candy",
+          "jewel-leaf",
+          "jewel-angelin",
+          "jewel-karen",
+          "jewel-twist",
+          "jewel-fromparis-ap004"
+        ],
+        "collage": "assets/creative/accessories-07/earrings-6.jpg",
+        "sortOrder": "price-ascending"
+      },
+      {
+        "id": "bracelets",
+        "title": "ブレスレット",
+        "productIds": [
+          "jewel-silverkyasya-bs197",
+          "jewel-loseford-b63",
+          "jewel-furla-heart",
+          "jewel-loseford-b34",
+          "jewel-fromny-b024",
+          "jewel-loseford-b50"
+        ],
+        "collage": "assets/creative/accessories-07/bracelets-6.jpg",
+        "sortOrder": "price-ascending"
+      }
+    ],
+    "creativeAssets": {
+      "cover": "assets/creative/accessories-07/cover.jpg",
+      "origin": "user-supplied-social-artwork",
+      "notes": "2026-11-28に利用者がリニューアルした完成画像（表紙・まとめ・カテゴリ別3枚）を無加工で掲載。",
+      "summary": "assets/creative/accessories-07/summary.jpg"
+    }
   }
 ]
