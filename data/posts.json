@@ -1013,5 +1013,95 @@
    "summary": "assets/creative/her-17/summary.jpg",
    "notes": "表紙・まとめ・グループ画像はレン提供の投稿用アートワーク。商品写真は楽天リンク作成画面で取得した実物写真。"
   }
+ },
+ {
+  "id": "xmaspair-15",
+  "number": "18",
+  "publishedAt": null,
+  "displayOrder": 280,
+  "status": "published",
+  "isPublic": true,
+  "title": "クリスマスのペアアイテム15選",
+  "subtitle": "クリスマスに選びたい、ふたりに贈るペアアイテムを実物写真で紹介します。",
+  "category": "ペアギフト",
+  "cover": "assets/creative/pair-18/cover.jpg",
+  "snsImage": "assets/creative/pair-18/cover.jpg",
+  "coverFit": "contain",
+  "productIds": [
+   "pair-01-wedgwood-mug",
+   "pair-02-rayes-glass",
+   "pair-03-pajama",
+   "pair-04-dulton-slipper",
+   "pair-05-paulsmith-muffler",
+   "pair-06-gloves",
+   "pair-07-keycase",
+   "pair-08-bracelet",
+   "pair-09-innovator-watch",
+   "pair-10-tumbler",
+   "pair-11-chopsticks",
+   "pair-12-necklace",
+   "pair-13-thekiss-ring",
+   "pair-14-iittala-bowl",
+   "pair-15-arita-plate"
+  ],
+  "videoUrl": "",
+  "layout": "category-ads",
+  "showCover": true,
+  "groups": [
+   {
+    "id": "futari",
+    "title": "ふたりで使う、楽しみ。",
+    "productIds": [
+     "pair-01-wedgwood-mug",
+     "pair-02-rayes-glass",
+     "pair-03-pajama",
+     "pair-04-dulton-slipper",
+     "pair-05-paulsmith-muffler"
+    ],
+    "collage": "assets/creative/pair-18/list-01-05.jpg",
+    "collageWidth": 1120,
+    "collageHeight": 1400,
+    "sortOrder": "provided-order",
+    "caption": "紹介用ビジュアル（実物写真）です。画像の01〜05と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
+   },
+   {
+    "id": "osoroi",
+    "title": "さりげなく、おそろい。",
+    "productIds": [
+     "pair-06-gloves",
+     "pair-07-keycase",
+     "pair-08-bracelet",
+     "pair-09-innovator-watch",
+     "pair-10-tumbler"
+    ],
+    "collage": "assets/creative/pair-18/list-06-10.jpg",
+    "collageWidth": 1120,
+    "collageHeight": 1400,
+    "sortOrder": "provided-order",
+    "caption": "紹介用ビジュアル（実物写真）です。画像の06〜10と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
+   },
+   {
+    "id": "issho",
+    "title": "一緒の毎日に、特別を。",
+    "productIds": [
+     "pair-11-chopsticks",
+     "pair-12-necklace",
+     "pair-13-thekiss-ring",
+     "pair-14-iittala-bowl",
+     "pair-15-arita-plate"
+    ],
+    "collage": "assets/creative/pair-18/list-11-15.jpg",
+    "collageWidth": 1120,
+    "collageHeight": 1400,
+    "sortOrder": "provided-order",
+    "caption": "紹介用ビジュアル（実物写真）です。画像の11〜15と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
+   }
+  ],
+  "creativeAssets": {
+   "cover": "assets/creative/pair-18/cover.jpg",
+   "origin": "user-supplied-social-artwork",
+   "summary": "assets/creative/pair-18/summary.jpg",
+   "notes": "表紙・まとめ・グループ画像はレン提供の投稿用アートワーク。商品写真は楽天リンク作成画面で取得した実物写真。"
+  }
  }
 ]
