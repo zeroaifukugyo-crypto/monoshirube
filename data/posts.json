@@ -653,5 +653,95 @@
    "summary": "assets/creative/coffee-13/summary.jpg",
    "notes": "所有者から提供された完成済み画像をそのまま使用。商品ビジュアルはAIによる紹介用イメージ（画像内に明記）。まとめ画像はSNS投稿の2枚目に使う全15点一覧。商品写真や仕様の根拠とは別管理。"
   }
+ },
+ {
+  "id": "couple-gift-15",
+  "number": "14",
+  "publishedAt": null,
+  "displayOrder": 240,
+  "status": "published",
+  "isPublic": true,
+  "title": "予算5,000円以下。彼氏・彼女に贈る センスのいい小物15選",
+  "subtitle": "marimekkoやkate spadeなど、名前で選べるブランド小物だけ。全品5,000円以下・実物写真で紹介する15点。",
+  "category": "カップルギフト",
+  "cover": "assets/creative/couple-14/cover.jpg",
+  "snsImage": "assets/creative/couple-14/cover.jpg",
+  "coverFit": "contain",
+  "productIds": [
+   "couple-01-marimekko-pouch",
+   "couple-02-katespade-card",
+   "couple-03-paulsmith-hankachi",
+   "couple-04-leuchtturm-note",
+   "couple-05-baggu",
+   "couple-06-feiler",
+   "couple-07-casio-mq24",
+   "couple-08-loccitane",
+   "couple-09-lesportsac",
+   "couple-10-cathkidston",
+   "couple-11-takeo-keyholder",
+   "couple-12-johnsblend",
+   "couple-13-takeo-coincase",
+   "couple-14-moleskine",
+   "couple-15-qq-smilesolar"
+  ],
+  "videoUrl": "",
+  "layout": "category-ads",
+  "showCover": true,
+  "groups": [
+   {
+    "id": "carry",
+    "title": "持ち歩きたい、好きなもの。",
+    "productIds": [
+     "couple-01-marimekko-pouch",
+     "couple-02-katespade-card",
+     "couple-03-paulsmith-hankachi",
+     "couple-04-leuchtturm-note",
+     "couple-05-baggu"
+    ],
+    "collage": "assets/creative/couple-14/list-01-05.jpg",
+    "collageWidth": 1120,
+    "collageHeight": 1400,
+    "sortOrder": "provided-order",
+    "caption": "商品写真は販売先の実物写真です。画像の01〜05と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
+   },
+   {
+    "id": "pattern",
+    "title": "好きな柄も、香りも。",
+    "productIds": [
+     "couple-06-feiler",
+     "couple-07-casio-mq24",
+     "couple-08-loccitane",
+     "couple-09-lesportsac",
+     "couple-10-cathkidston"
+    ],
+    "collage": "assets/creative/couple-14/list-06-10.jpg",
+    "collageWidth": 1120,
+    "collageHeight": 1400,
+    "sortOrder": "provided-order",
+    "caption": "商品写真は販売先の実物写真です。画像の06〜10と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
+   },
+   {
+    "id": "daily",
+    "title": "毎日に、小さな特別を。",
+    "productIds": [
+     "couple-11-takeo-keyholder",
+     "couple-12-johnsblend",
+     "couple-13-takeo-coincase",
+     "couple-14-moleskine",
+     "couple-15-qq-smilesolar"
+    ],
+    "collage": "assets/creative/couple-14/list-11-15.jpg",
+    "collageWidth": 1120,
+    "collageHeight": 1400,
+    "sortOrder": "provided-order",
+    "caption": "商品写真は販売先の実物写真です。画像の11〜15と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
+   }
+  ],
+  "creativeAssets": {
+   "cover": "assets/creative/couple-14/cover.jpg",
+   "origin": "user-supplied-social-artwork",
+   "summary": "assets/creative/couple-14/summary.jpg",
+   "notes": "所有者から提供された完成済み画像をそのまま使用。商品写真は楽天アフィリエイトのリンク作成画面から取得した実物写真（表紙の背景のみイメージ画像で、画像内に明記）。まとめ画像はSNS投稿の2枚目に使う全15点一覧。"
+  }
  }
 ]

@@ -4648,5 +4648,605 @@
     "enabled": true
    }
   ]
+ },
+ {
+  "id": "couple-01-marimekko-pouch",
+  "name": "marimekko ガマ口ポーチ MINI UNIKKO",
+  "category": "持ち歩き",
+  "brand": "marimekko",
+  "description": "marimekkoのガマ口ポーチ Puolikas Kukkaro。MINI UNIKKO 190（ブラック×ホワイト）・20x14cm。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 1,
+  "price": 3850,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/couple-14/list-01-05.jpg",
+   "alt": "カップルギフト小物15選（01〜05）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/shop-aer/037773/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08546f.23ff08bd.5a085470.ea767440/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshop-aer%2F037773%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/couple-01-marimekko-pouch.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "couple-02-katespade-card",
+  "name": "kate spade レザースリムカードホルダー K4706",
+  "category": "持ち歩き",
+  "brand": "kate spade new york",
+  "description": "kate spade new yorkのレザースリムカードホルダー K4706。001 ブラック。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 2,
+  "price": 3300,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/couple-14/list-01-05.jpg",
+   "alt": "カップルギフト小物15選（01〜05）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/la-marca/k4706-001/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a085689.e916cf44.5a08568a.5c6646cf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fla-marca%2Fk4706-001%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/couple-02-katespade-card.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "couple-03-paulsmith-hankachi",
+  "name": "Paul Smith ハンカチ Signature Stripe エッジ",
+  "category": "持ち歩き",
+  "brand": "Paul Smith",
+  "description": "Paul Smithのハンカチ。Signature Stripe エッジ・ブラック。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 3,
+  "price": 4580,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/couple-14/list-01-05.jpg",
+   "alt": "カップルギフト小物15選（01〜05）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/msbm-musubime/1v-ts1x-4k2e/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08581c.8acb9afe.5a08581d.244175e3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmsbm-musubime%2F1v-ts1x-4k2e%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/couple-03-paulsmith-hankachi.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "couple-04-leuchtturm-note",
+  "name": "LEUCHTTURM1917 A5ハードカバーノート",
+  "category": "持ち歩き",
+  "brand": "LEUCHTTURM1917",
+  "description": "LEUCHTTURM1917のA5ハードカバーノート。フォックスレッド・ドット罫。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 4,
+  "price": 4840,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/couple-14/list-01-05.jpg",
+   "alt": "カップルギフト小物15選（01〜05）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/heiwado-online/leuchtturm-medium-a5-hc/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08591c.272345f2.5a08591d.335630a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fheiwado-online%2Fleuchtturm-medium-a5-hc%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/couple-04-leuchtturm-note.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "couple-05-baggu",
+  "name": "BAGGU STANDARD シーチャーム",
+  "category": "持ち歩き",
+  "brand": "BAGGU",
+  "description": "BAGGUのエコバッグ STANDARD。シーチャーム（ラベンダー柄）。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 5,
+  "price": 2640,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/couple-14/list-01-05.jpg",
+   "alt": "カップルギフト小物15選（01〜05）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/eighthundredships/baggu-stan2/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a085afc.616066d1.5a085afd.059c2dfe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feighthundredships%2Fbaggu-stan2%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/couple-05-baggu.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "couple-06-feiler",
+  "name": "Feiler タオルハンカチ フェアリーテイル",
+  "category": "柄と香り",
+  "brand": "Feiler",
+  "description": "Feilerのタオルハンカチ。フェアリーテイル（シンデレラ）。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 6,
+  "price": 1600,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/couple-14/list-06-10.jpg",
+   "alt": "カップルギフト小物15選（06〜10）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/leonekobe/feiler-story/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a085dc6.657592d1.5a085dc7.5dd2bda6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleonekobe%2Ffeiler-story%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/couple-06-feiler.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "couple-07-casio-mq24",
+  "name": "CASIO STANDARD MQ-24-1B",
+  "category": "柄と香り",
+  "brand": "CASIO",
+  "description": "CASIO STANDARDの腕時計 MQ-24-1B。ブラック。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 7,
+  "price": 2050,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/couple-14/list-06-10.jpg",
+   "alt": "カップルギフト小物15選（06〜10）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/gryps-/s-mq24/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a086325.991f878f.5a086326.561445ff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgryps-%2Fs-mq24%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/couple-07-casio-mq24.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "couple-08-loccitane",
+  "name": "L'OCCITANE シア ハンドクリーム 30mL",
+  "category": "柄と香り",
+  "brand": "L'OCCITANE",
+  "description": "L'OCCITANEのシア ハンドクリーム。ボックス入り・30mL。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 8,
+  "price": 1980,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/couple-14/list-06-10.jpg",
+   "alt": "カップルギフト小物15選（06〜10）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/loccitane/loc00203/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59797657.5d9710d3.59797658.f330e091/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Floccitane%2Floc00203%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/couple-08-loccitane.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "couple-09-lesportsac",
+  "name": "LeSportsac DELUXE EASY CARRY TOTE",
+  "category": "柄と香り",
+  "brand": "LeSportsac",
+  "description": "LeSportsacのトートバッグ 4360。VERO COVE（花柄）。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 9,
+  "price": 4880,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/couple-14/list-06-10.jpg",
+   "alt": "カップルギフト小物15選（06〜10）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/agora-web/ab-359500/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a086ba9.44997b57.5a086baa.43be6fbf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fagora-web%2Fab-359500%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/couple-09-lesportsac.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "couple-10-cathkidston",
+  "name": "Cath Kidston ジップドパース",
+  "category": "柄と香り",
+  "brand": "Cath Kidston",
+  "description": "Cath Kidstonのジップドパース。柄により価格が変わります（2,420〜2,640円）。写真は白い花・ベリー柄のものです。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 10,
+  "price": 2420,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額（柄により2,420〜2,640円）",
+  "presentation": {
+   "src": "assets/creative/couple-14/list-06-10.jpg",
+   "alt": "カップルギフト小物15選（06〜10）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/cathkidston/zipped-purse/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a086da8.a3be6f80.5a086da9.8be81703/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcathkidston%2Fzipped-purse%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/couple-10-cathkidston.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "couple-11-takeo-keyholder",
+  "name": "TAKEO KIKUCHI リールキーホルダー ソフトアンティーク",
+  "category": "毎日の小物",
+  "brand": "TAKEO KIKUCHI",
+  "description": "TAKEO KIKUCHIのリールキーホルダー ソフトアンティーク 503513。チョコ。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 11,
+  "price": 3850,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/couple-14/list-11-15.jpg",
+   "alt": "カップルギフト小物15選（11〜15）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/sacs-bar/tkw-503513/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a0873de.20fe6bec.5a0873df.b9de5233/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsacs-bar%2Ftkw-503513%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/couple-11-takeo-keyholder.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "couple-12-johnsblend",
+  "name": "John's Blend リードディフューザー ホワイトムスク",
+  "category": "毎日の小物",
+  "brand": "John's Blend",
+  "description": "John's Blendのリードディフューザー。ホワイトムスク・140ml。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 12,
+  "price": 2640,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/couple-14/list-11-15.jpg",
+   "alt": "カップルギフト小物15選（11〜15）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/crystal-planet/oajon06/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a087da6.437567fb.5a087da7.9dd015ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcrystal-planet%2Foajon06%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/couple-12-johnsblend.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "couple-13-takeo-coincase",
+  "name": "TAKEO KIKUCHI コインケース テネーロ",
+  "category": "毎日の小物",
+  "brand": "TAKEO KIKUCHI",
+  "description": "TAKEO KIKUCHIのコインケース テネーロ 1704519。チョコ。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 13,
+  "price": 4950,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/couple-14/list-11-15.jpg",
+   "alt": "カップルギフト小物15選（11〜15）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/sacs-bar/tk1704519/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a0873de.20fe6bec.5a0873df.b9de5233/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsacs-bar%2Ftk1704519%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/couple-13-takeo-coincase.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "couple-14-moleskine",
+  "name": "MOLESKINE クラシックノートブック ポケット",
+  "category": "毎日の小物",
+  "brand": "MOLESKINE",
+  "description": "MOLESKINEのクラシックノートブック ポケット。ソフトカバー・横罫・ブラック。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 14,
+  "price": 2915,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/couple-14/list-11-15.jpg",
+   "alt": "カップルギフト小物15選（11〜15）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/shop-aer/classic_pocket_soft_ruled/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08546f.23ff08bd.5a085470.ea767440/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshop-aer%2Fclassic_pocket_soft_ruled%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/couple-14-moleskine.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "couple-15-qq-smilesolar",
+  "name": "Q&Q Smile Solar mini RP01-014",
+  "category": "毎日の小物",
+  "brand": "Q&Q",
+  "description": "Q&Qのソーラー腕時計 Smile Solar mini RP01-014。ホワイト系。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 15,
+  "price": 4950,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/couple-14/list-11-15.jpg",
+   "alt": "カップルギフト小物15選（11〜15）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/0101marui/cb004688240101/?variantId=15074091",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08876a.bc0db9e8.5a08876b.f22c6ac2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F0101marui%2Fcb004688240101%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/couple-15-qq-smilesolar.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
  }
 ]
