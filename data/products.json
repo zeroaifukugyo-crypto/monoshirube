@@ -5248,5 +5248,605 @@
     "enabled": true
    }
   ]
+ },
+ {
+  "id": "watch-01-casio-mq24",
+  "name": "CASIO MQ-24-7B2LLJH",
+  "category": "気軽に贈る",
+  "brand": "CASIO",
+  "description": "CASIOの定番アナログ腕時計 MQ-24-7B2LLJH。ホワイト文字盤×ブラック樹脂ベルト。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 1,
+  "price": 1487,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/watch-15/list-01-05.jpg",
+   "alt": "彼氏に贈る腕時計15選（01〜05）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/jism/4549526295591-51-57607-n/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088b3b.f6682153.5a088b3c.545d9fa2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjism%2F4549526295591-51-57607-n%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/watch-01-casio-mq24.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "watch-02-casio-f91w",
+  "name": "CASIO F-91W-1JH",
+  "category": "気軽に贈る",
+  "brand": "CASIO",
+  "description": "CASIOのデジタル腕時計 F-91W-1JH。ブラック。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 2,
+  "price": 1526,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/watch-15/list-01-05.jpg",
+   "alt": "彼氏に贈る腕時計15選（01〜05）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/jism/4549526295508-51-57607-n/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088b3b.f6682153.5a088b3c.545d9fa2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjism%2F4549526295508-51-57607-n%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/watch-02-casio-f91w.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "watch-03-alba-aqpk402",
+  "name": "ALBA AQPK402",
+  "category": "気軽に贈る",
+  "brand": "ALBA",
+  "description": "ALBAの腕時計 AQPK402。ネイビー文字盤×ネイビーナイロン。メーカー在庫を含む場合があり、発送まで最大3営業日。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 3,
+  "price": 3850,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/watch-15/list-01-05.jpg",
+   "alt": "彼氏に贈る腕時計15選（01〜05）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/10keiya/132250/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088a63.0e7e5bb2.5a088a64.a0cc4f1a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F10keiya%2F132250%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/watch-03-alba-aqpk402.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "watch-04-timex-easyreader",
+  "name": "TIMEX イージーリーダー TW2W95400",
+  "category": "気軽に贈る",
+  "brand": "TIMEX",
+  "description": "TIMEXのイージーリーダー TW2W95400。ホワイト文字盤×ブラック牛革。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 4,
+  "price": 11000,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/watch-15/list-01-05.jpg",
+   "alt": "彼氏に贈る腕時計15選（01〜05）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/theclockhouse/tw2w95400/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088a58.7b41689e.5a088a59.61e63457/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftheclockhouse%2Ftw2w95400%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/watch-04-timex-easyreader.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "watch-05-qq-falcon",
+  "name": "CITIZEN Q&Q Falcon D012-204",
+  "category": "気軽に贈る",
+  "brand": "CITIZEN Q&Q",
+  "description": "CITIZEN Q&QのFalcon D012-204。ホワイト文字盤×シルバーメタル。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 5,
+  "price": 3000,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/watch-15/list-01-05.jpg",
+   "alt": "彼氏に贈る腕時計15選（01〜05）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/takarabako1/d012-204/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088b12.6b8e24ca.5a088b13.5d5ea7b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftakarabako1%2Fd012-204%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/watch-05-qq-falcon.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "watch-06-dw-classic40",
+  "name": "Daniel Wellington Classic 40 DW00100020",
+  "category": "装いに合わせて",
+  "brand": "Daniel Wellington",
+  "description": "Daniel WellingtonのClassic 40 Sheffield DW00100020。ホワイト文字盤×ブラックレザー。お取り寄せ商品で、出荷まで1週間〜2か月かかります。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 6,
+  "price": 22800,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/watch-15/list-06-10.jpg",
+   "alt": "彼氏に贈る腕時計15選（06〜10）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/biccamera/7350068240140/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088b12.6b8e24ca.5a088b13.5d5ea7b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F7350068240140%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/watch-06-dw-classic40.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "watch-07-skagen-signatur",
+  "name": "SKAGEN Signatur SKW6577",
+  "category": "装いに合わせて",
+  "brand": "SKAGEN",
+  "description": "SKAGENのSignatur SKW6577。グレー×グレーメッシュ。逆輸入・海外モデル（ショップの本物保証あり）。残りわずか表示。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 7,
+  "price": 18900,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/watch-15/list-06-10.jpg",
+   "alt": "彼氏に贈る腕時計15選（06〜10）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/nopple/skw6577/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088b12.6b8e24ca.5a088b13.5d5ea7b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnopple%2Fskw6577%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/watch-07-skagen-signatur.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "watch-08-fossil-forester",
+  "name": "FOSSIL フォレスター クロノ FS5608",
+  "category": "装いに合わせて",
+  "brand": "FOSSIL",
+  "description": "FOSSILのフォレスター クロノグラフ FS5608。ブラック文字盤×ブラウン牛革。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 8,
+  "price": 11980,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/watch-15/list-06-10.jpg",
+   "alt": "彼氏に贈る腕時計15選（06〜10）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/jw-hata/fofs5608/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088a58.7b41689e.5a088a59.61e63457/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjw-hata%2Ffofs5608%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/watch-08-fossil-forester.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "watch-09-seiko5-sbsa113",
+  "name": "SEIKO 5スポーツ SBSA113",
+  "category": "装いに合わせて",
+  "brand": "SEIKO",
+  "description": "SEIKO 5スポーツ SBSA113。ブルー文字盤×ステンレス、自動巻き。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 9,
+  "price": 34320,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/watch-15/list-06-10.jpg",
+   "alt": "彼氏に贈る腕時計15選（06〜10）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/theclockhouse/sbsa113/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088a58.7b41689e.5a088a59.61e63457/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftheclockhouse%2Fsbsa113%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/watch-09-seiko5-sbsa113.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "watch-10-citizen-bv1120",
+  "name": "CITIZEN COLLECTION BV1120-15L",
+  "category": "装いに合わせて",
+  "brand": "CITIZEN",
+  "description": "CITIZEN COLLECTION BV1120-15L。ネイビー文字盤×ブラックカーフ、エコドライブ。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 10,
+  "price": 25410,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/watch-15/list-06-10.jpg",
+   "alt": "彼氏に贈る腕時計15選（06〜10）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/hatten/bv1120-15l/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088a58.7b41689e.5a088a59.61e63457/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhatten%2Fbv1120-15l%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/watch-10-citizen-bv1120.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "watch-11-hamilton-khaki",
+  "name": "HAMILTON Khaki Field メカニカル H69439931",
+  "category": "大切な人に",
+  "brand": "HAMILTON",
+  "description": "HAMILTONのKhaki Field メカニカル H69439931。ブラック文字盤×グリーンテキスタイル、手巻き。公式ストア。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 11,
+  "price": 94600,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/watch-15/list-11-15.jpg",
+   "alt": "彼氏に贈る腕時計15選（11〜15）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/hamiltonofficial/h69439931/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088a63.0e7e5bb2.5a088a64.a0cc4f1a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhamiltonofficial%2Fh69439931%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/watch-11-hamilton-khaki.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "watch-12-tissot-prx",
+  "name": "TISSOT PRX クォーツ T1374101105100",
+  "category": "大切な人に",
+  "brand": "TISSOT",
+  "description": "TISSOTのPRX クォーツ T1374101105100。ブラック文字盤×シルバーブレス。公式ストア。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 12,
+  "price": 77000,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/watch-15/list-11-15.jpg",
+   "alt": "彼氏に贈る腕時計15選（11〜15）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/tissot/t1374101105100/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088a63.0e7e5bb2.5a088a64.a0cc4f1a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftissot%2Ft1374101105100%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/watch-12-tissot-prx.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "watch-13-alba-aqpk401",
+  "name": "ALBA AQPK401",
+  "category": "大切な人に",
+  "brand": "ALBA",
+  "description": "ALBAの腕時計 AQPK401。ベージュ文字盤×ブラックナイロン。メーカー在庫を含む場合があります。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 13,
+  "price": 4620,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/watch-15/list-11-15.jpg",
+   "alt": "彼氏に贈る腕時計15選（11〜15）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/10keiya/132249/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088a63.0e7e5bb2.5a088a64.a0cc4f1a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F10keiya%2F132249%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/watch-13-alba-aqpk401.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "watch-14-bering-chrono",
+  "name": "BERING Classic Link クロノ 11740-728",
+  "category": "大切な人に",
+  "brand": "BERING",
+  "description": "BERINGのClassic Link クロノグラフ 11740-728。グリーン文字盤×ブラック。店舗保証（アウトレット店）。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 14,
+  "price": 18980,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/watch-15/list-11-15.jpg",
+   "alt": "彼氏に贈る腕時計15選（11〜15）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/supplystore/11740-728/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088a63.0e7e5bb2.5a088a64.a0cc4f1a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupplystore%2F11740-728%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/watch-14-bering-chrono.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "watch-15-timex-weekender",
+  "name": "TIMEX ウィークエンダー 37mm TW2W86500",
+  "category": "大切な人に",
+  "brand": "TIMEX",
+  "description": "TIMEXのウィークエンダー 37mm TW2W86500。アイボリー文字盤×ブラウン革。残りわずか表示。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 15,
+  "price": 16500,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/watch-15/list-11-15.jpg",
+   "alt": "彼氏に贈る腕時計15選（11〜15）の一覧シート",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/theclockhouse/tw2w86500/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088a58.7b41689e.5a088a59.61e63457/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftheclockhouse%2Ftw2w86500%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/watch-15-timex-weekender.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
  }
 ]

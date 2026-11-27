@@ -743,5 +743,95 @@
    "summary": "assets/creative/couple-14/summary.jpg",
    "notes": "所有者から提供された完成済み画像をそのまま使用。商品写真は楽天アフィリエイトのリンク作成画面から取得した実物写真（表紙の背景のみイメージ画像で、画像内に明記）。まとめ画像はSNS投稿の2枚目に使う全15点一覧。"
   }
+ },
+ {
+  "id": "watch-gift-15",
+  "number": "15",
+  "publishedAt": null,
+  "displayOrder": 250,
+  "status": "published",
+  "isPublic": true,
+  "title": "彼氏に贈る腕時計ギフト15選",
+  "subtitle": "1,000円台のチプカシから、ハミルトンとティソの本格派まで。価格帯で選べる15本を実物写真で紹介。",
+  "category": "腕時計ギフト",
+  "cover": "assets/creative/watch-15/cover.jpg",
+  "snsImage": "assets/creative/watch-15/cover.jpg",
+  "coverFit": "contain",
+  "productIds": [
+   "watch-01-casio-mq24",
+   "watch-02-casio-f91w",
+   "watch-03-alba-aqpk402",
+   "watch-04-timex-easyreader",
+   "watch-05-qq-falcon",
+   "watch-06-dw-classic40",
+   "watch-07-skagen-signatur",
+   "watch-08-fossil-forester",
+   "watch-09-seiko5-sbsa113",
+   "watch-10-citizen-bv1120",
+   "watch-11-hamilton-khaki",
+   "watch-12-tissot-prx",
+   "watch-13-alba-aqpk401",
+   "watch-14-bering-chrono",
+   "watch-15-timex-weekender"
+  ],
+  "videoUrl": "",
+  "layout": "category-ads",
+  "showCover": true,
+  "groups": [
+   {
+    "id": "easy",
+    "title": "気軽に贈る、最初の一本。",
+    "productIds": [
+     "watch-01-casio-mq24",
+     "watch-02-casio-f91w",
+     "watch-03-alba-aqpk402",
+     "watch-04-timex-easyreader",
+     "watch-05-qq-falcon"
+    ],
+    "collage": "assets/creative/watch-15/list-01-05.jpg",
+    "collageWidth": 1120,
+    "collageHeight": 1400,
+    "sortOrder": "provided-order",
+    "caption": "商品写真は販売先の実物写真です。画像の01〜05と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
+   },
+   {
+    "id": "style",
+    "title": "装いに合わせて、選ぶ。",
+    "productIds": [
+     "watch-06-dw-classic40",
+     "watch-07-skagen-signatur",
+     "watch-08-fossil-forester",
+     "watch-09-seiko5-sbsa113",
+     "watch-10-citizen-bv1120"
+    ],
+    "collage": "assets/creative/watch-15/list-06-10.jpg",
+    "collageWidth": 1120,
+    "collageHeight": 1400,
+    "sortOrder": "provided-order",
+    "caption": "商品写真は販売先の実物写真です。画像の06〜10と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
+   },
+   {
+    "id": "special",
+    "title": "大切な人に、選ぶ一本。",
+    "productIds": [
+     "watch-11-hamilton-khaki",
+     "watch-12-tissot-prx",
+     "watch-13-alba-aqpk401",
+     "watch-14-bering-chrono",
+     "watch-15-timex-weekender"
+    ],
+    "collage": "assets/creative/watch-15/list-11-15.jpg",
+    "collageWidth": 1120,
+    "collageHeight": 1400,
+    "sortOrder": "provided-order",
+    "caption": "商品写真は販売先の実物写真です。画像の11〜15と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
+   }
+  ],
+  "creativeAssets": {
+   "cover": "assets/creative/watch-15/cover.jpg",
+   "origin": "user-supplied-social-artwork",
+   "summary": "assets/creative/watch-15/summary.jpg",
+   "notes": "所有者から提供された完成済み画像をそのまま使用。商品写真は楽天アフィリエイトのリンク作成画面から取得した実物写真（表紙のみAI合成の背景イメージで、画像内に明記）。まとめ画像はSNS投稿の2枚目に使う全15点一覧。"
+  }
  }
 ]
