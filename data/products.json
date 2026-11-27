@@ -5848,5 +5848,605 @@
     "enabled": true
    }
   ]
+ },
+ {
+  "id": "sneak-01-af1",
+  "name": "NIKE AIR FORCE 1 '07 ホワイト",
+  "category": "定番",
+  "brand": "NIKE",
+  "description": "不動の定番、白のエアフォース1（CW2288-111）。全サイズ同価格。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 1,
+  "price": 16700,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/sneak-16/list-01-05.jpg",
+   "alt": "投稿16の商品01 NIKE AIR FORCE 1 '07 ホワイト の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/limited-edt/cw2288-111/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flimited-edt%2Fcw2288-111%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/sneak-01-af1.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "sneak-02-dunk-panda",
+  "name": "NIKE Dunk Low Retro パンダ",
+  "category": "定番",
+  "brand": "NIKE",
+  "description": "白黒パンダカラーのダンク ロー（DD1503-101）。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 2,
+  "price": 15869,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額（サイズにより15,869円〜19,800円。掲載額は28cmの価格）",
+  "presentation": {
+   "src": "assets/creative/sneak-16/list-01-05.jpg",
+   "alt": "投稿16の商品02 NIKE Dunk Low Retro パンダ の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/carryme/compass1759547033/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcarryme%2Fcompass1759547033%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/sneak-02-dunk-panda.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "sneak-03-samba-og",
+  "name": "adidas SAMBA OG ブラック",
+  "category": "定番",
+  "brand": "adidas",
+  "description": "ガムソールのサンバ OG（B75807）。全サイズ同価格。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 3,
+  "price": 15950,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/sneak-16/list-01-05.jpg",
+   "alt": "投稿16の商品03 adidas SAMBA OG ブラック の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/lowtex/b75807/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flowtex%2Fb75807%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/sneak-03-samba-og.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "sneak-04-ml574",
+  "name": "New Balance ML574 EVN ネイビー",
+  "category": "定番",
+  "brand": "New Balance",
+  "description": "ニューバランス公式ストアの定番574、ネイビー。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 4,
+  "price": 13970,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/sneak-16/list-01-05.jpg",
+   "alt": "投稿16の商品04 New Balance ML574 EVN ネイビー の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/newbalance-store/ml574evn/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnewbalance-store%2Fml574evn%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/sneak-04-ml574.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "sneak-05-bb550",
+  "name": "New Balance BB550 PB1 ホワイト",
+  "category": "定番",
+  "brand": "New Balance",
+  "description": "コート系の人気モデルBB550、白。在庫は24.0・24.5cmのみです。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 5,
+  "price": 11990,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/sneak-16/list-01-05.jpg",
+   "alt": "投稿16の商品05 New Balance BB550 PB1 ホワイト の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/supersportsxebio/107651837011/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupersportsxebio%2F107651837011%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/sneak-05-bb550.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "sneak-06-gel1130",
+  "name": "ASICS GEL-1130 ホワイト/グレー",
+  "category": "合わせやすい",
+  "brand": "ASICS",
+  "description": "Y2Kムードのランニングモデル、ホワイト/グレー。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 6,
+  "price": 12900,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/sneak-16/list-06-10.jpg",
+   "alt": "投稿16の商品06 ASICS GEL-1130 ホワイト/グレー の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/toptotoponline/1203a609112/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftoptotoponline%2F1203a609112%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/sneak-06-gel1130.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "sneak-07-puma-suede",
+  "name": "PUMA Suede Classic ブラック",
+  "category": "合わせやすい",
+  "brand": "PUMA",
+  "description": "プーマ公式ショップのスエード クラシック、ブラック。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 7,
+  "price": 11550,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/sneak-16/list-06-10.jpg",
+   "alt": "投稿16の商品07 PUMA Suede Classic ブラック の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/puma/399781_07/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpuma%2F399781_07%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/sneak-07-puma-suede.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "sneak-08-vans-oldskool",
+  "name": "VANS OLD SKOOL オールブラック",
+  "category": "合わせやすい",
+  "brand": "VANS",
+  "description": "真っ黒のオールドスクール。在庫は25〜29cmです。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 8,
+  "price": 8800,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/sneak-16/list-06-10.jpg",
+   "alt": "投稿16の商品08 VANS OLD SKOOL オールブラック の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/precious-place/6730/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fprecious-place%2F6730%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/sneak-08-vans-oldskool.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "sneak-09-converse-ct70",
+  "name": "CONVERSE ALL STAR US OX CT70 ブラック",
+  "category": "合わせやすい",
+  "brand": "CONVERSE",
+  "description": "USコンバースのCT70、ブラックのローカット。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 9,
+  "price": 8360,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/sneak-16/list-06-10.jpg",
+   "alt": "投稿16の商品09 CONVERSE ALL STAR US OX CT70 ブラック の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/precious-place/6265/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fprecious-place%2F6265%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/sneak-09-converse-ct70.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "sneak-10-reebok-clubc",
+  "name": "Reebok CLUB C 85 ホワイト",
+  "category": "合わせやすい",
+  "brand": "Reebok",
+  "description": "クリーンな白レザーのクラブC。在庫は22.5〜23.5cmのみです。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 10,
+  "price": 6589,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/sneak-16/list-06-10.jpg",
+   "alt": "投稿16の商品10 Reebok CLUB C 85 ホワイト の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/abc-mart/6674210001/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fabc-mart%2F6674210001%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/sneak-10-reebok-clubc.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "sneak-11-on-cloud6",
+  "name": "On CLOUD 6 ホワイト",
+  "category": "次の一足",
+  "brand": "On",
+  "description": "オンの定番デイリーモデル、クラウド6の白（メンズ）。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 11,
+  "price": 19800,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/sneak-16/list-11-15.jpg",
+   "alt": "投稿16の商品11 On CLOUD 6 ホワイト の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/lowtex/3mf10071200/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flowtex%2F3mf10071200%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/sneak-11-on-cloud6.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "sneak-12-hoka-clifton11",
+  "name": "HOKA CLIFTON 11 WIDE ホワイト",
+  "category": "次の一足",
+  "brand": "HOKA",
+  "description": "ホカの厚底デイリーモデル、クリフトン11のワイド（レディース）。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 12,
+  "price": 19800,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/sneak-16/list-11-15.jpg",
+   "alt": "投稿16の商品12 HOKA CLIFTON 11 WIDE ホワイト の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/supersportsxebio/109265769011/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupersportsxebio%2F109265769011%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/sneak-12-hoka-clifton11.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "sneak-13-salomon-xt6",
+  "name": "SALOMON XT-6 ADV ブラック",
+  "category": "次の一足",
+  "brand": "SALOMON",
+  "description": "サロモンの人気トレイルモデルXT-6、ブラック。全サイズ同価格。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 13,
+  "price": 28600,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/sneak-16/list-11-15.jpg",
+   "alt": "投稿16の商品13 SALOMON XT-6 ADV ブラック の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/lowtex/l41086600/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flowtex%2Fl41086600%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/sneak-13-salomon-xt6.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "sneak-14-mizuno-rider28",
+  "name": "MIZUNO ウエーブライダー28",
+  "category": "次の一足",
+  "brand": "MIZUNO",
+  "description": "ミズノの定番ランニングシューズ。在庫は大きめサイズ中心です。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 14,
+  "price": 9900,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/sneak-16/list-11-15.jpg",
+   "alt": "投稿16の商品14 MIZUNO ウエーブライダー28 の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/campista/j1gc240301/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcampista%2Fj1gc240301%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/sneak-14-mizuno-rider28.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "sneak-15-aj1-low",
+  "name": "NIKE AIR JORDAN 1 LOW ホワイト/ブラック",
+  "category": "次の一足",
+  "brand": "NIKE",
+  "description": "白×黒のエアジョーダン1 ロー（ウィメンズ）。輸入品表記があります。",
+  "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 15,
+  "price": 17600,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/sneak-16/list-11-15.jpg",
+   "alt": "投稿16の商品15 NIKE AIR JORDAN 1 LOW ホワイト/ブラック の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/lowtex/dc0774-101/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flowtex%2Fdc0774-101%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/sneak-15-aj1-low.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
  }
 ]
