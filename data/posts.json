@@ -322,5 +322,365 @@
       "summary": "assets/creative/couple-14/summary.jpg",
       "notes": "所有者から提供された完成済み画像をそのまま使用。商品写真は楽天アフィリエイトのリンク作成画面から取得した実物写真（表紙の背景のみイメージ画像で、画像内に明記）。まとめ画像はSNS投稿の2枚目に使う全15点一覧。"
     }
+  },
+  {
+    "id": "sneakers-15",
+    "number": "06",
+    "publishedAt": null,
+    "displayOrder": 60,
+    "status": "published",
+    "isPublic": true,
+    "title": "足元で差がつく人気スニーカー15選",
+    "subtitle": "定番から話題のモデルまで、12ブランドの人気スニーカーを実物写真で紹介します。",
+    "category": "スニーカー",
+    "cover": "assets/creative/sneak-16/cover.jpg",
+    "snsImage": "assets/creative/sneak-16/cover.jpg",
+    "coverFit": "contain",
+    "productIds": [
+      "sneak-01-af1",
+      "sneak-02-dunk-panda",
+      "sneak-03-samba-og",
+      "sneak-04-ml574",
+      "sneak-05-bb550",
+      "sneak-06-gel1130",
+      "sneak-07-puma-suede",
+      "sneak-08-vans-oldskool",
+      "sneak-09-converse-ct70",
+      "sneak-10-reebok-clubc",
+      "sneak-11-on-cloud6",
+      "sneak-12-hoka-clifton11",
+      "sneak-13-salomon-xt6",
+      "sneak-14-mizuno-rider28",
+      "sneak-15-aj1-low"
+    ],
+    "videoUrl": "",
+    "layout": "category-ads",
+    "showCover": true,
+    "groups": [
+      {
+        "id": "classic",
+        "title": "まずは、定番から。",
+        "productIds": [
+          "sneak-01-af1",
+          "sneak-02-dunk-panda",
+          "sneak-03-samba-og",
+          "sneak-04-ml574",
+          "sneak-05-bb550"
+        ],
+        "collage": "assets/creative/sneak-16/list-01-05.jpg",
+        "collageWidth": 1120,
+        "collageHeight": 1400,
+        "sortOrder": "provided-order",
+        "caption": "紹介用ビジュアル（実物写真）です。画像の01〜05と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、サイズにより変動します。最新情報は販売先でご確認ください。"
+      },
+      {
+        "id": "match",
+        "title": "いつもの服に、合わせる。",
+        "productIds": [
+          "sneak-06-gel1130",
+          "sneak-07-puma-suede",
+          "sneak-08-vans-oldskool",
+          "sneak-09-converse-ct70",
+          "sneak-10-reebok-clubc"
+        ],
+        "collage": "assets/creative/sneak-16/list-06-10.jpg",
+        "collageWidth": 1120,
+        "collageHeight": 1400,
+        "sortOrder": "provided-order",
+        "caption": "紹介用ビジュアル（実物写真）です。画像の06〜10と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、サイズにより変動します。最新情報は販売先でご確認ください。"
+      },
+      {
+        "id": "next",
+        "title": "次に履きたい、一足を。",
+        "productIds": [
+          "sneak-11-on-cloud6",
+          "sneak-12-hoka-clifton11",
+          "sneak-13-salomon-xt6",
+          "sneak-14-mizuno-rider28",
+          "sneak-15-aj1-low"
+        ],
+        "collage": "assets/creative/sneak-16/list-11-15.jpg",
+        "collageWidth": 1120,
+        "collageHeight": 1400,
+        "sortOrder": "provided-order",
+        "caption": "紹介用ビジュアル（実物写真）です。画像の11〜15と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、サイズにより変動します。最新情報は販売先でご確認ください。"
+      }
+    ],
+    "creativeAssets": {
+      "cover": "assets/creative/sneak-16/cover.jpg",
+      "origin": "user-supplied-social-artwork",
+      "summary": "assets/creative/sneak-16/summary.jpg",
+      "notes": "表紙・まとめ・グループ画像はレン提供の投稿用アートワーク。商品写真は楽天リンク作成画面で取得した実物写真。"
+    }
+  },
+  {
+    "id": "watch-gift-15",
+    "number": "07",
+    "publishedAt": null,
+    "displayOrder": 70,
+    "status": "published",
+    "isPublic": true,
+    "title": "彼氏に贈る腕時計ギフト15選",
+    "subtitle": "1,000円台のチプカシから、ハミルトンとティソの本格派まで。価格帯で選べる15本を実物写真で紹介。",
+    "category": "腕時計ギフト",
+    "cover": "assets/creative/watch-15/cover.jpg",
+    "snsImage": "assets/creative/watch-15/cover.jpg",
+    "coverFit": "contain",
+    "productIds": [
+      "watch-01-casio-mq24",
+      "watch-02-casio-f91w",
+      "watch-03-alba-aqpk402",
+      "watch-04-timex-easyreader",
+      "watch-05-qq-falcon",
+      "watch-06-dw-classic40",
+      "watch-07-skagen-signatur",
+      "watch-08-fossil-forester",
+      "watch-09-seiko5-sbsa113",
+      "watch-10-citizen-bv1120",
+      "watch-11-hamilton-khaki",
+      "watch-12-tissot-prx",
+      "watch-13-alba-aqpk401",
+      "watch-14-bering-chrono",
+      "watch-15-timex-weekender"
+    ],
+    "videoUrl": "",
+    "layout": "category-ads",
+    "showCover": true,
+    "groups": [
+      {
+        "id": "easy",
+        "title": "気軽に贈る、最初の一本。",
+        "productIds": [
+          "watch-01-casio-mq24",
+          "watch-02-casio-f91w",
+          "watch-03-alba-aqpk402",
+          "watch-04-timex-easyreader",
+          "watch-05-qq-falcon"
+        ],
+        "collage": "assets/creative/watch-15/list-01-05.jpg",
+        "collageWidth": 1120,
+        "collageHeight": 1400,
+        "sortOrder": "provided-order",
+        "caption": "商品写真は販売先の実物写真です。画像の01〜05と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
+      },
+      {
+        "id": "style",
+        "title": "装いに合わせて、選ぶ。",
+        "productIds": [
+          "watch-06-dw-classic40",
+          "watch-07-skagen-signatur",
+          "watch-08-fossil-forester",
+          "watch-09-seiko5-sbsa113",
+          "watch-10-citizen-bv1120"
+        ],
+        "collage": "assets/creative/watch-15/list-06-10.jpg",
+        "collageWidth": 1120,
+        "collageHeight": 1400,
+        "sortOrder": "provided-order",
+        "caption": "商品写真は販売先の実物写真です。画像の06〜10と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
+      },
+      {
+        "id": "special",
+        "title": "大切な人に、選ぶ一本。",
+        "productIds": [
+          "watch-11-hamilton-khaki",
+          "watch-12-tissot-prx",
+          "watch-13-alba-aqpk401",
+          "watch-14-bering-chrono",
+          "watch-15-timex-weekender"
+        ],
+        "collage": "assets/creative/watch-15/list-11-15.jpg",
+        "collageWidth": 1120,
+        "collageHeight": 1400,
+        "sortOrder": "provided-order",
+        "caption": "商品写真は販売先の実物写真です。画像の11〜15と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
+      }
+    ],
+    "creativeAssets": {
+      "cover": "assets/creative/watch-15/cover.jpg",
+      "origin": "user-supplied-social-artwork",
+      "summary": "assets/creative/watch-15/summary.jpg",
+      "notes": "所有者から提供された完成済み画像をそのまま使用。商品写真は楽天アフィリエイトのリンク作成画面から取得した実物写真（表紙のみAI合成の背景イメージで、画像内に明記）。まとめ画像はSNS投稿の2枚目に使う全15点一覧。"
+    }
+  },
+  {
+    "id": "coffee-gift-15",
+    "number": "08",
+    "publishedAt": null,
+    "displayOrder": 80,
+    "status": "published",
+    "isPublic": true,
+    "title": "予算5,000円以下。コーヒー好きへ贈るクリスマスギフト15選",
+    "subtitle": "一杯・淹れる時間・カフェ時間の3テーマ。全品5,000円以下でそろう、コーヒー好きへの贈り物15点。",
+    "category": "コーヒーギフト",
+    "cover": "assets/creative/coffee-13/cover.jpg",
+    "snsImage": "assets/creative/coffee-13/cover.jpg",
+    "coverFit": "contain",
+    "productIds": [
+      "coffee-01-stack-mug",
+      "coffee-02-aroma-mug",
+      "coffee-03-pavina",
+      "coffee-04-travel-tumbler",
+      "coffee-05-chambord",
+      "coffee-06-v60-dripper",
+      "coffee-07-wave-dripper",
+      "coffee-08-carafe-set",
+      "coffee-09-dripper-switch",
+      "coffee-10-coffee-mill",
+      "coffee-11-canister",
+      "coffee-12-drip-kettle",
+      "coffee-13-sepia-cup",
+      "coffee-14-filter-stand",
+      "coffee-15-creamer"
+    ],
+    "videoUrl": "",
+    "layout": "category-ads",
+    "showCover": true,
+    "groups": [
+      {
+        "id": "cup",
+        "title": "一杯を、特別に。",
+        "productIds": [
+          "coffee-01-stack-mug",
+          "coffee-02-aroma-mug",
+          "coffee-03-pavina",
+          "coffee-04-travel-tumbler",
+          "coffee-05-chambord"
+        ],
+        "collage": "assets/creative/coffee-13/list-01-05.jpg",
+        "collageWidth": 1122,
+        "collageHeight": 1402,
+        "sortOrder": "provided-order",
+        "caption": "紹介用ビジュアル（演出を含みます）。画像の01〜05と下の広告番号が対応しています。価格は2026年11月26日の掲載額で、最新情報は販売先でご確認ください。"
+      },
+      {
+        "id": "brew",
+        "title": "淹れる時間も、楽しく。",
+        "productIds": [
+          "coffee-06-v60-dripper",
+          "coffee-07-wave-dripper",
+          "coffee-08-carafe-set",
+          "coffee-09-dripper-switch",
+          "coffee-10-coffee-mill"
+        ],
+        "collage": "assets/creative/coffee-13/list-06-10.jpg",
+        "collageWidth": 1122,
+        "collageHeight": 1402,
+        "sortOrder": "provided-order",
+        "caption": "紹介用ビジュアル（演出を含みます）。画像の06〜10と下の広告番号が対応しています。価格は2026年11月26日の掲載額で、最新情報は販売先でご確認ください。"
+      },
+      {
+        "id": "cafe",
+        "title": "カフェ時間を、整える。",
+        "productIds": [
+          "coffee-11-canister",
+          "coffee-12-drip-kettle",
+          "coffee-13-sepia-cup",
+          "coffee-14-filter-stand",
+          "coffee-15-creamer"
+        ],
+        "collage": "assets/creative/coffee-13/list-11-15.jpg",
+        "collageWidth": 1122,
+        "collageHeight": 1402,
+        "sortOrder": "provided-order",
+        "caption": "紹介用ビジュアル（演出を含みます）。画像の11〜15と下の広告番号が対応しています。価格は2026年11月26日の掲載額で、最新情報は販売先でご確認ください。"
+      }
+    ],
+    "creativeAssets": {
+      "cover": "assets/creative/coffee-13/cover.jpg",
+      "origin": "user-supplied-social-artwork",
+      "summary": "assets/creative/coffee-13/summary.jpg",
+      "notes": "所有者から提供された完成済み画像をそのまま使用。商品ビジュアルはAIによる紹介用イメージ（画像内に明記）。まとめ画像はSNS投稿の2枚目に使う全15点一覧。商品写真や仕様の根拠とは別管理。"
+    }
+  },
+  {
+    "id": "winter-warm-15",
+    "number": "09",
+    "publishedAt": null,
+    "displayOrder": 90,
+    "status": "published",
+    "isPublic": true,
+    "title": "予算5,000円以下。おうちで使える冬のあったかグッズ15選",
+    "subtitle": "足もと・からだ・ひと息の3テーマ。全品5,000円以下でそろう、冬のおうち時間を温める15点。",
+    "category": "冬のあったかグッズ",
+    "cover": "assets/creative/warm-12/cover.jpg",
+    "snsImage": "assets/creative/warm-12/cover.jpg",
+    "coverFit": "contain",
+    "productIds": [
+      "warm-01-kotatsu-socks",
+      "warm-02-leg-warmer",
+      "warm-03-ondo-beads",
+      "warm-04-mouton-slippers",
+      "warm-05-room-boots",
+      "warm-06-hokaron-pants",
+      "warm-07-silk-haramaki",
+      "warm-08-groony",
+      "warm-09-panel-heater",
+      "warm-10-neck-warmer",
+      "warm-11-fashy-yutanpo",
+      "warm-12-maruka-yutanpo",
+      "warm-13-azuki-neck",
+      "warm-14-azuki-eye",
+      "warm-15-azuki-belt"
+    ],
+    "videoUrl": "",
+    "layout": "category-ads",
+    "showCover": true,
+    "groups": [
+      {
+        "id": "feet",
+        "title": "足もとを、あたたかく。",
+        "productIds": [
+          "warm-01-kotatsu-socks",
+          "warm-02-leg-warmer",
+          "warm-03-ondo-beads",
+          "warm-04-mouton-slippers",
+          "warm-05-room-boots"
+        ],
+        "collage": "assets/creative/warm-12/list-01-05.jpg",
+        "collageWidth": 1122,
+        "collageHeight": 1402,
+        "sortOrder": "provided-order",
+        "caption": "紹介用ビジュアル（演出を含みます）。画像の01〜05と下の広告番号が対応しています。価格は2026年11月26日の掲載額で、最新情報は販売先でご確認ください。"
+      },
+      {
+        "id": "body",
+        "title": "からだを、ぬくぬく。",
+        "productIds": [
+          "warm-06-hokaron-pants",
+          "warm-07-silk-haramaki",
+          "warm-08-groony",
+          "warm-09-panel-heater",
+          "warm-10-neck-warmer"
+        ],
+        "collage": "assets/creative/warm-12/list-06-10.jpg",
+        "collageWidth": 1122,
+        "collageHeight": 1402,
+        "sortOrder": "provided-order",
+        "caption": "紹介用ビジュアル（演出を含みます）。画像の06〜10と下の広告番号が対応しています。価格は2026年11月26日の掲載額で、最新情報は販売先でご確認ください。"
+      },
+      {
+        "id": "relax",
+        "title": "ひと息ついて、ぽかぽか。",
+        "productIds": [
+          "warm-11-fashy-yutanpo",
+          "warm-12-maruka-yutanpo",
+          "warm-13-azuki-neck",
+          "warm-14-azuki-eye",
+          "warm-15-azuki-belt"
+        ],
+        "collage": "assets/creative/warm-12/list-11-15.jpg",
+        "collageWidth": 1122,
+        "collageHeight": 1402,
+        "sortOrder": "provided-order",
+        "caption": "紹介用ビジュアル（演出を含みます）。画像の11〜15と下の広告番号が対応しています。価格は2026年11月26日の掲載額で、最新情報は販売先でご確認ください。"
+      }
+    ],
+    "creativeAssets": {
+      "cover": "assets/creative/warm-12/cover.jpg",
+      "origin": "user-supplied-social-artwork",
+      "summary": "assets/creative/warm-12/summary.jpg",
+      "notes": "所有者から提供された完成済み画像をそのまま使用。商品ビジュアルはAIによる紹介用イメージ（画像内に明記）。まとめ画像はSNS投稿の2枚目に使う全15点一覧。商品写真や仕様の根拠とは別管理。"
+    }
   }
 ]

@@ -2138,5 +2138,2405 @@
         "enabled": true
       }
     ]
+  },
+  {
+    "id": "sneak-01-af1",
+    "name": "NIKE AIR FORCE 1 '07 ホワイト",
+    "category": "定番",
+    "brand": "NIKE",
+    "description": "不動の定番、白のエアフォース1（CW2288-111）。全サイズ同価格。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 1,
+    "price": 16700,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/sneak-16/list-01-05.jpg",
+      "alt": "投稿16の商品01 NIKE AIR FORCE 1 '07 ホワイト の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/limited-edt/cw2288-111/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flimited-edt%2Fcw2288-111%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/sneak-01-af1.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "sneak-02-dunk-panda",
+    "name": "NIKE Dunk Low Retro パンダ",
+    "category": "定番",
+    "brand": "NIKE",
+    "description": "白黒パンダカラーのダンク ロー（DD1503-101）。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 2,
+    "price": 15869,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額（サイズにより15,869円〜19,800円。掲載額は28cmの価格）",
+    "presentation": {
+      "src": "assets/creative/sneak-16/list-01-05.jpg",
+      "alt": "投稿16の商品02 NIKE Dunk Low Retro パンダ の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/carryme/compass1759547033/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcarryme%2Fcompass1759547033%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/sneak-02-dunk-panda.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "sneak-03-samba-og",
+    "name": "adidas SAMBA OG ブラック",
+    "category": "定番",
+    "brand": "adidas",
+    "description": "ガムソールのサンバ OG（B75807）。全サイズ同価格。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 3,
+    "price": 15950,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/sneak-16/list-01-05.jpg",
+      "alt": "投稿16の商品03 adidas SAMBA OG ブラック の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/lowtex/b75807/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flowtex%2Fb75807%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/sneak-03-samba-og.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "sneak-04-ml574",
+    "name": "New Balance ML574 EVN ネイビー",
+    "category": "定番",
+    "brand": "New Balance",
+    "description": "ニューバランス公式ストアの定番574、ネイビー。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 4,
+    "price": 13970,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/sneak-16/list-01-05.jpg",
+      "alt": "投稿16の商品04 New Balance ML574 EVN ネイビー の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/newbalance-store/ml574evn/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnewbalance-store%2Fml574evn%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/sneak-04-ml574.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "sneak-05-bb550",
+    "name": "New Balance BB550 PB1 ホワイト",
+    "category": "定番",
+    "brand": "New Balance",
+    "description": "コート系の人気モデルBB550、白。在庫は24.0・24.5cmのみです。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 5,
+    "price": 11990,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/sneak-16/list-01-05.jpg",
+      "alt": "投稿16の商品05 New Balance BB550 PB1 ホワイト の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/supersportsxebio/107651837011/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupersportsxebio%2F107651837011%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/sneak-05-bb550.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "sneak-06-gel1130",
+    "name": "ASICS GEL-1130 ホワイト/グレー",
+    "category": "合わせやすい",
+    "brand": "ASICS",
+    "description": "Y2Kムードのランニングモデル、ホワイト/グレー。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 6,
+    "price": 12900,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/sneak-16/list-06-10.jpg",
+      "alt": "投稿16の商品06 ASICS GEL-1130 ホワイト/グレー の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/toptotoponline/1203a609112/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftoptotoponline%2F1203a609112%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/sneak-06-gel1130.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "sneak-07-puma-suede",
+    "name": "PUMA Suede Classic ブラック",
+    "category": "合わせやすい",
+    "brand": "PUMA",
+    "description": "プーマ公式ショップのスエード クラシック、ブラック。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 7,
+    "price": 11550,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/sneak-16/list-06-10.jpg",
+      "alt": "投稿16の商品07 PUMA Suede Classic ブラック の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/puma/399781_07/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpuma%2F399781_07%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/sneak-07-puma-suede.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "sneak-08-vans-oldskool",
+    "name": "VANS OLD SKOOL オールブラック",
+    "category": "合わせやすい",
+    "brand": "VANS",
+    "description": "真っ黒のオールドスクール。在庫は25〜29cmです。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 8,
+    "price": 8800,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/sneak-16/list-06-10.jpg",
+      "alt": "投稿16の商品08 VANS OLD SKOOL オールブラック の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/precious-place/6730/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fprecious-place%2F6730%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/sneak-08-vans-oldskool.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "sneak-09-converse-ct70",
+    "name": "CONVERSE ALL STAR US OX CT70 ブラック",
+    "category": "合わせやすい",
+    "brand": "CONVERSE",
+    "description": "USコンバースのCT70、ブラックのローカット。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 9,
+    "price": 8360,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/sneak-16/list-06-10.jpg",
+      "alt": "投稿16の商品09 CONVERSE ALL STAR US OX CT70 ブラック の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/precious-place/6265/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fprecious-place%2F6265%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/sneak-09-converse-ct70.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "sneak-10-reebok-clubc",
+    "name": "Reebok CLUB C 85 ホワイト",
+    "category": "合わせやすい",
+    "brand": "Reebok",
+    "description": "クリーンな白レザーのクラブC。在庫は22.5〜23.5cmのみです。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 10,
+    "price": 6589,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/sneak-16/list-06-10.jpg",
+      "alt": "投稿16の商品10 Reebok CLUB C 85 ホワイト の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/abc-mart/6674210001/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fabc-mart%2F6674210001%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/sneak-10-reebok-clubc.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "sneak-11-on-cloud6",
+    "name": "On CLOUD 6 ホワイト",
+    "category": "次の一足",
+    "brand": "On",
+    "description": "オンの定番デイリーモデル、クラウド6の白（メンズ）。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 11,
+    "price": 19800,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/sneak-16/list-11-15.jpg",
+      "alt": "投稿16の商品11 On CLOUD 6 ホワイト の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/lowtex/3mf10071200/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flowtex%2F3mf10071200%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/sneak-11-on-cloud6.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "sneak-12-hoka-clifton11",
+    "name": "HOKA CLIFTON 11 WIDE ホワイト",
+    "category": "次の一足",
+    "brand": "HOKA",
+    "description": "ホカの厚底デイリーモデル、クリフトン11のワイド（レディース）。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 12,
+    "price": 19800,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/sneak-16/list-11-15.jpg",
+      "alt": "投稿16の商品12 HOKA CLIFTON 11 WIDE ホワイト の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/supersportsxebio/109265769011/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupersportsxebio%2F109265769011%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/sneak-12-hoka-clifton11.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "sneak-13-salomon-xt6",
+    "name": "SALOMON XT-6 ADV ブラック",
+    "category": "次の一足",
+    "brand": "SALOMON",
+    "description": "サロモンの人気トレイルモデルXT-6、ブラック。全サイズ同価格。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 13,
+    "price": 28600,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/sneak-16/list-11-15.jpg",
+      "alt": "投稿16の商品13 SALOMON XT-6 ADV ブラック の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/lowtex/l41086600/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flowtex%2Fl41086600%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/sneak-13-salomon-xt6.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "sneak-14-mizuno-rider28",
+    "name": "MIZUNO ウエーブライダー28",
+    "category": "次の一足",
+    "brand": "MIZUNO",
+    "description": "ミズノの定番ランニングシューズ。在庫は大きめサイズ中心です。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 14,
+    "price": 9900,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/sneak-16/list-11-15.jpg",
+      "alt": "投稿16の商品14 MIZUNO ウエーブライダー28 の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/campista/j1gc240301/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcampista%2Fj1gc240301%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/sneak-14-mizuno-rider28.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "sneak-15-aj1-low",
+    "name": "NIKE AIR JORDAN 1 LOW ホワイト/ブラック",
+    "category": "次の一足",
+    "brand": "NIKE",
+    "description": "白×黒のエアジョーダン1 ロー（ウィメンズ）。輸入品表記があります。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 15,
+    "price": 17600,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/sneak-16/list-11-15.jpg",
+      "alt": "投稿16の商品15 NIKE AIR JORDAN 1 LOW ホワイト/ブラック の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/lowtex/dc0774-101/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08a73d.1e576052.5a08a73e.847d34bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flowtex%2Fdc0774-101%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/sneak-15-aj1-low.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "watch-01-casio-mq24",
+    "name": "CASIO MQ-24-7B2LLJH",
+    "category": "気軽に贈る",
+    "brand": "CASIO",
+    "description": "CASIOの定番アナログ腕時計 MQ-24-7B2LLJH。ホワイト文字盤×ブラック樹脂ベルト。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 1,
+    "price": 1487,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/watch-15/list-01-05.jpg",
+      "alt": "彼氏に贈る腕時計15選（01〜05）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/jism/4549526295591-51-57607-n/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088b3b.f6682153.5a088b3c.545d9fa2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjism%2F4549526295591-51-57607-n%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/watch-01-casio-mq24.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "watch-02-casio-f91w",
+    "name": "CASIO F-91W-1JH",
+    "category": "気軽に贈る",
+    "brand": "CASIO",
+    "description": "CASIOのデジタル腕時計 F-91W-1JH。ブラック。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 2,
+    "price": 1526,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/watch-15/list-01-05.jpg",
+      "alt": "彼氏に贈る腕時計15選（01〜05）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/jism/4549526295508-51-57607-n/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088b3b.f6682153.5a088b3c.545d9fa2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjism%2F4549526295508-51-57607-n%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/watch-02-casio-f91w.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "watch-03-alba-aqpk402",
+    "name": "ALBA AQPK402",
+    "category": "気軽に贈る",
+    "brand": "ALBA",
+    "description": "ALBAの腕時計 AQPK402。ネイビー文字盤×ネイビーナイロン。メーカー在庫を含む場合があり、発送まで最大3営業日。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 3,
+    "price": 3850,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/watch-15/list-01-05.jpg",
+      "alt": "彼氏に贈る腕時計15選（01〜05）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/10keiya/132250/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088a63.0e7e5bb2.5a088a64.a0cc4f1a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F10keiya%2F132250%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/watch-03-alba-aqpk402.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "watch-04-timex-easyreader",
+    "name": "TIMEX イージーリーダー TW2W95400",
+    "category": "気軽に贈る",
+    "brand": "TIMEX",
+    "description": "TIMEXのイージーリーダー TW2W95400。ホワイト文字盤×ブラック牛革。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 4,
+    "price": 11000,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/watch-15/list-01-05.jpg",
+      "alt": "彼氏に贈る腕時計15選（01〜05）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/theclockhouse/tw2w95400/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088a58.7b41689e.5a088a59.61e63457/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftheclockhouse%2Ftw2w95400%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/watch-04-timex-easyreader.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "watch-05-qq-falcon",
+    "name": "CITIZEN Q&Q Falcon D012-204",
+    "category": "気軽に贈る",
+    "brand": "CITIZEN Q&Q",
+    "description": "CITIZEN Q&QのFalcon D012-204。ホワイト文字盤×シルバーメタル。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 5,
+    "price": 3000,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/watch-15/list-01-05.jpg",
+      "alt": "彼氏に贈る腕時計15選（01〜05）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/takarabako1/d012-204/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088b12.6b8e24ca.5a088b13.5d5ea7b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftakarabako1%2Fd012-204%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/watch-05-qq-falcon.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "watch-06-dw-classic40",
+    "name": "Daniel Wellington Classic 40 DW00100020",
+    "category": "装いに合わせて",
+    "brand": "Daniel Wellington",
+    "description": "Daniel WellingtonのClassic 40 Sheffield DW00100020。ホワイト文字盤×ブラックレザー。お取り寄せ商品で、出荷まで1週間〜2か月かかります。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 6,
+    "price": 22800,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/watch-15/list-06-10.jpg",
+      "alt": "彼氏に贈る腕時計15選（06〜10）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/biccamera/7350068240140/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088b12.6b8e24ca.5a088b13.5d5ea7b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbiccamera%2F7350068240140%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/watch-06-dw-classic40.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "watch-07-skagen-signatur",
+    "name": "SKAGEN Signatur SKW6577",
+    "category": "装いに合わせて",
+    "brand": "SKAGEN",
+    "description": "SKAGENのSignatur SKW6577。グレー×グレーメッシュ。逆輸入・海外モデル（ショップの本物保証あり）。残りわずか表示。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 7,
+    "price": 18900,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/watch-15/list-06-10.jpg",
+      "alt": "彼氏に贈る腕時計15選（06〜10）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/nopple/skw6577/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088b12.6b8e24ca.5a088b13.5d5ea7b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnopple%2Fskw6577%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/watch-07-skagen-signatur.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "watch-08-fossil-forester",
+    "name": "FOSSIL フォレスター クロノ FS5608",
+    "category": "装いに合わせて",
+    "brand": "FOSSIL",
+    "description": "FOSSILのフォレスター クロノグラフ FS5608。ブラック文字盤×ブラウン牛革。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 8,
+    "price": 11980,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/watch-15/list-06-10.jpg",
+      "alt": "彼氏に贈る腕時計15選（06〜10）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/jw-hata/fofs5608/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088a58.7b41689e.5a088a59.61e63457/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjw-hata%2Ffofs5608%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/watch-08-fossil-forester.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "watch-09-seiko5-sbsa113",
+    "name": "SEIKO 5スポーツ SBSA113",
+    "category": "装いに合わせて",
+    "brand": "SEIKO",
+    "description": "SEIKO 5スポーツ SBSA113。ブルー文字盤×ステンレス、自動巻き。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 9,
+    "price": 34320,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/watch-15/list-06-10.jpg",
+      "alt": "彼氏に贈る腕時計15選（06〜10）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/theclockhouse/sbsa113/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088a58.7b41689e.5a088a59.61e63457/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftheclockhouse%2Fsbsa113%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/watch-09-seiko5-sbsa113.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "watch-10-citizen-bv1120",
+    "name": "CITIZEN COLLECTION BV1120-15L",
+    "category": "装いに合わせて",
+    "brand": "CITIZEN",
+    "description": "CITIZEN COLLECTION BV1120-15L。ネイビー文字盤×ブラックカーフ、エコドライブ。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 10,
+    "price": 25410,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/watch-15/list-06-10.jpg",
+      "alt": "彼氏に贈る腕時計15選（06〜10）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/hatten/bv1120-15l/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088a58.7b41689e.5a088a59.61e63457/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhatten%2Fbv1120-15l%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/watch-10-citizen-bv1120.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "watch-11-hamilton-khaki",
+    "name": "HAMILTON Khaki Field メカニカル H69439931",
+    "category": "大切な人に",
+    "brand": "HAMILTON",
+    "description": "HAMILTONのKhaki Field メカニカル H69439931。ブラック文字盤×グリーンテキスタイル、手巻き。公式ストア。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 11,
+    "price": 94600,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/watch-15/list-11-15.jpg",
+      "alt": "彼氏に贈る腕時計15選（11〜15）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/hamiltonofficial/h69439931/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088a63.0e7e5bb2.5a088a64.a0cc4f1a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhamiltonofficial%2Fh69439931%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/watch-11-hamilton-khaki.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "watch-12-tissot-prx",
+    "name": "TISSOT PRX クォーツ T1374101105100",
+    "category": "大切な人に",
+    "brand": "TISSOT",
+    "description": "TISSOTのPRX クォーツ T1374101105100。ブラック文字盤×シルバーブレス。公式ストア。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 12,
+    "price": 77000,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/watch-15/list-11-15.jpg",
+      "alt": "彼氏に贈る腕時計15選（11〜15）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/tissot/t1374101105100/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088a63.0e7e5bb2.5a088a64.a0cc4f1a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftissot%2Ft1374101105100%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/watch-12-tissot-prx.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "watch-13-alba-aqpk401",
+    "name": "ALBA AQPK401",
+    "category": "大切な人に",
+    "brand": "ALBA",
+    "description": "ALBAの腕時計 AQPK401。ベージュ文字盤×ブラックナイロン。メーカー在庫を含む場合があります。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 13,
+    "price": 4620,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/watch-15/list-11-15.jpg",
+      "alt": "彼氏に贈る腕時計15選（11〜15）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/10keiya/132249/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088a63.0e7e5bb2.5a088a64.a0cc4f1a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F10keiya%2F132249%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/watch-13-alba-aqpk401.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "watch-14-bering-chrono",
+    "name": "BERING Classic Link クロノ 11740-728",
+    "category": "大切な人に",
+    "brand": "BERING",
+    "description": "BERINGのClassic Link クロノグラフ 11740-728。グリーン文字盤×ブラック。店舗保証（アウトレット店）。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 14,
+    "price": 18980,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/watch-15/list-11-15.jpg",
+      "alt": "彼氏に贈る腕時計15選（11〜15）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/supplystore/11740-728/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088a63.0e7e5bb2.5a088a64.a0cc4f1a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupplystore%2F11740-728%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/watch-14-bering-chrono.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "watch-15-timex-weekender",
+    "name": "TIMEX ウィークエンダー 37mm TW2W86500",
+    "category": "大切な人に",
+    "brand": "TIMEX",
+    "description": "TIMEXのウィークエンダー 37mm TW2W86500。アイボリー文字盤×ブラウン革。残りわずか表示。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 15,
+    "price": 16500,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/watch-15/list-11-15.jpg",
+      "alt": "彼氏に贈る腕時計15選（11〜15）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/theclockhouse/tw2w86500/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a088a58.7b41689e.5a088a59.61e63457/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftheclockhouse%2Ftw2w86500%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/watch-15-timex-weekender.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "coffee-01-stack-mug",
+    "name": "KINTO SCS スタックマグ 320ml",
+    "category": "一杯",
+    "brand": "KINTO",
+    "description": "重ねて収納できる磁器のスタックマグ。320ml・ネイビー・1個。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 1,
+    "price": 1210,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/coffee-13/list-01-05.jpg",
+      "alt": "コーヒーギフト15選（01〜05）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/livingut/276917/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a037cad.f3d9449c.5a037caf.ad74d223/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flivingut%2F276917%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/coffee-01-stack-mug.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "coffee-02-aroma-mug",
+    "name": "ORIGAMI アロママグ",
+    "category": "一杯",
+    "brand": "ORIGAMI",
+    "description": "香りを楽しむ形状にこだわったマグカップ。320ml・マットベージュ・1個。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 2,
+    "price": 1760,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/coffee-13/list-01-05.jpg",
+      "alt": "コーヒーギフト15選（01〜05）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/tsujimoto/origami-aroma-mug/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a037ecc.c8fb9e08.5a037ecd.5a440d30/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsujimoto%2Forigami-aroma-mug%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/coffee-02-aroma-mug.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "coffee-03-pavina",
+    "name": "BODUM PAVINA 250ml 2個",
+    "category": "一杯",
+    "brand": "BODUM",
+    "description": "保温・保冷できるダブルウォールグラスPAVINA。250ml×2個セット（4558-10）。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 3,
+    "price": 2551,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/coffee-13/list-01-05.jpg",
+      "alt": "コーヒーギフト15選（01〜05）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/bodumshop/4558-10/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a03805f.11e278c0.5a038060.41aef9ee/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbodumshop%2F4558-10%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/coffee-03-pavina.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "coffee-04-travel-tumbler",
+    "name": "KINTO トラベルタンブラー 350ml",
+    "category": "一杯",
+    "brand": "KINTO",
+    "description": "持ち運びに便利なステンレス製トラベルタンブラー。350ml・ホワイト（20932）。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 4,
+    "price": 3300,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/coffee-13/list-01-05.jpg",
+      "alt": "コーヒーギフト15選（01〜05）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/hands-net/4963264501484/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a038232.f9fcfd7f.5a038233.9575d982/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhands-net%2F4963264501484%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/coffee-04-travel-tumbler.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "coffee-05-chambord",
+    "name": "BODUM CHAMBORD 350ml",
+    "category": "一杯",
+    "brand": "BODUM",
+    "description": "ペーパーレスで淹れるフレンチプレスCHAMBORD。350ml・シルバー（1923-16）。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 5,
+    "price": 3960,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/coffee-13/list-01-05.jpg",
+      "alt": "コーヒーギフト15選（01〜05）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/bodumshop/1923-16/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a03805f.11e278c0.5a038060.41aef9ee/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbodumshop%2F1923-16%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/coffee-05-chambord.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "coffee-06-v60-dripper",
+    "name": "HARIO V60 セラミックドリッパー02",
+    "category": "淹れる時間",
+    "brand": "HARIO",
+    "description": "有田焼のセラミック製V60ドリッパー。02サイズ・1〜4杯用・ホワイト（VDCR-02-W）。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 6,
+    "price": 3490,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/coffee-13/list-06-10.jpg",
+      "alt": "コーヒーギフト15選（06〜10）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/ksrainbow/vdc-02w/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a03848e.e7559159.5a03848f.9ba33af1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fksrainbow%2Fvdc-02w%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/coffee-06-v60-dripper.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "coffee-07-wave-dripper",
+    "name": "Kalita ウェーブドリッパー155 S",
+    "category": "淹れる時間",
+    "brand": "Kalita",
+    "description": "ステンレス製のウェーブドリッパー155 S。1〜2人用（04151）。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 7,
+    "price": 3912,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/coffee-13/list-06-10.jpg",
+      "alt": "コーヒーギフト15選（06〜10）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/kcm-onlineshop/100-4901369041511/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a0385c5.dbb497f9.5a0385c6.2938b785/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkcm-onlineshop%2F100-4901369041511%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/coffee-07-wave-dripper.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "coffee-08-carafe-set",
+    "name": "KINTO SCS コーヒーカラフェセット300ml",
+    "category": "淹れる時間",
+    "brand": "KINTO",
+    "description": "ステンレスフィルター付きのコーヒーカラフェセット。300ml（27620）。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 8,
+    "price": 4180,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/coffee-13/list-06-10.jpg",
+      "alt": "コーヒーギフト15選（06〜10）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/hands-net/4963264496650/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a038232.f9fcfd7f.5a038233.9575d982/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhands-net%2F4963264496650%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/coffee-08-carafe-set.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "coffee-09-dripper-switch",
+    "name": "HARIO 浸漬式ドリッパースイッチ",
+    "category": "淹れる時間",
+    "brand": "HARIO",
+    "description": "浸して抽出する浸漬式ドリッパースイッチ。ドリッパー単品（SSD-200-B）。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 9,
+    "price": 3850,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/coffee-13/list-06-10.jpg",
+      "alt": "コーヒーギフト15選（06〜10）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/beisia/4977642728165/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a038866.d446e149.5a038867.cfd82d33/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeisia%2F4977642728165%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/coffee-09-dripper-switch.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "coffee-10-coffee-mill",
+    "name": "HARIO セラミックコーヒーミル・スケルトンN",
+    "category": "淹れる時間",
+    "brand": "HARIO",
+    "description": "セラミック臼の手挽きコーヒーミル・スケルトンN（MSCSN-2-B）。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 10,
+    "price": 4180,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/coffee-13/list-06-10.jpg",
+      "alt": "コーヒーギフト15選（06〜10）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/hario-onlinestore/mscsn-2-b/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a038973.fe73db3f.5a038974.7b173fb9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhario-onlinestore%2Fmscsn-2-b%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/coffee-10-coffee-mill.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "coffee-11-canister",
+    "name": "KINTO SCS コーヒーキャニスター600ml",
+    "category": "カフェ時間",
+    "brand": "KINTO",
+    "description": "コーヒー豆の保存に使うキャニスター。600ml・ホワイト（27668）。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 11,
+    "price": 2420,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/coffee-13/list-11-15.jpg",
+      "alt": "コーヒーギフト15選（11〜15）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/tonya/301981/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a038a11.40ee17f4.5a038a12.fab64427/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftonya%2F301981%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/coffee-11-canister.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "coffee-12-drip-kettle",
+    "name": "HARIO V60ドリップケトル・エアー",
+    "category": "カフェ時間",
+    "brand": "HARIO",
+    "description": "細く注ぎやすいドリップケトル・エアー。350ml・透明ブラック（VKA-35-TB）。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 12,
+    "price": 1485,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/coffee-13/list-11-15.jpg",
+      "alt": "コーヒーギフト15選（11〜15）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/wadatoki/vka-35-tb/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a038aa9.fcdd51bd.5a038aaa.e42615e8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwadatoki%2Fvka-35-tb%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/coffee-12-drip-kettle.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "coffee-13-sepia-cup",
+    "name": "KINTO SEPIA カップ＆ソーサー270ml",
+    "category": "カフェ時間",
+    "brand": "KINTO",
+    "description": "木製ソーサー付きのカップ＆ソーサーSEPIA。270ml・アンバー（21742）。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 13,
+    "price": 2970,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/coffee-13/list-11-15.jpg",
+      "alt": "コーヒーギフト15選（11〜15）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/tonya/303427/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a038a11.40ee17f4.5a038a12.fab64427/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftonya%2F303427%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/coffee-13-sepia-cup.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "coffee-14-filter-stand",
+    "name": "KINTO SCS ペーパーフィルタースタンド",
+    "category": "カフェ時間",
+    "brand": "KINTO",
+    "description": "ペーパーフィルターを立てて収納するスタンド。ホワイト・本体のみ（27670）。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 14,
+    "price": 1980,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/coffee-13/list-11-15.jpg",
+      "alt": "コーヒーギフト15選（11〜15）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/interior-palette/4963264499873/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a038bcc.36bf8d53.5a038bcd.44663e01/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finterior-palette%2F4963264499873%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/coffee-14-filter-stand.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "coffee-15-creamer",
+    "name": "HARIO クリーマーキュート",
+    "category": "カフェ時間",
+    "brand": "HARIO",
+    "description": "ミルクを泡立てるクリーマーキュート。ガラスボールタイプ（CQT-45BR）。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 15,
+    "price": 3080,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/coffee-13/list-11-15.jpg",
+      "alt": "コーヒーギフト15選（11〜15）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/hario-onlinestore/v_30316040716366/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a038973.fe73db3f.5a038974.7b173fb9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhario-onlinestore%2Fv_30316040716366%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/coffee-15-creamer.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "warm-01-kotatsu-socks",
+    "name": "まるでこたつソックス",
+    "category": "足もと",
+    "brand": "靴下サプリ",
+    "description": "こたつの中みたいな暖かさが続く厚手のルームソックス。洗濯ネット付き、23–25cm。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 1,
+    "price": 1782,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/warm-12/list-01-05.jpg",
+      "alt": "冬のあったかグッズ15選（01〜05）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/supersox/632995/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a03647c.f65dae43.5a03647d.725ee8ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupersox%2F632995%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/warm-01-kotatsu-socks.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "warm-02-leg-warmer",
+    "name": "まるでこたつ レッグウォーマー",
+    "category": "足もと",
+    "brand": "靴下サプリ",
+    "description": "足首からふくらはぎまでを包むレッグウォーマー。フリーサイズ・1足。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 2,
+    "price": 1782,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/warm-12/list-01-05.jpg",
+      "alt": "冬のあったかグッズ15選（01〜05）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/supersox/633991/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a03647c.f65dae43.5a03647d.725ee8ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupersox%2F633991%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/warm-02-leg-warmer.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "warm-03-ondo-beads",
+    "name": "＆ONDO 足首あったかビーズウォーマー",
+    "category": "足もと",
+    "brand": "&ONDO",
+    "description": "足首に巻いて使うビーズウォーマー。型番AN-C501F、カラーはチャコール。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 3,
+    "price": 3850,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/warm-12/list-01-05.jpg",
+      "alt": "冬のあったかグッズ15選（01〜05）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/and-ondo/a0012/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a03648a.7dc0c62e.5a03648b.eec0a0de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fand-ondo%2Fa0012%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/warm-03-ondo-beads.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "warm-04-mouton-slippers",
+    "name": "SleepTailor ムートンスリッパ",
+    "category": "足もと",
+    "brand": "SleepTailor",
+    "description": "ムートン素材のルームスリッパ。Mサイズ・1足。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 4,
+    "price": 3580,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/warm-12/list-01-05.jpg",
+      "alt": "冬のあったかグッズ15選（01〜05）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/crescent-mix/mouton_slippers/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a0364b3.79b9bd4d.5a0364b4.3afb6c4d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcrescent-mix%2Fmouton_slippers%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/warm-04-mouton-slippers.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "warm-05-room-boots",
+    "name": "最上 ボア ルームブーツ",
+    "category": "足もと",
+    "brand": "最上",
+    "description": "ふわふわボアのルームブーツ。Mサイズ・薄茶色・1足。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 5,
+    "price": 1485,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/warm-12/list-01-05.jpg",
+      "alt": "冬のあったかグッズ15選（01〜05）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/roomshoes-mogami/dx2020/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a0364cd.9e7d6e1b.5a0364ce.0d3f7eb2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomshoes-mogami%2Fdx2020%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/warm-05-room-boots.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "warm-06-hokaron-pants",
+    "name": "履くホカロン 腹巻きパンツ",
+    "category": "からだ",
+    "brand": "履くホカロン",
+    "description": "腹巻きと一体になった防寒パンツ。5分丈ロング・M・1枚。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 6,
+    "price": 2200,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/warm-12/list-06-10.jpg",
+      "alt": "冬のあったかグッズ15選（06〜10）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/renfrojapan/hknlh/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a0364e7.25e9e1ca.5a0364e8.37fa7b2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frenfrojapan%2Fhknlh%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/warm-06-hokaron-pants.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "warm-07-silk-haramaki",
+    "name": "ミッシーリスト シルク腹巻",
+    "category": "からだ",
+    "brand": "ミッシーリスト",
+    "description": "シルク混のうす手の腹巻。通常サイズ・1枚。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 7,
+    "price": 1870,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/warm-12/list-06-10.jpg",
+      "alt": "冬のあったかグッズ15選（06〜10）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/mishii-list/silk-haramaki/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a036501.24f3fa4f.5a036502.34c6ac3b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmishii-list%2Fsilk-haramaki%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/warm-07-silk-haramaki.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "warm-08-groony",
+    "name": "LOWYA GROONY 着る毛布",
+    "category": "からだ",
+    "brand": "LOWYA",
+    "description": "着たまま動ける着る毛布GROONY。M（ミドル）・1枚。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 8,
+    "price": 3490,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/warm-12/list-06-10.jpg",
+      "alt": "冬のあったかグッズ15選（06〜10）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/low-ya/vg-groony/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a03651b.2d01f3f8.5a03651c.5c0d1db0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flow-ya%2Fvg-groony%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/warm-08-groony.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "warm-09-panel-heater",
+    "name": "triple shop パネルヒーター",
+    "category": "からだ",
+    "brand": "triple shop",
+    "description": "足もとを囲む3面タイプの折りたたみパネルヒーター。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 9,
+    "price": 3980,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/warm-12/list-06-10.jpg",
+      "alt": "冬のあったかグッズ15選（06〜10）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/tripleshop/s-ta70020-gy/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a036535.25f2e7c9.5a036536.0cbde18c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftripleshop%2Fs-ta70020-gy%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/warm-09-panel-heater.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "warm-10-neck-warmer",
+    "name": "モノズキ ぽかぽかネックウォーマー",
+    "category": "からだ",
+    "brand": "モノズキ",
+    "description": "USB Type-Cで充電して使うネックウォーマー。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 10,
+    "price": 3980,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/warm-12/list-06-10.jpg",
+      "alt": "冬のあったかグッズ15選（06〜10）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/willgo/dn-sea13shan101/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a03654f.4cdcc51b.5a036550.aeb8ee7e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwillgo%2Fdn-sea13shan101%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/warm-10-neck-warmer.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "warm-11-fashy-yutanpo",
+    "name": "FASHY フリースカバー湯たんぽ",
+    "category": "ひと息",
+    "brand": "FASHY",
+    "description": "フリースカバー付きの湯たんぽ。2L・カバー付。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 11,
+    "price": 2599,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/warm-12/list-11-15.jpg",
+      "alt": "冬のあったかグッズ15選（11〜15）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/glv/fs9-00/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a036583.2e79b1f9.5a036584.bcb3d6ef/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fglv%2Ffs9-00%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/warm-11-fashy-yutanpo.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "warm-12-maruka-yutanpo",
+    "name": "マルカ 湯たんぽ A〈エース〉",
+    "category": "ひと息",
+    "brand": "マルカ",
+    "description": "トタン製の湯たんぽ。2.5L・袋・替パッキン付き。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 12,
+    "price": 2849,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/warm-12/list-11-15.jpg",
+      "alt": "冬のあったかグッズ15選（11〜15）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/i-order/10041902/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a0365b7.6d14b8ea.5a0365b8.c7f4f6a7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fi-order%2F10041902%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/warm-12-maruka-yutanpo.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "warm-13-azuki-neck",
+    "name": "あずきのチカラ 首肩用",
+    "category": "ひと息",
+    "brand": "小林製薬",
+    "description": "レンジで温めて使う、首・肩用のあずき温熱パッド。1個。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 13,
+    "price": 2347,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/warm-12/list-11-15.jpg",
+      "alt": "冬のあったかグッズ15選（11〜15）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/nitto-netstore/ra120056/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a0365d1.3b5b0c1a.5a0365d2.0f6c5e0a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnitto-netstore%2Fra120056%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/warm-13-azuki-neck.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "warm-14-azuki-eye",
+    "name": "あずきのチカラ 目もと用",
+    "category": "ひと息",
+    "brand": "小林製薬",
+    "description": "レンジで温めて使う、目もと用のあずき温熱パッド。1個。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 14,
+    "price": 1324,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/warm-12/list-11-15.jpg",
+      "alt": "冬のあったかグッズ15選（11〜15）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/nitto-netstore/ra170000074/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a0365eb.0abdcb12.5a0365ec.f1e6dc5e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnitto-netstore%2Fra170000074%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/warm-14-azuki-eye.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "id": "warm-15-azuki-belt",
+    "name": "あずきのチカラ どこでもベルト",
+    "category": "ひと息",
+    "brand": "小林製薬",
+    "description": "レンジで温めて腰などに巻いて使う、ベルトタイプのあずき温熱パッド。1個。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 15,
+    "price": 1883,
+    "priceBasis": "2026-11-26に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/warm-12/list-11-15.jpg",
+      "alt": "冬のあったかグッズ15選（11〜15）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/thinkrich/sk09422/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-26"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a0375bb.72f25e3d.5a0375bc.464b7240/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthinkrich%2Fsk09422%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/warm-15-azuki-belt.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   }
 ]
