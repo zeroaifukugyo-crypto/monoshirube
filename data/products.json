@@ -1,1542 +1,2142 @@
 [
- {
-  "id": "xmas26-men-01-share-warmer",
-  "brand": "Life on Products",
-  "name": "両手で使えるシェアカイロ",
-  "category": "クリスマスギフト",
-  "description": "充電して繰り返し使える分離式の木目調カイロ。",
-  "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "presentation": {
-   "src": "assets/creative/christmas-2026/men/01-share-warmer.jpg",
-   "alt": "Life on Products 両手で使えるシェアカイロのSNS紹介画像",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
-  },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/lifeonproducts/lcaea007/",
-   "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
-   "checkedAt": "2026-11-14"
-  },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598676e1.f5299882.598676e2.0c3f45e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flifeonproducts%2Flcaea007%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+  {
+    "id": "xmas26-men-01-share-warmer",
+    "brand": "Life on Products",
+    "name": "両手で使えるシェアカイロ",
+    "category": "クリスマスギフト",
+    "description": "充電して繰り返し使える分離式の木目調カイロ。",
+    "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
+    "status": "published",
     "enabled": true,
-    "buttonLabel": "楽天で見る",
-    "disclosure": "広告・PR"
-   }
-  ]
- },
- {
-  "id": "xmas26-men-02-lindt",
-  "brand": "Lindt",
-  "name": "リンドール ギフトボックス",
-  "category": "クリスマスギフト",
-  "description": "クリスマス仕様のチョコレート20個セット。",
-  "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "presentation": {
-   "src": "assets/creative/christmas-2026/men/02-lindt.jpg",
-   "alt": "Lindt リンドール ギフトボックスのSNS紹介画像",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+    "presentation": {
+      "src": "assets/creative/christmas-2026/men/01-share-warmer.jpg",
+      "alt": "Life on Products 両手で使えるシェアカイロのSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/lifeonproducts/lcaea007/",
+      "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
+      "checkedAt": "2026-11-14"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598676e1.f5299882.598676e2.0c3f45e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flifeonproducts%2Flcaea007%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+        "enabled": true,
+        "buttonLabel": "楽天で見る",
+        "disclosure": "広告・PR"
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/lindt-chocolate/lindor_giftbox_m/",
-   "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
-   "checkedAt": "2026-11-14"
-  },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59866e9d.21d3355b.59866e9f.e9d5a3e1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flindt-chocolate%2Flindor_giftbox_m%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+  {
+    "id": "xmas26-men-02-lindt",
+    "brand": "Lindt",
+    "name": "リンドール ギフトボックス",
+    "category": "クリスマスギフト",
+    "description": "クリスマス仕様のチョコレート20個セット。",
+    "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
+    "status": "published",
     "enabled": true,
-    "buttonLabel": "楽天で見る",
-    "disclosure": "広告・PR"
-   }
-  ]
- },
- {
-  "id": "xmas26-men-03-starbucks",
-  "brand": "STARBUCKS",
-  "name": "オリガミ マグカップ付きギフト SBC-32A",
-  "category": "クリスマスギフト",
-  "description": "グリーンマグ1個と、3種6袋のドリップコーヒーのセット。",
-  "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "presentation": {
-   "src": "assets/creative/christmas-2026/men/03-starbucks.jpg",
-   "alt": "STARBUCKS オリガミ マグカップ付きギフト SBC-32AのSNS紹介画像",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+    "presentation": {
+      "src": "assets/creative/christmas-2026/men/02-lindt.jpg",
+      "alt": "Lindt リンドール ギフトボックスのSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/lindt-chocolate/lindor_giftbox_m/",
+      "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
+      "checkedAt": "2026-11-14"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59866e9d.21d3355b.59866e9f.e9d5a3e1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flindt-chocolate%2Flindor_giftbox_m%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+        "enabled": true,
+        "buttonLabel": "楽天で見る",
+        "disclosure": "広告・PR"
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/oculu/sb-10_002/",
-   "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
-   "checkedAt": "2026-11-14"
-  },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598670b6.ba5ef1b9.598670b7.65c2231a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foculu%2Fsb-10_002%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+  {
+    "id": "xmas26-men-03-starbucks",
+    "brand": "STARBUCKS",
+    "name": "オリガミ マグカップ付きギフト SBC-32A",
+    "category": "クリスマスギフト",
+    "description": "グリーンマグ1個と、3種6袋のドリップコーヒーのセット。",
+    "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
+    "status": "published",
     "enabled": true,
-    "buttonLabel": "楽天で見る",
-    "disclosure": "広告・PR"
-   }
-  ]
- },
- {
-  "id": "xmas26-men-04-proudmen",
-  "brand": "PROUDMEN.",
-  "name": "グルーミングバーム",
-  "category": "クリスマスギフト",
-  "description": "グルーミング・シトラスの香りのクリームタイプのフレグランス。",
-  "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "presentation": {
-   "src": "assets/creative/christmas-2026/men/04-proudmen.jpg",
-   "alt": "PROUDMEN. グルーミングバームのSNS紹介画像",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+    "presentation": {
+      "src": "assets/creative/christmas-2026/men/03-starbucks.jpg",
+      "alt": "STARBUCKS オリガミ マグカップ付きギフト SBC-32AのSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/oculu/sb-10_002/",
+      "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
+      "checkedAt": "2026-11-14"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598670b6.ba5ef1b9.598670b7.65c2231a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foculu%2Fsb-10_002%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+        "enabled": true,
+        "buttonLabel": "楽天で見る",
+        "disclosure": "広告・PR"
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/mcosme-style/probod0040/",
-   "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
-   "checkedAt": "2026-11-14"
-  },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59867184.655d754c.59867185.c61703fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmcosme-style%2Fprobod0040%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+  {
+    "id": "xmas26-men-04-proudmen",
+    "brand": "PROUDMEN.",
+    "name": "グルーミングバーム",
+    "category": "クリスマスギフト",
+    "description": "グルーミング・シトラスの香りのクリームタイプのフレグランス。",
+    "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
+    "status": "published",
     "enabled": true,
-    "buttonLabel": "楽天で見る",
-    "disclosure": "広告・PR"
-   }
-  ]
- },
- {
-  "id": "xmas26-men-05-bulk-homme",
-  "brand": "BULK HOMME",
-  "name": "洗顔料＆泡立てネットセット",
-  "category": "クリスマスギフト",
-  "description": "ザ フェイスウォッシュと専用の泡立てネットのセット。",
-  "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "presentation": {
-   "src": "assets/creative/christmas-2026/men/05-bulk-homme.jpg",
-   "alt": "BULK HOMME 洗顔料＆泡立てネットセットのSNS紹介画像",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+    "presentation": {
+      "src": "assets/creative/christmas-2026/men/04-proudmen.jpg",
+      "alt": "PROUDMEN. グルーミングバームのSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/mcosme-style/probod0040/",
+      "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
+      "checkedAt": "2026-11-14"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59867184.655d754c.59867185.c61703fe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmcosme-style%2Fprobod0040%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+        "enabled": true,
+        "buttonLabel": "楽天で見る",
+        "disclosure": "広告・PR"
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/bulkhomme-official/022/",
-   "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
-   "checkedAt": "2026-11-14"
-  },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59867280.e957ea8e.59867281.dade0bc2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbulkhomme-official%2F022%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+  {
+    "id": "xmas26-men-05-bulk-homme",
+    "brand": "BULK HOMME",
+    "name": "洗顔料＆泡立てネットセット",
+    "category": "クリスマスギフト",
+    "description": "ザ フェイスウォッシュと専用の泡立てネットのセット。",
+    "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
+    "status": "published",
     "enabled": true,
-    "buttonLabel": "楽天で見る",
-    "disclosure": "広告・PR"
-   }
-  ]
- },
- {
-  "id": "xmas26-women-01-gelato-pique",
-  "brand": "gelato pique",
-  "name": "ベビモコチェックジャガードソックス",
-  "category": "クリスマスギフト",
-  "description": "赤いチェック柄のHOLIDAYルームソックス。",
-  "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "presentation": {
-   "src": "assets/creative/christmas-2026/women/01-gelato-pique.jpg",
-   "alt": "gelato pique ベビモコチェックジャガードソックスのSNS紹介画像",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+    "presentation": {
+      "src": "assets/creative/christmas-2026/men/05-bulk-homme.jpg",
+      "alt": "BULK HOMME 洗顔料＆泡立てネットセットのSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/bulkhomme-official/022/",
+      "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
+      "checkedAt": "2026-11-14"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59867280.e957ea8e.59867281.dade0bc2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbulkhomme-official%2F022%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+        "enabled": true,
+        "buttonLabel": "楽天で見る",
+        "disclosure": "広告・PR"
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/shirohato/b52pwgs265658/",
-   "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
-   "checkedAt": "2026-11-14"
-  },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598679b3.b73e4b64.598679b4.2213799f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshirohato%2Fb52pwgs265658%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+  {
+    "id": "xmas26-women-01-gelato-pique",
+    "brand": "gelato pique",
+    "name": "ベビモコチェックジャガードソックス",
+    "category": "クリスマスギフト",
+    "description": "赤いチェック柄のHOLIDAYルームソックス。",
+    "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
+    "status": "published",
     "enabled": true,
-    "buttonLabel": "楽天で見る",
-    "disclosure": "広告・PR"
-   }
-  ]
- },
- {
-  "id": "xmas26-women-02-lindt",
-  "brand": "Lindt",
-  "name": "リンドール ギフトボックス",
-  "category": "クリスマスギフト",
-  "description": "クリスマス仕様のチョコレート20個セット。",
-  "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "presentation": {
-   "src": "assets/creative/christmas-2026/women/02-lindt.jpg",
-   "alt": "Lindt リンドール ギフトボックスのSNS紹介画像",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+    "presentation": {
+      "src": "assets/creative/christmas-2026/women/01-gelato-pique.jpg",
+      "alt": "gelato pique ベビモコチェックジャガードソックスのSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/shirohato/b52pwgs265658/",
+      "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
+      "checkedAt": "2026-11-14"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/598679b3.b73e4b64.598679b4.2213799f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshirohato%2Fb52pwgs265658%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+        "enabled": true,
+        "buttonLabel": "楽天で見る",
+        "disclosure": "広告・PR"
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/lindt-chocolate/lindor_giftbox_m/",
-   "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
-   "checkedAt": "2026-11-14"
-  },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59866e9d.21d3355b.59866e9f.e9d5a3e1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flindt-chocolate%2Flindor_giftbox_m%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+  {
+    "id": "xmas26-women-02-lindt",
+    "brand": "Lindt",
+    "name": "リンドール ギフトボックス",
+    "category": "クリスマスギフト",
+    "description": "クリスマス仕様のチョコレート20個セット。",
+    "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
+    "status": "published",
     "enabled": true,
-    "buttonLabel": "楽天で見る",
-    "disclosure": "広告・PR"
-   }
-  ]
- },
- {
-  "id": "xmas26-women-03-loccitane",
-  "brand": "L’OCCITANE",
-  "name": "フローラル ハンドクリームデュオ",
-  "category": "クリスマスギフト",
-  "description": "2種類のハンドクリームとタオルのセット。",
-  "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "presentation": {
-   "src": "assets/creative/christmas-2026/women/03-loccitane.jpg",
-   "alt": "L’OCCITANE フローラル ハンドクリームデュオのSNS紹介画像",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+    "presentation": {
+      "src": "assets/creative/christmas-2026/women/02-lindt.jpg",
+      "alt": "Lindt リンドール ギフトボックスのSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/lindt-chocolate/lindor_giftbox_m/",
+      "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
+      "checkedAt": "2026-11-14"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59866e9d.21d3355b.59866e9f.e9d5a3e1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flindt-chocolate%2Flindor_giftbox_m%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+        "enabled": true,
+        "buttonLabel": "楽天で見る",
+        "disclosure": "広告・PR"
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/loccitane/loc00217/",
-   "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
-   "checkedAt": "2026-11-14"
-  },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59797657.5d9710d3.59797658.f330e091/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Floccitane%2Floc00217%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+  {
+    "id": "xmas26-women-03-loccitane",
+    "brand": "L’OCCITANE",
+    "name": "フローラル ハンドクリームデュオ",
+    "category": "クリスマスギフト",
+    "description": "2種類のハンドクリームとタオルのセット。",
+    "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
+    "status": "published",
     "enabled": true,
-    "buttonLabel": "楽天で見る",
-    "disclosure": "広告・PR"
-   }
-  ]
- },
- {
-  "id": "xmas26-women-04-jill-stuart",
-  "brand": "JILL STUART",
-  "name": "ハンカチ＆ハンドクリームギフト",
-  "category": "クリスマスギフト",
-  "description": "花の香りのハンドクリームとリボン刺繍のハンカチ。",
-  "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "presentation": {
-   "src": "assets/creative/christmas-2026/women/04-jill-stuart.jpg",
-   "alt": "JILL STUART ハンカチ＆ハンドクリームギフトのSNS紹介画像",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+    "presentation": {
+      "src": "assets/creative/christmas-2026/women/03-loccitane.jpg",
+      "alt": "L’OCCITANE フローラル ハンドクリームデュオのSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/loccitane/loc00217/",
+      "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
+      "checkedAt": "2026-11-14"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59797657.5d9710d3.59797658.f330e091/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Floccitane%2Floc00217%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+        "enabled": true,
+        "buttonLabel": "楽天で見る",
+        "disclosure": "広告・PR"
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/partytime-tokyo/19js008cfr/",
-   "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
-   "checkedAt": "2026-11-14"
-  },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59809dee.17f0834d.59809def.bd18a417/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpartytime-tokyo%2F19js008cfr%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+  {
+    "id": "xmas26-women-04-jill-stuart",
+    "brand": "JILL STUART",
+    "name": "ハンカチ＆ハンドクリームギフト",
+    "category": "クリスマスギフト",
+    "description": "花の香りのハンドクリームとリボン刺繍のハンカチ。",
+    "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
+    "status": "published",
     "enabled": true,
-    "buttonLabel": "楽天で見る",
-    "disclosure": "広告・PR"
-   }
-  ]
- },
- {
-  "id": "xmas26-women-05-refa",
-  "brand": "ReFa",
-  "name": "リファハートブラシ",
-  "category": "クリスマスギフト",
-  "description": "髪のからまりをほぐしながら整えるヘアブラシ。",
-  "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "presentation": {
-   "src": "assets/creative/christmas-2026/women/05-refa.jpg",
-   "alt": "ReFa リファハートブラシのSNS紹介画像",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+    "presentation": {
+      "src": "assets/creative/christmas-2026/women/04-jill-stuart.jpg",
+      "alt": "JILL STUART ハンカチ＆ハンドクリームギフトのSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/partytime-tokyo/19js008cfr/",
+      "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
+      "checkedAt": "2026-11-14"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59809dee.17f0834d.59809def.bd18a417/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpartytime-tokyo%2F19js008cfr%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+        "enabled": true,
+        "buttonLabel": "楽天で見る",
+        "disclosure": "広告・PR"
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/mtgec-beauty/5385720101/",
-   "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
-   "checkedAt": "2026-11-14"
-  },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59866d17.a58b7172.59866d18.0710f5c4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmtgec-beauty%2F5385720101%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+  {
+    "id": "xmas26-women-05-refa",
+    "brand": "ReFa",
+    "name": "リファハートブラシ",
+    "category": "クリスマスギフト",
+    "description": "髪のからまりをほぐしながら整えるヘアブラシ。",
+    "check": "色・セット内容・送料・在庫は販売先でご確認ください。",
+    "status": "published",
     "enabled": true,
-    "buttonLabel": "楽天で見る",
-    "disclosure": "広告・PR"
-   }
-  ]
- },
- {
-  "id": "her-01-coach-bag",
-  "name": "COACH OUTLET フェイ ミニ ドローストリング バッグ キルティング ブラック",
-  "category": "ときめき",
-  "brand": "COACH",
-  "description": "キルティングレザーの巾着バッグ、ブラック。COACH OUTLETのアイテムです。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 1,
-  "price": 17600,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/her-17/list-01-05.jpg",
-   "alt": "投稿17の商品01 COACH OUTLET フェイ ミニ ドローストリング バッグ キルティング ブラック の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+    "presentation": {
+      "src": "assets/creative/christmas-2026/women/05-refa.jpg",
+      "alt": "ReFa リファハートブラシのSNS紹介画像",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/mtgec-beauty/5385720101/",
+      "specificationSourceName": "提供された楽天商品情報・SNS紹介資料",
+      "checkedAt": "2026-11-14"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59866d17.a58b7172.59866d18.0710f5c4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmtgec-beauty%2F5385720101%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjAsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "利用者指定の商品URL・広告ID・紹介画像の対応表に基づく。",
+        "enabled": true,
+        "buttonLabel": "楽天で見る",
+        "disclosure": "広告・PR"
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/stylife/qv4280/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
+  {
+    "id": "her-01-coach-bag",
+    "name": "COACH OUTLET フェイ ミニ ドローストリング バッグ キルティング ブラック",
+    "category": "ときめき",
+    "brand": "COACH",
+    "description": "キルティングレザーの巾着バッグ、ブラック。COACH OUTLETのアイテムです。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 1,
+    "price": 17600,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/her-17/list-01-05.jpg",
+      "alt": "投稿17の商品01 COACH OUTLET フェイ ミニ ドローストリング バッグ キルティング ブラック の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/stylife/qv4280/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a087518.3bff0687.5a08751a.a05b48d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstylife%2Fqv4280%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/her-01-coach-bag.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a087518.3bff0687.5a08751a.a05b48d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstylife%2Fqv4280%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/her-01-coach-bag.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "her-02-katespade-pendant",
-  "name": "kate spade エブリデイ スペード パヴェ ミニ ペンダント シルバー",
-  "category": "ときめき",
-  "brand": "kate spade new york",
-  "description": "スペードモチーフのパヴェペンダント、シルバー。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 2,
-  "price": 11440,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/her-17/list-01-05.jpg",
-   "alt": "投稿17の商品02 kate spade エブリデイ スペード パヴェ ミニ ペンダント シルバー の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+  {
+    "id": "her-02-katespade-pendant",
+    "name": "kate spade エブリデイ スペード パヴェ ミニ ペンダント シルバー",
+    "category": "ときめき",
+    "brand": "kate spade new york",
+    "description": "スペードモチーフのパヴェペンダント、シルバー。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 2,
+    "price": 11440,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/her-17/list-01-05.jpg",
+      "alt": "投稿17の商品02 kate spade エブリデイ スペード パヴェ ミニ ペンダント シルバー の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/katespadenewyork/rw1149/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/2fa4fb0c.6b5a48c3.2fa4fb0d.8e0b27f4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkatespadenewyork%2Frw1149%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/her-02-katespade-pendant.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/katespadenewyork/rw1149/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
+  {
+    "id": "her-03-furla-wallet",
+    "name": "FURLA カメリア 長財布 ラウンドファスナー ブラック",
+    "category": "ときめき",
+    "brand": "FURLA",
+    "description": "フルラの定番「カメリア」の長財布、ブラック。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 3,
+    "price": 19800,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/her-17/list-01-05.jpg",
+      "alt": "投稿17の商品03 FURLA カメリア 長財布 ラウンドファスナー ブラック の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/brstring/gfuzwp003133015/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/07a4e3d8.1a7f8c09.07a4e3d9.bd6c8ee7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrstring%2Fgfuzwp003133015%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/her-03-furla-wallet.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/2fa4fb0c.6b5a48c3.2fa4fb0d.8e0b27f4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkatespadenewyork%2Frw1149%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/her-02-katespade-pendant.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "her-03-furla-wallet",
-  "name": "FURLA カメリア 長財布 ラウンドファスナー ブラック",
-  "category": "ときめき",
-  "brand": "FURLA",
-  "description": "フルラの定番「カメリア」の長財布、ブラック。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 3,
-  "price": 19800,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/her-17/list-01-05.jpg",
-   "alt": "投稿17の商品03 FURLA カメリア 長財布 ラウンドファスナー ブラック の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+  {
+    "id": "her-04-mj-beautybag",
+    "name": "MARC JACOBS THE BEAUTY BAG ブラック",
+    "category": "ときめき",
+    "brand": "MARC JACOBS",
+    "description": "ロゴが目を引くビューティーバッグ（ポーチ）、ブラック。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 4,
+    "price": 17600,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/her-17/list-01-05.jpg",
+      "alt": "投稿17の商品04 MARC JACOBS THE BEAUTY BAG ブラック の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/stylife/ne6338/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a087518.3bff0687.5a08751a.a05b48d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstylife%2Fne6338%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/her-04-mj-beautybag.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/brstring/gfuzwp003133015/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
+  {
+    "id": "her-05-mk-watch",
+    "name": "MICHAEL KORS LAURYN ウォッチ ローズゴールド",
+    "category": "ときめき",
+    "brand": "MICHAEL KORS",
+    "description": "ローズゴールドのレディースウォッチ。きらめくベゼルが華やかです。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 5,
+    "price": 22990,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/her-17/list-01-05.jpg",
+      "alt": "投稿17の商品05 MICHAEL KORS LAURYN ウォッチ ローズゴールド の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/stylife/pz0176/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a087518.3bff0687.5a08751a.a05b48d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstylife%2Fpz0176%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/her-05-mk-watch.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/07a4e3d8.1a7f8c09.07a4e3d9.bd6c8ee7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrstring%2Fgfuzwp003133015%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/her-03-furla-wallet.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "her-04-mj-beautybag",
-  "name": "MARC JACOBS THE BEAUTY BAG ブラック",
-  "category": "ときめき",
-  "brand": "MARC JACOBS",
-  "description": "ロゴが目を引くビューティーバッグ（ポーチ）、ブラック。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 4,
-  "price": 17600,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/her-17/list-01-05.jpg",
-   "alt": "投稿17の商品04 MARC JACOBS THE BEAUTY BAG ブラック の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+  {
+    "id": "her-06-samantha-bag",
+    "name": "Samantha Thavasa ミニハンドバッグ Holiday Collection ブラック",
+    "category": "好み",
+    "brand": "Samantha Thavasa",
+    "description": "ホリデーコレクションのミニハンドバッグ、ブラック（ピンク・白もあり）。公式ショップのアイテムです。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 6,
+    "price": 35200,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/her-17/list-06-10.jpg",
+      "alt": "投稿17の商品06 Samantha Thavasa ミニハンドバッグ Holiday Collection ブラック の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/samanthathavasa/th8095/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/08d21f14.5f3eb0a6.08d21f15.e9b4f3c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsamanthathavasa%2Fth8095%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/her-06-samantha-bag.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/stylife/ne6338/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
+  {
+    "id": "her-07-jillstuart-set",
+    "name": "JILL STUART リップマスク＆ハンドクリームセット J-62",
+    "category": "好み",
+    "brand": "JILL STUART",
+    "description": "ギフトボックス入りのリップマスク＆ハンドクリームセット。写真はギフトボックスです。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 7,
+    "price": 4180,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/her-17/list-06-10.jpg",
+      "alt": "投稿17の商品07 JILL STUART リップマスク＆ハンドクリームセット J-62 の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/shaddy/001744549/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/21e9b35a.8df8d6d0.21e9b35b.3ec1d36d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshaddy%2F001744549%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/her-07-jillstuart-set.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a087518.3bff0687.5a08751a.a05b48d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstylife%2Fne6338%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/her-04-mj-beautybag.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "her-05-mk-watch",
-  "name": "MICHAEL KORS LAURYN ウォッチ ローズゴールド",
-  "category": "ときめき",
-  "brand": "MICHAEL KORS",
-  "description": "ローズゴールドのレディースウォッチ。きらめくベゼルが華やかです。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 5,
-  "price": 22990,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/her-17/list-01-05.jpg",
-   "alt": "投稿17の商品05 MICHAEL KORS LAURYN ウォッチ ローズゴールド の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+  {
+    "id": "her-08-maryquant-pouch",
+    "name": "MARY QUANT オーバルポーチ デイジーパッチ ブラック",
+    "category": "好み",
+    "brand": "MARY QUANT",
+    "description": "デイジーパッチがポイントのオーバルポーチ、ブラック。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 8,
+    "price": 5500,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/her-17/list-06-10.jpg",
+      "alt": "投稿17の商品08 MARY QUANT オーバルポーチ デイジーパッチ ブラック の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/0101marui/to512272580101/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/1ea01f8c.e4c2a8da.1ea01f8d.b6fe4e8d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F0101marui%2Fto512272580101%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/her-08-maryquant-pouch.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/stylife/pz0176/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
+  {
+    "id": "her-09-vivienne-pendant",
+    "name": "Vivienne Westwood FEODORA PENDANT シルバー",
+    "category": "好み",
+    "brand": "Vivienne Westwood",
+    "description": "オーブモチーフのペンダント、シルバー。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 9,
+    "price": 18000,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/her-17/list-06-10.jpg",
+      "alt": "投稿17の商品09 Vivienne Westwood FEODORA PENDANT シルバー の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/mb/630203ep-02p373/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/04d6b8db.9c2dfda1.04d6b8dc.dbe4ac34/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmb%2F630203ep-02p373%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/her-09-vivienne-pendant.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a087518.3bff0687.5a08751a.a05b48d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstylife%2Fpz0176%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/her-05-mk-watch.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "her-06-samantha-bag",
-  "name": "Samantha Thavasa ミニハンドバッグ Holiday Collection ブラック",
-  "category": "好み",
-  "brand": "Samantha Thavasa",
-  "description": "ホリデーコレクションのミニハンドバッグ、ブラック（ピンク・白もあり）。公式ショップのアイテムです。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 6,
-  "price": 35200,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/her-17/list-06-10.jpg",
-   "alt": "投稿17の商品06 Samantha Thavasa ミニハンドバッグ Holiday Collection ブラック の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+  {
+    "id": "her-10-agnesb-hankachi",
+    "name": "agnes b. タオルハンカチ ハート柄",
+    "category": "好み",
+    "brand": "agnes b.",
+    "description": "ハート柄のタオルハンカチ、ホワイト。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 10,
+    "price": 1100,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/her-17/list-06-10.jpg",
+      "alt": "投稿17の商品10 agnes b. タオルハンカチ ハート柄 の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/0101marui/cd011570960101/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/1ea01f8c.e4c2a8da.1ea01f8d.b6fe4e8d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F0101marui%2Fcd011570960101%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/her-10-agnesb-hankachi.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/samanthathavasa/th8095/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
+  {
+    "id": "her-11-pauljoe-hankachi",
+    "name": "PAUL & JOE プリントハンカチ 花柄",
+    "category": "毎日",
+    "brand": "PAUL & JOE",
+    "description": "花柄のプリントハンカチ、ピンク系。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 11,
+    "price": 1100,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/her-17/list-11-15.jpg",
+      "alt": "投稿17の商品11 PAUL & JOE プリントハンカチ 花柄 の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/0101marui/to507112590101/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/1ea01f8c.e4c2a8da.1ea01f8d.b6fe4e8d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F0101marui%2Fto507112590101%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/her-11-pauljoe-hankachi.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/08d21f14.5f3eb0a6.08d21f15.e9b4f3c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsamanthathavasa%2Fth8095%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/her-06-samantha-bag.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "her-07-jillstuart-set",
-  "name": "JILL STUART リップマスク＆ハンドクリームセット J-62",
-  "category": "好み",
-  "brand": "JILL STUART",
-  "description": "ギフトボックス入りのリップマスク＆ハンドクリームセット。写真はギフトボックスです。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 7,
-  "price": 4180,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/her-17/list-06-10.jpg",
-   "alt": "投稿17の商品07 JILL STUART リップマスク＆ハンドクリームセット J-62 の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+  {
+    "id": "her-12-annasui-cream",
+    "name": "ANNA SUI ブライトニング ハンドクリーム",
+    "category": "毎日",
+    "brand": "ANNA SUI",
+    "description": "ブライトニングハンドクリーム40g。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 12,
+    "price": 2980,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/her-17/list-11-15.jpg",
+      "alt": "投稿17の商品12 ANNA SUI ブライトニング ハンドクリーム 40g の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/emporio8888/10002322/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/37a9e14d.a2a6c2b3.37a9e14e.e3fe9dc9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Femporio8888%2F10002322%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/her-12-annasui-cream.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/shaddy/001744549/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
+  {
+    "id": "her-13-gelatopique-pouch",
+    "name": "gelato pique ストロベリー総柄バニティポーチ",
+    "category": "毎日",
+    "brand": "gelato pique",
+    "description": "いちご総柄のバニティポーチ、ホワイト。持ち手付きです。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 13,
+    "price": 5940,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/her-17/list-11-15.jpg",
+      "alt": "投稿17の商品13 gelato pique ストロベリー総柄バニティポーチ の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/usagi-online/sg2486/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/1b3e0f28.d0fbb0ce.1b3e0f29.2d9afad0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fusagi-online%2Fsg2486%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/her-13-gelatopique-pouch.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/21e9b35a.8df8d6d0.21e9b35b.3ec1d36d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshaddy%2F001744549%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/her-07-jillstuart-set.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "her-08-maryquant-pouch",
-  "name": "MARY QUANT オーバルポーチ デイジーパッチ ブラック",
-  "category": "好み",
-  "brand": "MARY QUANT",
-  "description": "デイジーパッチがポイントのオーバルポーチ、ブラック。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 8,
-  "price": 5500,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/her-17/list-06-10.jpg",
-   "alt": "投稿17の商品08 MARY QUANT オーバルポーチ デイジーパッチ ブラック の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+  {
+    "id": "her-14-francfranc-mug",
+    "name": "Francfranc ホイップマグ ヨーグルト（スノーマン）",
+    "category": "毎日",
+    "brand": "Francfranc",
+    "description": "スノーマンのホイップマグ。冬のギフトにぴったりです。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 14,
+    "price": 2000,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/her-17/list-11-15.jpg",
+      "alt": "投稿17の商品14 Francfranc ホイップマグ ヨーグルト（スノーマン） の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/stylife/td4474/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a087518.3bff0687.5a08751a.a05b48d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstylife%2Ftd4474%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/her-14-francfranc-mug.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/0101marui/to512272580101/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
+  {
+    "id": "her-15-coach-keycase",
+    "name": "COACH OUTLET ファイブ リング キー ケース ベージュ",
+    "category": "毎日",
+    "brand": "COACH",
+    "description": "5連リングのキーケース、ベージュ。COACH OUTLETのアイテムです。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 15,
+    "price": 10120,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/her-17/list-11-15.jpg",
+      "alt": "投稿17の商品15 COACH OUTLET ファイブ リング キー ケース ベージュ の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/stylife/gp8798/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a087518.3bff0687.5a08751a.a05b48d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstylife%2Fgp8798%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/her-15-coach-keycase.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/1ea01f8c.e4c2a8da.1ea01f8d.b6fe4e8d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F0101marui%2Fto512272580101%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/her-08-maryquant-pouch.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "her-09-vivienne-pendant",
-  "name": "Vivienne Westwood FEODORA PENDANT シルバー",
-  "category": "好み",
-  "brand": "Vivienne Westwood",
-  "description": "オーブモチーフのペンダント、シルバー。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 9,
-  "price": 18000,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/her-17/list-06-10.jpg",
-   "alt": "投稿17の商品09 Vivienne Westwood FEODORA PENDANT シルバー の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+  {
+    "id": "pair-01-wedgwood-mug",
+    "name": "WEDGWOOD ペアマグ フェスティビティ 350ml×2",
+    "category": "ふたりで使う",
+    "brand": "WEDGWOOD",
+    "description": "フェスティビティのペアマグ（350ml×2）、ギフトボックス付き。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 1,
+    "price": 5280,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/pair-18/list-01-05.jpg",
+      "alt": "投稿18の商品01 WEDGWOOD ペアマグ フェスティビティ 350ml×2 の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/shoppress/wwfespair/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d414.fb27d7e2.5a08d415.dd70af6b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshoppress%2Fwwfespair%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/pair-01-wedgwood-mug.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/mb/630203ep-02p373/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
+  {
+    "id": "pair-02-rayes-glass",
+    "name": "RayES ダブルウォールグラス RDS-002 300ml×2",
+    "category": "ふたりで使う",
+    "brand": "RayES",
+    "description": "ダブルウォールグラスのペア（300ml×2）、ギフトボックス付き。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 2,
+    "price": 5380,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/pair-18/list-01-05.jpg",
+      "alt": "投稿18の商品02 RayES ダブルウォールグラス RDS-002 300ml×2 の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/rayes-glass/gs-02200/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d59c.8348943a.5a08d59d.43e66908/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frayes-glass%2Fgs-02200%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/pair-02-rayes-glass.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/04d6b8db.9c2dfda1.04d6b8dc.dbe4ac34/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmb%2F630203ep-02p373%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/her-09-vivienne-pendant.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "her-10-agnesb-hankachi",
-  "name": "agnes b. タオルハンカチ ハート柄",
-  "category": "好み",
-  "brand": "agnes b.",
-  "description": "ハート柄のタオルハンカチ、ホワイト。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 10,
-  "price": 1100,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/her-17/list-06-10.jpg",
-   "alt": "投稿17の商品10 agnes b. タオルハンカチ ハート柄 の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+  {
+    "id": "pair-03-pajama",
+    "name": "ペアパジャマ 綿100% 前開き",
+    "category": "ふたりで使う",
+    "brand": "部屋着の時間",
+    "description": "綿100%の前開きペアパジャマ。Merry Christmasカードの選択肢があります。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 3,
+    "price": 10780,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/pair-18/list-01-05.jpg",
+      "alt": "投稿18の商品03 ペアパジャマ 綿100% 前開き の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/heyaginojikan/3202324/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d45d.40f4b0d2.5a08d45e.4d9c1e07/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fheyaginojikan%2F3202324%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/pair-03-pajama.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/0101marui/cd011570960101/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
+  {
+    "id": "pair-04-dulton-slipper",
+    "name": "DULTON コーデュロイスリッパ 同色2セット L",
+    "category": "ふたりで使う",
+    "brand": "DULTON",
+    "description": "コーデュロイスリッパの同色2セット（L）。S＋Lで揃えることもできます。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 4,
+    "price": 3460,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/pair-18/list-01-05.jpg",
+      "alt": "投稿18の商品04 DULTON コーデュロイスリッパ 同色2セット L の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/nasluck/46-50899-2/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08dc1b.d3c9be5c.5a08dc1c.1a1d5a03/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnasluck%2F46-50899-2%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/pair-04-dulton-slipper.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/1ea01f8c.e4c2a8da.1ea01f8d.b6fe4e8d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F0101marui%2Fcd011570960101%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/her-10-agnesb-hankachi.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "her-11-pauljoe-hankachi",
-  "name": "PAUL & JOE プリントハンカチ 花柄",
-  "category": "毎日",
-  "brand": "PAUL & JOE",
-  "description": "花柄のプリントハンカチ、ピンク系。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 11,
-  "price": 1100,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/her-17/list-11-15.jpg",
-   "alt": "投稿17の商品11 PAUL & JOE プリントハンカチ 花柄 の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+  {
+    "id": "pair-05-paulsmith-muffler",
+    "name": "Paul Smith ペアマフラー ラムズウール",
+    "category": "ふたりで使う",
+    "brand": "Paul Smith",
+    "description": "ラムズウールのペアマフラー。ギフトラッピング対応です。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 5,
+    "price": 16700,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/pair-18/list-01-05.jpg",
+      "alt": "投稿18の商品05 Paul Smith ペアマフラー ラムズウール の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/hworks/item-63058-pair/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d5c3.2f6e1b0f.5a08d5c4.1ba58f7a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhworks%2Fitem-63058-pair%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/pair-05-paulsmith-muffler.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/0101marui/to507112590101/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
+  {
+    "id": "pair-06-gloves",
+    "name": "ペア手袋 2個セット",
+    "category": "おそろい",
+    "brand": "ジェイウェル",
+    "description": "おそろいのペア手袋2個セット。名入れ刻印対応・日本製です。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 6,
+    "price": 9350,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額（組み合わせにより9,350円〜12,100円）",
+    "presentation": {
+      "src": "assets/creative/pair-18/list-06-10.jpg",
+      "alt": "投稿18の商品06 ペア手袋 2個セット の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/jwell/jw-pg01m-jw-pg03f/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d60e.98ddaa7b.5a08d60f.6ef34a90/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjwell%2Fjw-pg01m-jw-pg03f%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/pair-06-gloves.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/1ea01f8c.e4c2a8da.1ea01f8d.b6fe4e8d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F0101marui%2Fto507112590101%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/her-11-pauljoe-hankachi.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "her-12-annasui-cream",
-  "name": "ANNA SUI ブライトニング ハンドクリーム",
-  "category": "毎日",
-  "brand": "ANNA SUI",
-  "description": "ブライトニングハンドクリーム40g。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 12,
-  "price": 2980,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/her-17/list-11-15.jpg",
-   "alt": "投稿17の商品12 ANNA SUI ブライトニング ハンドクリーム 40g の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+  {
+    "id": "pair-07-keycase",
+    "name": "ペアキーケース ハート型 本革",
+    "category": "おそろい",
+    "brand": "Askalカバン工房",
+    "description": "合わせるとハートになる本革ペアキーケース。名入れ無料です。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 7,
+    "price": 8979,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/pair-18/list-06-10.jpg",
+      "alt": "投稿18の商品07 ペアキーケース ハート型 本革 の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/kabankoubouaskal/k2121/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d625.a3dddb4b.5a08d626.7c0b5ff4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkabankoubouaskal%2Fk2121%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/pair-07-keycase.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/emporio8888/10002322/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
+  {
+    "id": "pair-08-bracelet",
+    "name": "Nicoiro ペアブレスレット S925",
+    "category": "おそろい",
+    "brand": "Nicoiro",
+    "description": "シルバー925のペアブレスレット。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 8,
+    "price": 11980,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/pair-18/list-06-10.jpg",
+      "alt": "投稿18の商品08 Nicoiro ペアブレスレット S925 の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/cozymarket/select-pairbracelet-16/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d642.aad9c4ba.5a08d643.0efdf3c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcozymarket%2Fselect-pairbracelet-16%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/pair-08-bracelet.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/37a9e14d.a2a6c2b3.37a9e14e.e3fe9dc9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Femporio8888%2F10002322%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/her-12-annasui-cream.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "her-13-gelatopique-pouch",
-  "name": "gelato pique ストロベリー総柄バニティポーチ",
-  "category": "毎日",
-  "brand": "gelato pique",
-  "description": "いちご総柄のバニティポーチ、ホワイト。持ち手付きです。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 13,
-  "price": 5940,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/her-17/list-11-15.jpg",
-   "alt": "投稿17の商品13 gelato pique ストロベリー総柄バニティポーチ の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+  {
+    "id": "pair-09-innovator-watch",
+    "name": "innovator エンケル ペアウォッチ 32/38mm",
+    "category": "おそろい",
+    "brand": "innovator",
+    "description": "エンケルのペアウォッチ（32mm/38mm）。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 9,
+    "price": 18700,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額（色の組み合わせにより18,700円〜23,210円）",
+    "presentation": {
+      "src": "assets/creative/pair-18/list-06-10.jpg",
+      "alt": "投稿18の商品09 innovator エンケル ペアウォッチ 32/38mm の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/watch-lab/innovator-009/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d656.40b20a18.5a08d657.34f7c31a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwatch-lab%2Finnovator-009%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/pair-09-innovator-watch.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/usagi-online/sg2486/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
+  {
+    "id": "pair-10-tumbler",
+    "name": "ペアステンレスタンブラー 350ml×2 桐箱入り",
+    "category": "おそろい",
+    "brand": "Faith Peach",
+    "description": "桐箱入りのペアタンブラー。本体に「だんなです。」「よめです。」のプリント入り（商品デザイン）です。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 10,
+    "price": 4680,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/pair-18/list-06-10.jpg",
+      "alt": "投稿18の商品10 ペアステンレスタンブラー 350ml×2 桐箱入り の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/faithpeach/stainless-cup-002/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d672.5a40bcb6.5a08d673.09e05ac0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffaithpeach%2Fstainless-cup-002%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/pair-10-tumbler.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/1b3e0f28.d0fbb0ce.1b3e0f29.2d9afad0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fusagi-online%2Fsg2486%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/her-13-gelatopique-pouch.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "her-14-francfranc-mug",
-  "name": "Francfranc ホイップマグ ヨーグルト（スノーマン）",
-  "category": "毎日",
-  "brand": "Francfranc",
-  "description": "スノーマンのホイップマグ。冬のギフトにぴったりです。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 14,
-  "price": 2000,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/her-17/list-11-15.jpg",
-   "alt": "投稿17の商品14 Francfranc ホイップマグ ヨーグルト（スノーマン） の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+  {
+    "id": "pair-11-chopsticks",
+    "name": "夫婦箸 桜のかがやき 2膳セット 桐箱入り",
+    "category": "一緒の毎日",
+    "brand": "ジュエリーDEX",
+    "description": "若狭塗の夫婦箸2膳セット、桐箱入り。日本製です。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 11,
+    "price": 2200,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/pair-18/list-11-15.jpg",
+      "alt": "投稿18の商品11 夫婦箸 桜のかがやき 2膳セット 桐箱入り の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/jewelry-dex/dch1172311724/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d68b.1b1dcff7.5a08d68c.0eab2d0c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjewelry-dex%2Fdch1172311724%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/pair-11-chopsticks.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/stylife/td4474/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
+  {
+    "id": "pair-12-necklace",
+    "name": "Jオリジナル シルバーペアネックレス",
+    "category": "一緒の毎日",
+    "brand": "Jオリジナル",
+    "description": "シルバーのペアネックレス（チェーンのみ、ペンダントなし）。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 12,
+    "price": 6050,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/pair-18/list-11-15.jpg",
+      "alt": "投稿18の商品12 Jオリジナル シルバーペアネックレス の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/jwell/245sdc4-50-45/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d6b5.7a08d6b5.5a08d6b6.1c9f0e3a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjwell%2F245sdc4-50-45%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/pair-12-necklace.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a087518.3bff0687.5a08751a.a05b48d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstylife%2Ftd4474%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/her-14-francfranc-mug.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "her-15-coach-keycase",
-  "name": "COACH OUTLET ファイブ リング キー ケース ベージュ",
-  "category": "毎日",
-  "brand": "COACH",
-  "description": "5連リングのキーケース、ベージュ。COACH OUTLETのアイテムです。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 15,
-  "price": 10120,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/her-17/list-11-15.jpg",
-   "alt": "投稿17の商品15 COACH OUTLET ファイブ リング キー ケース ベージュ の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+  {
+    "id": "pair-13-thekiss-ring",
+    "name": "THE KISS シルバーペアリング SR1844CB-1845",
+    "category": "一緒の毎日",
+    "brand": "THE KISS",
+    "description": "シルバーペアリング。刻印・ラッピング無料です。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 13,
+    "price": 22000,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/pair-18/list-11-15.jpg",
+      "alt": "投稿18の商品13 THE KISS シルバーペアリング SR1844CB-1845 の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/fast-forward/sr1844cb-1845/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d6db.8f2e4c1a.5a08d6dc.5d7a9b2e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffast-forward%2Fsr1844cb-1845%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/pair-13-thekiss-ring.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/stylife/gp8798/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
+  {
+    "id": "pair-14-iittala-bowl",
+    "name": "Iittala カステヘルミ ボウルペア クリア",
+    "category": "一緒の毎日",
+    "brand": "Iittala",
+    "description": "カステヘルミのボウルペア、クリア。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 14,
+    "price": 6600,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/pair-18/list-11-15.jpg",
+      "alt": "投稿18の商品14 Iittala カステヘルミ ボウルペア クリア の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/auc-concent/2024744/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d70a.3e5f7a8b.5a08d70b.9c1d4e6f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-concent%2F2024744%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/pair-14-iittala-bowl.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a087518.3bff0687.5a08751a.a05b48d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstylife%2Fgp8798%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/her-15-coach-keycase.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "pair-01-wedgwood-mug",
-  "name": "WEDGWOOD ペアマグ フェスティビティ 350ml×2",
-  "category": "ふたりで使う",
-  "brand": "WEDGWOOD",
-  "description": "フェスティビティのペアマグ（350ml×2）、ギフトボックス付き。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 1,
-  "price": 5280,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/pair-18/list-01-05.jpg",
-   "alt": "投稿18の商品01 WEDGWOOD ペアマグ フェスティビティ 350ml×2 の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+  {
+    "id": "pair-15-arita-plate",
+    "name": "1616/arita japan TY Palace 160 2枚セット",
+    "category": "一緒の毎日",
+    "brand": "1616/arita japan",
+    "description": "TY Palace 160のプレート2枚セット、化粧箱入り。",
+    "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 15,
+    "price": 4268,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/pair-18/list-11-15.jpg",
+      "alt": "投稿18の商品15 1616/arita japan TY Palace 160 2枚セット の掲載ビジュアル",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/favras/fn00643/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08fa1c.ad5ebdd3.5a08fa1d.ccb21475/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffavras%2Ffn00643%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/pair-15-arita-plate.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/shoppress/wwfespair/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
+  {
+    "id": "couple-01-marimekko-pouch",
+    "name": "marimekko ガマ口ポーチ MINI UNIKKO",
+    "category": "持ち歩き",
+    "brand": "marimekko",
+    "description": "marimekkoのガマ口ポーチ Puolikas Kukkaro。MINI UNIKKO 190（ブラック×ホワイト）・20x14cm。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 1,
+    "price": 3850,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/couple-14/list-01-05.jpg",
+      "alt": "カップルギフト小物15選（01〜05）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/shop-aer/037773/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08546f.23ff08bd.5a085470.ea767440/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshop-aer%2F037773%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/couple-01-marimekko-pouch.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d414.fb27d7e2.5a08d415.dd70af6b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshoppress%2Fwwfespair%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/pair-01-wedgwood-mug.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "pair-02-rayes-glass",
-  "name": "RayES ダブルウォールグラス RDS-002 300ml×2",
-  "category": "ふたりで使う",
-  "brand": "RayES",
-  "description": "ダブルウォールグラスのペア（300ml×2）、ギフトボックス付き。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 2,
-  "price": 5380,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/pair-18/list-01-05.jpg",
-   "alt": "投稿18の商品02 RayES ダブルウォールグラス RDS-002 300ml×2 の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+  {
+    "id": "couple-02-katespade-card",
+    "name": "kate spade レザースリムカードホルダー K4706",
+    "category": "持ち歩き",
+    "brand": "kate spade new york",
+    "description": "kate spade new yorkのレザースリムカードホルダー K4706。001 ブラック。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 2,
+    "price": 3300,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/couple-14/list-01-05.jpg",
+      "alt": "カップルギフト小物15選（01〜05）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/la-marca/k4706-001/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a085689.e916cf44.5a08568a.5c6646cf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fla-marca%2Fk4706-001%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/couple-02-katespade-card.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/rayes-glass/gs-02200/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
+  {
+    "id": "couple-03-paulsmith-hankachi",
+    "name": "Paul Smith ハンカチ Signature Stripe エッジ",
+    "category": "持ち歩き",
+    "brand": "Paul Smith",
+    "description": "Paul Smithのハンカチ。Signature Stripe エッジ・ブラック。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 3,
+    "price": 4580,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/couple-14/list-01-05.jpg",
+      "alt": "カップルギフト小物15選（01〜05）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/msbm-musubime/1v-ts1x-4k2e/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08581c.8acb9afe.5a08581d.244175e3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmsbm-musubime%2F1v-ts1x-4k2e%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/couple-03-paulsmith-hankachi.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d59c.8348943a.5a08d59d.43e66908/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frayes-glass%2Fgs-02200%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/pair-02-rayes-glass.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "pair-03-pajama",
-  "name": "ペアパジャマ 綿100% 前開き",
-  "category": "ふたりで使う",
-  "brand": "部屋着の時間",
-  "description": "綿100%の前開きペアパジャマ。Merry Christmasカードの選択肢があります。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 3,
-  "price": 10780,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/pair-18/list-01-05.jpg",
-   "alt": "投稿18の商品03 ペアパジャマ 綿100% 前開き の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+  {
+    "id": "couple-04-leuchtturm-note",
+    "name": "LEUCHTTURM1917 A5ハードカバーノート",
+    "category": "持ち歩き",
+    "brand": "LEUCHTTURM1917",
+    "description": "LEUCHTTURM1917のA5ハードカバーノート。フォックスレッド・ドット罫。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 4,
+    "price": 4840,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/couple-14/list-01-05.jpg",
+      "alt": "カップルギフト小物15選（01〜05）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/heiwado-online/leuchtturm-medium-a5-hc/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08591c.272345f2.5a08591d.335630a5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fheiwado-online%2Fleuchtturm-medium-a5-hc%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/couple-04-leuchtturm-note.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/heyaginojikan/3202324/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
+  {
+    "id": "couple-05-baggu",
+    "name": "BAGGU STANDARD シーチャーム",
+    "category": "持ち歩き",
+    "brand": "BAGGU",
+    "description": "BAGGUのエコバッグ STANDARD。シーチャーム（ラベンダー柄）。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 5,
+    "price": 2640,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/couple-14/list-01-05.jpg",
+      "alt": "カップルギフト小物15選（01〜05）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/eighthundredships/baggu-stan2/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a085afc.616066d1.5a085afd.059c2dfe/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feighthundredships%2Fbaggu-stan2%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/couple-05-baggu.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d45d.40f4b0d2.5a08d45e.4d9c1e07/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fheyaginojikan%2F3202324%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/pair-03-pajama.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "pair-04-dulton-slipper",
-  "name": "DULTON コーデュロイスリッパ 同色2セット L",
-  "category": "ふたりで使う",
-  "brand": "DULTON",
-  "description": "コーデュロイスリッパの同色2セット（L）。S＋Lで揃えることもできます。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 4,
-  "price": 3460,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/pair-18/list-01-05.jpg",
-   "alt": "投稿18の商品04 DULTON コーデュロイスリッパ 同色2セット L の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+  {
+    "id": "couple-06-feiler",
+    "name": "Feiler タオルハンカチ フェアリーテイル",
+    "category": "柄と香り",
+    "brand": "Feiler",
+    "description": "Feilerのタオルハンカチ。フェアリーテイル（シンデレラ）。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 6,
+    "price": 1600,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/couple-14/list-06-10.jpg",
+      "alt": "カップルギフト小物15選（06〜10）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/leonekobe/feiler-story/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a085dc6.657592d1.5a085dc7.5dd2bda6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fleonekobe%2Ffeiler-story%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/couple-06-feiler.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/nasluck/46-50899-2/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
+  {
+    "id": "couple-07-casio-mq24",
+    "name": "CASIO STANDARD MQ-24-1B",
+    "category": "柄と香り",
+    "brand": "CASIO",
+    "description": "CASIO STANDARDの腕時計 MQ-24-1B。ブラック。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 7,
+    "price": 2050,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/couple-14/list-06-10.jpg",
+      "alt": "カップルギフト小物15選（06〜10）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/gryps-/s-mq24/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a086325.991f878f.5a086326.561445ff/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgryps-%2Fs-mq24%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/couple-07-casio-mq24.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08dc1b.d3c9be5c.5a08dc1c.1a1d5a03/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnasluck%2F46-50899-2%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/pair-04-dulton-slipper.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "pair-05-paulsmith-muffler",
-  "name": "Paul Smith ペアマフラー ラムズウール",
-  "category": "ふたりで使う",
-  "brand": "Paul Smith",
-  "description": "ラムズウールのペアマフラー。ギフトラッピング対応です。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 5,
-  "price": 16700,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/pair-18/list-01-05.jpg",
-   "alt": "投稿18の商品05 Paul Smith ペアマフラー ラムズウール の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+  {
+    "id": "couple-08-loccitane",
+    "name": "L'OCCITANE シア ハンドクリーム 30mL",
+    "category": "柄と香り",
+    "brand": "L'OCCITANE",
+    "description": "L'OCCITANEのシア ハンドクリーム。ボックス入り・30mL。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 8,
+    "price": 1980,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/couple-14/list-06-10.jpg",
+      "alt": "カップルギフト小物15選（06〜10）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/loccitane/loc00203/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/59797657.5d9710d3.59797658.f330e091/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Floccitane%2Floc00203%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/couple-08-loccitane.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/hworks/item-63058-pair/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
+  {
+    "id": "couple-09-lesportsac",
+    "name": "LeSportsac DELUXE EASY CARRY TOTE",
+    "category": "柄と香り",
+    "brand": "LeSportsac",
+    "description": "LeSportsacのトートバッグ 4360。VERO COVE（花柄）。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 9,
+    "price": 4880,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/couple-14/list-06-10.jpg",
+      "alt": "カップルギフト小物15選（06〜10）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/agora-web/ab-359500/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a086ba9.44997b57.5a086baa.43be6fbf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fagora-web%2Fab-359500%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/couple-09-lesportsac.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d5c3.2f6e1b0f.5a08d5c4.1ba58f7a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhworks%2Fitem-63058-pair%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/pair-05-paulsmith-muffler.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "pair-06-gloves",
-  "name": "ペア手袋 2個セット",
-  "category": "おそろい",
-  "brand": "ジェイウェル",
-  "description": "おそろいのペア手袋2個セット。名入れ刻印対応・日本製です。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 6,
-  "price": 9350,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額（組み合わせにより9,350円〜12,100円）",
-  "presentation": {
-   "src": "assets/creative/pair-18/list-06-10.jpg",
-   "alt": "投稿18の商品06 ペア手袋 2個セット の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+  {
+    "id": "couple-10-cathkidston",
+    "name": "Cath Kidston ジップドパース",
+    "category": "柄と香り",
+    "brand": "Cath Kidston",
+    "description": "Cath Kidstonのジップドパース。柄により価格が変わります（2,420〜2,640円）。写真は白い花・ベリー柄のものです。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 10,
+    "price": 2420,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額（柄により2,420〜2,640円）",
+    "presentation": {
+      "src": "assets/creative/couple-14/list-06-10.jpg",
+      "alt": "カップルギフト小物15選（06〜10）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/cathkidston/zipped-purse/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a086da8.a3be6f80.5a086da9.8be81703/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcathkidston%2Fzipped-purse%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/couple-10-cathkidston.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/jwell/jw-pg01m-jw-pg03f/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
+  {
+    "id": "couple-11-takeo-keyholder",
+    "name": "TAKEO KIKUCHI リールキーホルダー ソフトアンティーク",
+    "category": "毎日の小物",
+    "brand": "TAKEO KIKUCHI",
+    "description": "TAKEO KIKUCHIのリールキーホルダー ソフトアンティーク 503513。チョコ。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 11,
+    "price": 3850,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/couple-14/list-11-15.jpg",
+      "alt": "カップルギフト小物15選（11〜15）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/sacs-bar/tkw-503513/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a0873de.20fe6bec.5a0873df.b9de5233/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsacs-bar%2Ftkw-503513%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/couple-11-takeo-keyholder.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d60e.98ddaa7b.5a08d60f.6ef34a90/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjwell%2Fjw-pg01m-jw-pg03f%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/pair-06-gloves.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "pair-07-keycase",
-  "name": "ペアキーケース ハート型 本革",
-  "category": "おそろい",
-  "brand": "Askalカバン工房",
-  "description": "合わせるとハートになる本革ペアキーケース。名入れ無料です。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 7,
-  "price": 8979,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/pair-18/list-06-10.jpg",
-   "alt": "投稿18の商品07 ペアキーケース ハート型 本革 の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+  {
+    "id": "couple-12-johnsblend",
+    "name": "John's Blend リードディフューザー ホワイトムスク",
+    "category": "毎日の小物",
+    "brand": "John's Blend",
+    "description": "John's Blendのリードディフューザー。ホワイトムスク・140ml。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 12,
+    "price": 2640,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/couple-14/list-11-15.jpg",
+      "alt": "カップルギフト小物15選（11〜15）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/crystal-planet/oajon06/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a087da6.437567fb.5a087da7.9dd015ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcrystal-planet%2Foajon06%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/couple-12-johnsblend.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/kabankoubouaskal/k2121/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
+  {
+    "id": "couple-13-takeo-coincase",
+    "name": "TAKEO KIKUCHI コインケース テネーロ",
+    "category": "毎日の小物",
+    "brand": "TAKEO KIKUCHI",
+    "description": "TAKEO KIKUCHIのコインケース テネーロ 1704519。チョコ。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 13,
+    "price": 4950,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/couple-14/list-11-15.jpg",
+      "alt": "カップルギフト小物15選（11〜15）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/sacs-bar/tk1704519/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a0873de.20fe6bec.5a0873df.b9de5233/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsacs-bar%2Ftk1704519%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/couple-13-takeo-coincase.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d625.a3dddb4b.5a08d626.7c0b5ff4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkabankoubouaskal%2Fk2121%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/pair-07-keycase.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "pair-08-bracelet",
-  "name": "Nicoiro ペアブレスレット S925",
-  "category": "おそろい",
-  "brand": "Nicoiro",
-  "description": "シルバー925のペアブレスレット。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 8,
-  "price": 11980,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/pair-18/list-06-10.jpg",
-   "alt": "投稿18の商品08 Nicoiro ペアブレスレット S925 の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
+  {
+    "id": "couple-14-moleskine",
+    "name": "MOLESKINE クラシックノートブック ポケット",
+    "category": "毎日の小物",
+    "brand": "MOLESKINE",
+    "description": "MOLESKINEのクラシックノートブック ポケット。ソフトカバー・横罫・ブラック。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 14,
+    "price": 2915,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/couple-14/list-11-15.jpg",
+      "alt": "カップルギフト小物15選（11〜15）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/shop-aer/classic_pocket_soft_ruled/",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08546f.23ff08bd.5a085470.ea767440/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshop-aer%2Fclassic_pocket_soft_ruled%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/couple-14-moleskine.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
   },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/cozymarket/select-pairbracelet-16/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
-  },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d642.aad9c4ba.5a08d643.0efdf3c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcozymarket%2Fselect-pairbracelet-16%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/pair-08-bracelet.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "pair-09-innovator-watch",
-  "name": "innovator エンケル ペアウォッチ 32/38mm",
-  "category": "おそろい",
-  "brand": "innovator",
-  "description": "エンケルのペアウォッチ（32mm/38mm）。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 9,
-  "price": 18700,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額（色の組み合わせにより18,700円〜23,210円）",
-  "presentation": {
-   "src": "assets/creative/pair-18/list-06-10.jpg",
-   "alt": "投稿18の商品09 innovator エンケル ペアウォッチ 32/38mm の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
-  },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/watch-lab/innovator-009/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
-  },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d656.40b20a18.5a08d657.34f7c31a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwatch-lab%2Finnovator-009%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/pair-09-innovator-watch.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "pair-10-tumbler",
-  "name": "ペアステンレスタンブラー 350ml×2 桐箱入り",
-  "category": "おそろい",
-  "brand": "Faith Peach",
-  "description": "桐箱入りのペアタンブラー。本体に「だんなです。」「よめです。」のプリント入り（商品デザイン）です。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 10,
-  "price": 4680,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/pair-18/list-06-10.jpg",
-   "alt": "投稿18の商品10 ペアステンレスタンブラー 350ml×2 桐箱入り の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
-  },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/faithpeach/stainless-cup-002/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
-  },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d672.5a40bcb6.5a08d673.09e05ac0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffaithpeach%2Fstainless-cup-002%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/pair-10-tumbler.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "pair-11-chopsticks",
-  "name": "夫婦箸 桜のかがやき 2膳セット 桐箱入り",
-  "category": "一緒の毎日",
-  "brand": "ジュエリーDEX",
-  "description": "若狭塗の夫婦箸2膳セット、桐箱入り。日本製です。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 11,
-  "price": 2200,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/pair-18/list-11-15.jpg",
-   "alt": "投稿18の商品11 夫婦箸 桜のかがやき 2膳セット 桐箱入り の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
-  },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/jewelry-dex/dch1172311724/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
-  },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d68b.1b1dcff7.5a08d68c.0eab2d0c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjewelry-dex%2Fdch1172311724%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/pair-11-chopsticks.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "pair-12-necklace",
-  "name": "Jオリジナル シルバーペアネックレス",
-  "category": "一緒の毎日",
-  "brand": "Jオリジナル",
-  "description": "シルバーのペアネックレス（チェーンのみ、ペンダントなし）。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 12,
-  "price": 6050,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/pair-18/list-11-15.jpg",
-   "alt": "投稿18の商品12 Jオリジナル シルバーペアネックレス の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
-  },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/jwell/245sdc4-50-45/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
-  },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d6b5.7a08d6b5.5a08d6b6.1c9f0e3a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjwell%2F245sdc4-50-45%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/pair-12-necklace.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "pair-13-thekiss-ring",
-  "name": "THE KISS シルバーペアリング SR1844CB-1845",
-  "category": "一緒の毎日",
-  "brand": "THE KISS",
-  "description": "シルバーペアリング。刻印・ラッピング無料です。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 13,
-  "price": 22000,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/pair-18/list-11-15.jpg",
-   "alt": "投稿18の商品13 THE KISS シルバーペアリング SR1844CB-1845 の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
-  },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/fast-forward/sr1844cb-1845/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
-  },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d6db.8f2e4c1a.5a08d6dc.5d7a9b2e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffast-forward%2Fsr1844cb-1845%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/pair-13-thekiss-ring.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "pair-14-iittala-bowl",
-  "name": "Iittala カステヘルミ ボウルペア クリア",
-  "category": "一緒の毎日",
-  "brand": "Iittala",
-  "description": "カステヘルミのボウルペア、クリア。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 14,
-  "price": 6600,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/pair-18/list-11-15.jpg",
-   "alt": "投稿18の商品14 Iittala カステヘルミ ボウルペア クリア の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
-  },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/auc-concent/2024744/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
-  },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08d70a.3e5f7a8b.5a08d70b.9c1d4e6f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-concent%2F2024744%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/pair-14-iittala-bowl.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- },
- {
-  "id": "pair-15-arita-plate",
-  "name": "1616/arita japan TY Palace 160 2枚セット",
-  "category": "一緒の毎日",
-  "brand": "1616/arita japan",
-  "description": "TY Palace 160のプレート2枚セット、化粧箱入り。",
-  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
-  "status": "published",
-  "enabled": true,
-  "displayMode": "ad-only",
-  "selectionNumber": 15,
-  "price": 4268,
-  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
-  "presentation": {
-   "src": "assets/creative/pair-18/list-11-15.jpg",
-   "alt": "投稿18の商品15 1616/arita japan TY Palace 160 2枚セット の掲載ビジュアル",
-   "source": "user-supplied-social-artwork",
-   "approvedForSite": true
-  },
-  "editorial": {
-   "basis": "public-specifications",
-   "personallyUsed": false,
-   "specificationUrl": "https://item.rakuten.co.jp/favras/fn00643/",
-   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
-   "checkedAt": "2026-11-27"
-  },
-  "merchants": [
-   {
-    "name": "楽天市場",
-    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08fa1c.ad5ebdd3.5a08fa1d.ccb21475/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffavras%2Ffn00643%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
-    "verified": true,
-    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
-    "renderMode": "provided-html",
-    "htmlPath": "affiliate/pair-15-arita-plate.html",
-    "frameWidth": 880,
-    "frameHeight": 520,
-    "enabled": true
-   }
-  ]
- }
+  {
+    "id": "couple-15-qq-smilesolar",
+    "name": "Q&Q Smile Solar mini RP01-014",
+    "category": "毎日の小物",
+    "brand": "Q&Q",
+    "description": "Q&Qのソーラー腕時計 Smile Solar mini RP01-014。ホワイト系。",
+    "check": "最新価格・在庫・サイズ・選択できる種類は販売先でご確認ください。",
+    "status": "published",
+    "enabled": true,
+    "displayMode": "ad-only",
+    "selectionNumber": 15,
+    "price": 4950,
+    "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+    "presentation": {
+      "src": "assets/creative/couple-14/list-11-15.jpg",
+      "alt": "カップルギフト小物15選（11〜15）の一覧シート",
+      "source": "user-supplied-social-artwork",
+      "approvedForSite": true
+    },
+    "editorial": {
+      "basis": "public-specifications",
+      "personallyUsed": false,
+      "specificationUrl": "https://item.rakuten.co.jp/0101marui/cb004688240101/?variantId=15074091",
+      "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+      "checkedAt": "2026-11-27"
+    },
+    "merchants": [
+      {
+        "name": "楽天市場",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a08876a.bc0db9e8.5a08876b.f22c6ac2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F0101marui%2Fcb004688240101%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+        "verified": true,
+        "verificationBasis": "楽天アフィリエイトで発行した広告HTML。店舗・商品ID・仕様を楽天商品ページと照合",
+        "renderMode": "provided-html",
+        "htmlPath": "affiliate/couple-15-qq-smilesolar.html",
+        "frameWidth": 880,
+        "frameHeight": 520,
+        "enabled": true
+      }
+    ]
+  }
 ]

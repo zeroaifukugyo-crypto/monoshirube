@@ -1,236 +1,326 @@
 [
- {
-  "id": "xmas26-him-5",
-  "number": "01",
-  "publishedAt": null,
-  "displayOrder": 10,
-  "status": "published",
-  "isPublic": true,
-  "title": "彼氏に贈るクリスマスギフト5選",
-  "subtitle": "SNSで紹介した5つのクリスマスギフト。各商品の詳細は楽天で確認できます。",
-  "category": "クリスマスギフト",
-  "cover": "assets/creative/christmas-2026/cover-him.jpg",
-  "snsImage": "assets/creative/christmas-2026/cover-him.jpg",
-  "coverFit": "contain",
-  "productIds": [
-   "xmas26-men-01-share-warmer",
-   "xmas26-men-02-lindt",
-   "xmas26-men-03-starbucks",
-   "xmas26-men-04-proudmen",
-   "xmas26-men-05-bulk-homme"
-  ],
-  "videoUrl": "",
-  "creativeAssets": {
-   "cover": "assets/creative/christmas-2026/cover-him.jpg",
-   "origin": "user-supplied-social-artwork",
-   "notes": "提供された完成画像を無加工で掲載。商品紹介画像はSNS用の演出を含みます。楽天リンクは別途設定。"
+  {
+    "id": "xmas26-him-5",
+    "number": "01",
+    "publishedAt": null,
+    "displayOrder": 10,
+    "status": "published",
+    "isPublic": true,
+    "title": "彼氏に贈るクリスマスギフト5選",
+    "subtitle": "SNSで紹介した5つのクリスマスギフト。各商品の詳細は楽天で確認できます。",
+    "category": "クリスマスギフト",
+    "cover": "assets/creative/christmas-2026/cover-him.jpg",
+    "snsImage": "assets/creative/christmas-2026/cover-him.jpg",
+    "coverFit": "contain",
+    "productIds": [
+      "xmas26-men-01-share-warmer",
+      "xmas26-men-02-lindt",
+      "xmas26-men-03-starbucks",
+      "xmas26-men-04-proudmen",
+      "xmas26-men-05-bulk-homme"
+    ],
+    "videoUrl": "",
+    "creativeAssets": {
+      "cover": "assets/creative/christmas-2026/cover-him.jpg",
+      "origin": "user-supplied-social-artwork",
+      "notes": "提供された完成画像を無加工で掲載。商品紹介画像はSNS用の演出を含みます。楽天リンクは別途設定。"
+    }
+  },
+  {
+    "id": "xmas26-her-5",
+    "number": "02",
+    "publishedAt": null,
+    "displayOrder": 20,
+    "status": "published",
+    "isPublic": true,
+    "title": "彼女に贈るクリスマスギフト5選",
+    "subtitle": "SNSで紹介した5つのクリスマスギフト。各商品の詳細は楽天で確認できます。",
+    "category": "クリスマスギフト",
+    "cover": "assets/creative/christmas-2026/cover-her.jpg",
+    "snsImage": "assets/creative/christmas-2026/cover-her.jpg",
+    "coverFit": "contain",
+    "productIds": [
+      "xmas26-women-01-gelato-pique",
+      "xmas26-women-02-lindt",
+      "xmas26-women-03-loccitane",
+      "xmas26-women-04-jill-stuart",
+      "xmas26-women-05-refa"
+    ],
+    "videoUrl": "",
+    "creativeAssets": {
+      "cover": "assets/creative/christmas-2026/cover-her.jpg",
+      "origin": "user-supplied-social-artwork",
+      "notes": "提供された完成画像を無加工で掲載。商品紹介画像はSNS用の演出を含みます。楽天リンクは別途設定。"
+    }
+  },
+  {
+    "id": "xmaspair-15",
+    "number": "03",
+    "publishedAt": null,
+    "displayOrder": 30,
+    "status": "published",
+    "isPublic": true,
+    "title": "クリスマスのペアアイテム15選",
+    "subtitle": "クリスマスに選びたい、ふたりに贈るペアアイテムを実物写真で紹介します。",
+    "category": "ペアギフト",
+    "cover": "assets/creative/pair-18/cover.jpg",
+    "snsImage": "assets/creative/pair-18/cover.jpg",
+    "coverFit": "contain",
+    "productIds": [
+      "pair-01-wedgwood-mug",
+      "pair-02-rayes-glass",
+      "pair-03-pajama",
+      "pair-04-dulton-slipper",
+      "pair-05-paulsmith-muffler",
+      "pair-06-gloves",
+      "pair-07-keycase",
+      "pair-08-bracelet",
+      "pair-09-innovator-watch",
+      "pair-10-tumbler",
+      "pair-11-chopsticks",
+      "pair-12-necklace",
+      "pair-13-thekiss-ring",
+      "pair-14-iittala-bowl",
+      "pair-15-arita-plate"
+    ],
+    "videoUrl": "",
+    "layout": "category-ads",
+    "showCover": true,
+    "groups": [
+      {
+        "id": "futari",
+        "title": "一緒に使う、うれしさを。",
+        "productIds": [
+          "pair-01-wedgwood-mug",
+          "pair-02-rayes-glass",
+          "pair-03-pajama",
+          "pair-04-dulton-slipper",
+          "pair-05-paulsmith-muffler"
+        ],
+        "collage": "assets/creative/pair-18/list-01-05.jpg",
+        "collageWidth": 1120,
+        "collageHeight": 1400,
+        "sortOrder": "provided-order",
+        "caption": "紹介用ビジュアル（実物写真）です。画像の01〜05と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
+      },
+      {
+        "id": "osoroi",
+        "title": "さりげなく、おそろい。",
+        "productIds": [
+          "pair-06-gloves",
+          "pair-07-keycase",
+          "pair-08-bracelet",
+          "pair-09-innovator-watch",
+          "pair-10-tumbler"
+        ],
+        "collage": "assets/creative/pair-18/list-06-10.jpg",
+        "collageWidth": 1120,
+        "collageHeight": 1400,
+        "sortOrder": "provided-order",
+        "caption": "紹介用ビジュアル（実物写真）です。画像の06〜10と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
+      },
+      {
+        "id": "issho",
+        "title": "一緒の毎日に、特別を。",
+        "productIds": [
+          "pair-11-chopsticks",
+          "pair-12-necklace",
+          "pair-13-thekiss-ring",
+          "pair-14-iittala-bowl",
+          "pair-15-arita-plate"
+        ],
+        "collage": "assets/creative/pair-18/list-11-15.jpg",
+        "collageWidth": 1120,
+        "collageHeight": 1400,
+        "sortOrder": "provided-order",
+        "caption": "紹介用ビジュアル（実物写真）です。画像の11〜15と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
+      }
+    ],
+    "creativeAssets": {
+      "cover": "assets/creative/pair-18/cover.jpg",
+      "origin": "user-supplied-social-artwork",
+      "summary": "assets/creative/pair-18/summary.jpg",
+      "notes": "表紙・まとめ・グループ画像はレン提供の投稿用アートワーク。商品写真は楽天リンク作成画面で取得した実物写真。"
+    }
+  },
+  {
+    "id": "herbrand-15",
+    "number": "04",
+    "publishedAt": null,
+    "displayOrder": 40,
+    "status": "published",
+    "isPublic": true,
+    "title": "彼女に贈るブランド小物15選",
+    "subtitle": "大切な人に贈りたい、人気ブランドの小物を実物写真で紹介します。",
+    "category": "ブランド小物ギフト",
+    "cover": "assets/creative/her-17/cover.jpg",
+    "snsImage": "assets/creative/her-17/cover.jpg",
+    "coverFit": "contain",
+    "productIds": [
+      "her-01-coach-bag",
+      "her-02-katespade-pendant",
+      "her-03-furla-wallet",
+      "her-04-mj-beautybag",
+      "her-05-mk-watch",
+      "her-06-samantha-bag",
+      "her-07-jillstuart-set",
+      "her-08-maryquant-pouch",
+      "her-09-vivienne-pendant",
+      "her-10-agnesb-hankachi",
+      "her-11-pauljoe-hankachi",
+      "her-12-annasui-cream",
+      "her-13-gelatopique-pouch",
+      "her-14-francfranc-mug",
+      "her-15-coach-keycase"
+    ],
+    "videoUrl": "",
+    "layout": "category-ads",
+    "showCover": true,
+    "groups": [
+      {
+        "id": "tokimeki",
+        "title": "ときめきを、贈りたい。",
+        "productIds": [
+          "her-01-coach-bag",
+          "her-02-katespade-pendant",
+          "her-03-furla-wallet",
+          "her-04-mj-beautybag",
+          "her-05-mk-watch"
+        ],
+        "collage": "assets/creative/her-17/list-01-05.jpg",
+        "collageWidth": 1120,
+        "collageHeight": 1400,
+        "sortOrder": "provided-order",
+        "caption": "紹介用ビジュアル（実物写真）です。画像の01〜05と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
+      },
+      {
+        "id": "konomi",
+        "title": "好みに寄り添う、小物。",
+        "productIds": [
+          "her-06-samantha-bag",
+          "her-07-jillstuart-set",
+          "her-08-maryquant-pouch",
+          "her-09-vivienne-pendant",
+          "her-10-agnesb-hankachi"
+        ],
+        "collage": "assets/creative/her-17/list-06-10.jpg",
+        "collageWidth": 1120,
+        "collageHeight": 1400,
+        "sortOrder": "provided-order",
+        "caption": "紹介用ビジュアル（実物写真）です。画像の06〜10と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
+      },
+      {
+        "id": "mainichi",
+        "title": "毎日に、かわいいを。",
+        "productIds": [
+          "her-11-pauljoe-hankachi",
+          "her-12-annasui-cream",
+          "her-13-gelatopique-pouch",
+          "her-14-francfranc-mug",
+          "her-15-coach-keycase"
+        ],
+        "collage": "assets/creative/her-17/list-11-15.jpg",
+        "collageWidth": 1120,
+        "collageHeight": 1400,
+        "sortOrder": "provided-order",
+        "caption": "紹介用ビジュアル（実物写真）です。画像の11〜15と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
+      }
+    ],
+    "creativeAssets": {
+      "cover": "assets/creative/her-17/cover.jpg",
+      "origin": "user-supplied-social-artwork",
+      "summary": "assets/creative/her-17/summary.jpg",
+      "notes": "表紙・まとめ・グループ画像はレン提供の投稿用アートワーク。商品写真は楽天リンク作成画面で取得した実物写真。"
+    }
+  },
+  {
+    "id": "couple-gift-15",
+    "number": "05",
+    "publishedAt": null,
+    "displayOrder": 50,
+    "status": "published",
+    "isPublic": true,
+    "title": "予算5,000円以下。彼氏・彼女に贈る センスのいい小物15選",
+    "subtitle": "marimekkoやkate spadeなど、名前で選べるブランド小物だけ。全品5,000円以下・実物写真で紹介する15点。",
+    "category": "カップルギフト",
+    "cover": "assets/creative/couple-14/cover.jpg",
+    "snsImage": "assets/creative/couple-14/cover.jpg",
+    "coverFit": "contain",
+    "productIds": [
+      "couple-01-marimekko-pouch",
+      "couple-02-katespade-card",
+      "couple-03-paulsmith-hankachi",
+      "couple-04-leuchtturm-note",
+      "couple-05-baggu",
+      "couple-06-feiler",
+      "couple-07-casio-mq24",
+      "couple-08-loccitane",
+      "couple-09-lesportsac",
+      "couple-10-cathkidston",
+      "couple-11-takeo-keyholder",
+      "couple-12-johnsblend",
+      "couple-13-takeo-coincase",
+      "couple-14-moleskine",
+      "couple-15-qq-smilesolar"
+    ],
+    "videoUrl": "",
+    "layout": "category-ads",
+    "showCover": true,
+    "groups": [
+      {
+        "id": "carry",
+        "title": "持ち歩きたい、好きなもの。",
+        "productIds": [
+          "couple-01-marimekko-pouch",
+          "couple-02-katespade-card",
+          "couple-03-paulsmith-hankachi",
+          "couple-04-leuchtturm-note",
+          "couple-05-baggu"
+        ],
+        "collage": "assets/creative/couple-14/list-01-05.jpg",
+        "collageWidth": 1120,
+        "collageHeight": 1400,
+        "sortOrder": "provided-order",
+        "caption": "商品写真は販売先の実物写真です。画像の01〜05と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
+      },
+      {
+        "id": "pattern",
+        "title": "好きな柄も、香りも。",
+        "productIds": [
+          "couple-06-feiler",
+          "couple-07-casio-mq24",
+          "couple-08-loccitane",
+          "couple-09-lesportsac",
+          "couple-10-cathkidston"
+        ],
+        "collage": "assets/creative/couple-14/list-06-10.jpg",
+        "collageWidth": 1120,
+        "collageHeight": 1400,
+        "sortOrder": "provided-order",
+        "caption": "商品写真は販売先の実物写真です。画像の06〜10と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
+      },
+      {
+        "id": "daily",
+        "title": "毎日に、小さな特別を。",
+        "productIds": [
+          "couple-11-takeo-keyholder",
+          "couple-12-johnsblend",
+          "couple-13-takeo-coincase",
+          "couple-14-moleskine",
+          "couple-15-qq-smilesolar"
+        ],
+        "collage": "assets/creative/couple-14/list-11-15.jpg",
+        "collageWidth": 1120,
+        "collageHeight": 1400,
+        "sortOrder": "provided-order",
+        "caption": "商品写真は販売先の実物写真です。画像の11〜15と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
+      }
+    ],
+    "creativeAssets": {
+      "cover": "assets/creative/couple-14/cover.jpg",
+      "origin": "user-supplied-social-artwork",
+      "summary": "assets/creative/couple-14/summary.jpg",
+      "notes": "所有者から提供された完成済み画像をそのまま使用。商品写真は楽天アフィリエイトのリンク作成画面から取得した実物写真（表紙の背景のみイメージ画像で、画像内に明記）。まとめ画像はSNS投稿の2枚目に使う全15点一覧。"
+    }
   }
- },
- {
-  "id": "xmas26-her-5",
-  "number": "02",
-  "publishedAt": null,
-  "displayOrder": 20,
-  "status": "published",
-  "isPublic": true,
-  "title": "彼女に贈るクリスマスギフト5選",
-  "subtitle": "SNSで紹介した5つのクリスマスギフト。各商品の詳細は楽天で確認できます。",
-  "category": "クリスマスギフト",
-  "cover": "assets/creative/christmas-2026/cover-her.jpg",
-  "snsImage": "assets/creative/christmas-2026/cover-her.jpg",
-  "coverFit": "contain",
-  "productIds": [
-   "xmas26-women-01-gelato-pique",
-   "xmas26-women-02-lindt",
-   "xmas26-women-03-loccitane",
-   "xmas26-women-04-jill-stuart",
-   "xmas26-women-05-refa"
-  ],
-  "videoUrl": "",
-  "creativeAssets": {
-   "cover": "assets/creative/christmas-2026/cover-her.jpg",
-   "origin": "user-supplied-social-artwork",
-   "notes": "提供された完成画像を無加工で掲載。商品紹介画像はSNS用の演出を含みます。楽天リンクは別途設定。"
-  }
- },
- {
-  "id": "xmaspair-15",
-  "number": "03",
-  "publishedAt": null,
-  "displayOrder": 30,
-  "status": "published",
-  "isPublic": true,
-  "title": "クリスマスのペアアイテム15選",
-  "subtitle": "クリスマスに選びたい、ふたりに贈るペアアイテムを実物写真で紹介します。",
-  "category": "ペアギフト",
-  "cover": "assets/creative/pair-18/cover.jpg",
-  "snsImage": "assets/creative/pair-18/cover.jpg",
-  "coverFit": "contain",
-  "productIds": [
-   "pair-01-wedgwood-mug",
-   "pair-02-rayes-glass",
-   "pair-03-pajama",
-   "pair-04-dulton-slipper",
-   "pair-05-paulsmith-muffler",
-   "pair-06-gloves",
-   "pair-07-keycase",
-   "pair-08-bracelet",
-   "pair-09-innovator-watch",
-   "pair-10-tumbler",
-   "pair-11-chopsticks",
-   "pair-12-necklace",
-   "pair-13-thekiss-ring",
-   "pair-14-iittala-bowl",
-   "pair-15-arita-plate"
-  ],
-  "videoUrl": "",
-  "layout": "category-ads",
-  "showCover": true,
-  "groups": [
-   {
-    "id": "futari",
-    "title": "一緒に使う、うれしさを。",
-    "productIds": [
-     "pair-01-wedgwood-mug",
-     "pair-02-rayes-glass",
-     "pair-03-pajama",
-     "pair-04-dulton-slipper",
-     "pair-05-paulsmith-muffler"
-    ],
-    "collage": "assets/creative/pair-18/list-01-05.jpg",
-    "collageWidth": 1120,
-    "collageHeight": 1400,
-    "sortOrder": "provided-order",
-    "caption": "紹介用ビジュアル（実物写真）です。画像の01〜05と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
-   },
-   {
-    "id": "osoroi",
-    "title": "さりげなく、おそろい。",
-    "productIds": [
-     "pair-06-gloves",
-     "pair-07-keycase",
-     "pair-08-bracelet",
-     "pair-09-innovator-watch",
-     "pair-10-tumbler"
-    ],
-    "collage": "assets/creative/pair-18/list-06-10.jpg",
-    "collageWidth": 1120,
-    "collageHeight": 1400,
-    "sortOrder": "provided-order",
-    "caption": "紹介用ビジュアル（実物写真）です。画像の06〜10と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
-   },
-   {
-    "id": "issho",
-    "title": "一緒の毎日に、特別を。",
-    "productIds": [
-     "pair-11-chopsticks",
-     "pair-12-necklace",
-     "pair-13-thekiss-ring",
-     "pair-14-iittala-bowl",
-     "pair-15-arita-plate"
-    ],
-    "collage": "assets/creative/pair-18/list-11-15.jpg",
-    "collageWidth": 1120,
-    "collageHeight": 1400,
-    "sortOrder": "provided-order",
-    "caption": "紹介用ビジュアル（実物写真）です。画像の11〜15と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
-   }
-  ],
-  "creativeAssets": {
-   "cover": "assets/creative/pair-18/cover.jpg",
-   "origin": "user-supplied-social-artwork",
-   "summary": "assets/creative/pair-18/summary.jpg",
-   "notes": "表紙・まとめ・グループ画像はレン提供の投稿用アートワーク。商品写真は楽天リンク作成画面で取得した実物写真。"
-  }
- },
- {
-  "id": "herbrand-15",
-  "number": "04",
-  "publishedAt": null,
-  "displayOrder": 40,
-  "status": "published",
-  "isPublic": true,
-  "title": "彼女に贈るブランド小物15選",
-  "subtitle": "大切な人に贈りたい、人気ブランドの小物を実物写真で紹介します。",
-  "category": "ブランド小物ギフト",
-  "cover": "assets/creative/her-17/cover.jpg",
-  "snsImage": "assets/creative/her-17/cover.jpg",
-  "coverFit": "contain",
-  "productIds": [
-   "her-01-coach-bag",
-   "her-02-katespade-pendant",
-   "her-03-furla-wallet",
-   "her-04-mj-beautybag",
-   "her-05-mk-watch",
-   "her-06-samantha-bag",
-   "her-07-jillstuart-set",
-   "her-08-maryquant-pouch",
-   "her-09-vivienne-pendant",
-   "her-10-agnesb-hankachi",
-   "her-11-pauljoe-hankachi",
-   "her-12-annasui-cream",
-   "her-13-gelatopique-pouch",
-   "her-14-francfranc-mug",
-   "her-15-coach-keycase"
-  ],
-  "videoUrl": "",
-  "layout": "category-ads",
-  "showCover": true,
-  "groups": [
-   {
-    "id": "tokimeki",
-    "title": "ときめきを、贈りたい。",
-    "productIds": [
-     "her-01-coach-bag",
-     "her-02-katespade-pendant",
-     "her-03-furla-wallet",
-     "her-04-mj-beautybag",
-     "her-05-mk-watch"
-    ],
-    "collage": "assets/creative/her-17/list-01-05.jpg",
-    "collageWidth": 1120,
-    "collageHeight": 1400,
-    "sortOrder": "provided-order",
-    "caption": "紹介用ビジュアル（実物写真）です。画像の01〜05と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
-   },
-   {
-    "id": "konomi",
-    "title": "好みに寄り添う、小物。",
-    "productIds": [
-     "her-06-samantha-bag",
-     "her-07-jillstuart-set",
-     "her-08-maryquant-pouch",
-     "her-09-vivienne-pendant",
-     "her-10-agnesb-hankachi"
-    ],
-    "collage": "assets/creative/her-17/list-06-10.jpg",
-    "collageWidth": 1120,
-    "collageHeight": 1400,
-    "sortOrder": "provided-order",
-    "caption": "紹介用ビジュアル（実物写真）です。画像の06〜10と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
-   },
-   {
-    "id": "mainichi",
-    "title": "毎日に、かわいいを。",
-    "productIds": [
-     "her-11-pauljoe-hankachi",
-     "her-12-annasui-cream",
-     "her-13-gelatopique-pouch",
-     "her-14-francfranc-mug",
-     "her-15-coach-keycase"
-    ],
-    "collage": "assets/creative/her-17/list-11-15.jpg",
-    "collageWidth": 1120,
-    "collageHeight": 1400,
-    "sortOrder": "provided-order",
-    "caption": "紹介用ビジュアル（実物写真）です。画像の11〜15と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
-   }
-  ],
-  "creativeAssets": {
-   "cover": "assets/creative/her-17/cover.jpg",
-   "origin": "user-supplied-social-artwork",
-   "summary": "assets/creative/her-17/summary.jpg",
-   "notes": "表紙・まとめ・グループ画像はレン提供の投稿用アートワーク。商品写真は楽天リンク作成画面で取得した実物写真。"
-  }
- }
 ]
