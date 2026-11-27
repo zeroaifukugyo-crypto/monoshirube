@@ -6448,5 +6448,605 @@
     "enabled": true
    }
   ]
+ },
+ {
+  "id": "her-01-coach-bag",
+  "name": "COACH OUTLET フェイ ミニ ドローストリング バッグ キルティング ブラック",
+  "category": "ときめき",
+  "brand": "COACH",
+  "description": "キルティングレザーの巾着バッグ、ブラック。COACH OUTLETのアイテムです。",
+  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 1,
+  "price": 17600,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/her-17/list-01-05.jpg",
+   "alt": "投稿17の商品01 COACH OUTLET フェイ ミニ ドローストリング バッグ キルティング ブラック の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/stylife/qv4280/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a087518.3bff0687.5a08751a.a05b48d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstylife%2Fqv4280%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/her-01-coach-bag.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "her-02-katespade-pendant",
+  "name": "kate spade エブリデイ スペード パヴェ ミニ ペンダント シルバー",
+  "category": "ときめき",
+  "brand": "kate spade new york",
+  "description": "スペードモチーフのパヴェペンダント、シルバー。",
+  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 2,
+  "price": 11440,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/her-17/list-01-05.jpg",
+   "alt": "投稿17の商品02 kate spade エブリデイ スペード パヴェ ミニ ペンダント シルバー の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/katespadenewyork/rw1149/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/2fa4fb0c.6b5a48c3.2fa4fb0d.8e0b27f4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkatespadenewyork%2Frw1149%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/her-02-katespade-pendant.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "her-03-furla-wallet",
+  "name": "FURLA カメリア 長財布 ラウンドファスナー ブラック",
+  "category": "ときめき",
+  "brand": "FURLA",
+  "description": "フルラの定番「カメリア」の長財布、ブラック。",
+  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 3,
+  "price": 19800,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/her-17/list-01-05.jpg",
+   "alt": "投稿17の商品03 FURLA カメリア 長財布 ラウンドファスナー ブラック の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/brstring/gfuzwp003133015/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/07a4e3d8.1a7f8c09.07a4e3d9.bd6c8ee7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbrstring%2Fgfuzwp003133015%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/her-03-furla-wallet.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "her-04-mj-beautybag",
+  "name": "MARC JACOBS THE BEAUTY BAG ブラック",
+  "category": "ときめき",
+  "brand": "MARC JACOBS",
+  "description": "ロゴが目を引くビューティーバッグ（ポーチ）、ブラック。",
+  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 4,
+  "price": 17600,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/her-17/list-01-05.jpg",
+   "alt": "投稿17の商品04 MARC JACOBS THE BEAUTY BAG ブラック の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/stylife/ne6338/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a087518.3bff0687.5a08751a.a05b48d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstylife%2Fne6338%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/her-04-mj-beautybag.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "her-05-mk-watch",
+  "name": "MICHAEL KORS LAURYN ウォッチ ローズゴールド",
+  "category": "ときめき",
+  "brand": "MICHAEL KORS",
+  "description": "ローズゴールドのレディースウォッチ。きらめくベゼルが華やかです。",
+  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 5,
+  "price": 22990,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/her-17/list-01-05.jpg",
+   "alt": "投稿17の商品05 MICHAEL KORS LAURYN ウォッチ ローズゴールド の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/stylife/pz0176/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a087518.3bff0687.5a08751a.a05b48d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstylife%2Fpz0176%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/her-05-mk-watch.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "her-06-samantha-bag",
+  "name": "Samantha Thavasa ミニハンドバッグ Holiday Collection ブラック",
+  "category": "好み",
+  "brand": "Samantha Thavasa",
+  "description": "ホリデーコレクションのミニハンドバッグ、ブラック（ピンク・白もあり）。公式ショップのアイテムです。",
+  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 6,
+  "price": 35200,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/her-17/list-06-10.jpg",
+   "alt": "投稿17の商品06 Samantha Thavasa ミニハンドバッグ Holiday Collection ブラック の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/samanthathavasa/th8095/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/08d21f14.5f3eb0a6.08d21f15.e9b4f3c1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsamanthathavasa%2Fth8095%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/her-06-samantha-bag.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "her-07-jillstuart-set",
+  "name": "JILL STUART リップマスク＆ハンドクリームセット J-62",
+  "category": "好み",
+  "brand": "JILL STUART",
+  "description": "ギフトボックス入りのリップマスク＆ハンドクリームセット。写真はギフトボックスです。",
+  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 7,
+  "price": 4180,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/her-17/list-06-10.jpg",
+   "alt": "投稿17の商品07 JILL STUART リップマスク＆ハンドクリームセット J-62 の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/shaddy/001744549/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/21e9b35a.8df8d6d0.21e9b35b.3ec1d36d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshaddy%2F001744549%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/her-07-jillstuart-set.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "her-08-maryquant-pouch",
+  "name": "MARY QUANT オーバルポーチ デイジーパッチ ブラック",
+  "category": "好み",
+  "brand": "MARY QUANT",
+  "description": "デイジーパッチがポイントのオーバルポーチ、ブラック。",
+  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 8,
+  "price": 5500,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/her-17/list-06-10.jpg",
+   "alt": "投稿17の商品08 MARY QUANT オーバルポーチ デイジーパッチ ブラック の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/0101marui/to512272580101/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/1ea01f8c.e4c2a8da.1ea01f8d.b6fe4e8d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F0101marui%2Fto512272580101%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/her-08-maryquant-pouch.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "her-09-vivienne-pendant",
+  "name": "Vivienne Westwood FEODORA PENDANT シルバー",
+  "category": "好み",
+  "brand": "Vivienne Westwood",
+  "description": "オーブモチーフのペンダント、シルバー。",
+  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 9,
+  "price": 18000,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/her-17/list-06-10.jpg",
+   "alt": "投稿17の商品09 Vivienne Westwood FEODORA PENDANT シルバー の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/mb/630203ep-02p373/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/04d6b8db.9c2dfda1.04d6b8dc.dbe4ac34/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmb%2F630203ep-02p373%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/her-09-vivienne-pendant.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "her-10-agnesb-hankachi",
+  "name": "agnes b. タオルハンカチ ハート柄",
+  "category": "好み",
+  "brand": "agnes b.",
+  "description": "ハート柄のタオルハンカチ、ホワイト。",
+  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 10,
+  "price": 1100,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/her-17/list-06-10.jpg",
+   "alt": "投稿17の商品10 agnes b. タオルハンカチ ハート柄 の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/0101marui/cd011570960101/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/1ea01f8c.e4c2a8da.1ea01f8d.b6fe4e8d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F0101marui%2Fcd011570960101%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/her-10-agnesb-hankachi.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "her-11-pauljoe-hankachi",
+  "name": "PAUL & JOE プリントハンカチ 花柄",
+  "category": "毎日",
+  "brand": "PAUL & JOE",
+  "description": "花柄のプリントハンカチ、ピンク系。",
+  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 11,
+  "price": 1100,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/her-17/list-11-15.jpg",
+   "alt": "投稿17の商品11 PAUL & JOE プリントハンカチ 花柄 の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/0101marui/to507112590101/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/1ea01f8c.e4c2a8da.1ea01f8d.b6fe4e8d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F0101marui%2Fto507112590101%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/her-11-pauljoe-hankachi.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "her-12-annasui-cream",
+  "name": "ANNA SUI ブライトニング ハンドクリーム 40g",
+  "category": "毎日",
+  "brand": "ANNA SUI",
+  "description": "ブライトニングハンドクリーム40g。",
+  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 12,
+  "price": 2980,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/her-17/list-11-15.jpg",
+   "alt": "投稿17の商品12 ANNA SUI ブライトニング ハンドクリーム 40g の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/emporio8888/10002322/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/37a9e14d.a2a6c2b3.37a9e14e.e3fe9dc9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Femporio8888%2F10002322%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/her-12-annasui-cream.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "her-13-gelatopique-pouch",
+  "name": "gelato pique ストロベリー総柄バニティポーチ",
+  "category": "毎日",
+  "brand": "gelato pique",
+  "description": "いちご総柄のバニティポーチ、ホワイト。持ち手付きです。",
+  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 13,
+  "price": 5940,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/her-17/list-11-15.jpg",
+   "alt": "投稿17の商品13 gelato pique ストロベリー総柄バニティポーチ の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/usagi-online/sg2486/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/1b3e0f28.d0fbb0ce.1b3e0f29.2d9afad0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fusagi-online%2Fsg2486%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/her-13-gelatopique-pouch.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "her-14-francfranc-mug",
+  "name": "Francfranc ホイップマグ ヨーグルト（スノーマン）",
+  "category": "毎日",
+  "brand": "Francfranc",
+  "description": "スノーマンのホイップマグ。冬のギフトにぴったりです。",
+  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 14,
+  "price": 2000,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/her-17/list-11-15.jpg",
+   "alt": "投稿17の商品14 Francfranc ホイップマグ ヨーグルト（スノーマン） の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/stylife/td4474/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a087518.3bff0687.5a08751a.a05b48d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstylife%2Ftd4474%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/her-14-francfranc-mug.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
+ },
+ {
+  "id": "her-15-coach-keycase",
+  "name": "COACH OUTLET ファイブ リング キー ケース ベージュ",
+  "category": "毎日",
+  "brand": "COACH",
+  "description": "5連リングのキーケース、ベージュ。COACH OUTLETのアイテムです。",
+  "check": "最新価格・在庫・選択できる種類は販売先でご確認ください。",
+  "status": "published",
+  "enabled": true,
+  "displayMode": "ad-only",
+  "selectionNumber": 15,
+  "price": 10120,
+  "priceBasis": "2026-11-27に楽天商品ページで確認した掲載額",
+  "presentation": {
+   "src": "assets/creative/her-17/list-11-15.jpg",
+   "alt": "投稿17の商品15 COACH OUTLET ファイブ リング キー ケース ベージュ の掲載ビジュアル",
+   "source": "user-supplied-social-artwork",
+   "approvedForSite": true
+  },
+  "editorial": {
+   "basis": "public-specifications",
+   "personallyUsed": false,
+   "specificationUrl": "https://item.rakuten.co.jp/stylife/gp8798/",
+   "specificationSourceName": "楽天の商品ページ・提供された広告HTML",
+   "checkedAt": "2026-11-27"
+  },
+  "merchants": [
+   {
+    "name": "楽天市場",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/ichiba/5a087518.3bff0687.5a08751a.a05b48d9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fstylife%2Fgp8798%2F&link_type=picttext&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJwaWN0dGV4dCIsInNpemUiOiI0MDB4NDAwIiwibmFtIjoxLCJuYW1wIjoicmlnaHQiLCJjb20iOjEsImNvbXAiOiJkb3duIiwicHJpY2UiOjEsImJvciI6MSwiY29sIjoxLCJiYnRuIjoxLCJwcm9kIjowLCJhbXAiOmZhbHNlfQ%3D%3D",
+    "verified": true,
+    "verificationBasis": "2026-11-27に楽天商品ページとリンク作成画面で商品・価格を確認",
+    "renderMode": "provided-html",
+    "htmlPath": "affiliate/her-15-coach-keycase.html",
+    "frameWidth": 880,
+    "frameHeight": 520,
+    "enabled": true
+   }
+  ]
  }
 ]

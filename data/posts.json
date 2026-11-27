@@ -923,5 +923,95 @@
    "summary": "assets/creative/sneak-16/summary.jpg",
    "notes": "表紙・まとめ・グループ画像はレン提供の投稿用アートワーク。商品写真は楽天リンク作成画面で取得した実物写真。"
   }
+ },
+ {
+  "id": "herbrand-15",
+  "number": "17",
+  "publishedAt": null,
+  "displayOrder": 270,
+  "status": "published",
+  "isPublic": true,
+  "title": "彼女に贈るブランド小物15選",
+  "subtitle": "大切な人に贈りたい、人気ブランドの小物を実物写真で紹介します。",
+  "category": "ブランド小物ギフト",
+  "cover": "assets/creative/her-17/cover.jpg",
+  "snsImage": "assets/creative/her-17/cover.jpg",
+  "coverFit": "contain",
+  "productIds": [
+   "her-01-coach-bag",
+   "her-02-katespade-pendant",
+   "her-03-furla-wallet",
+   "her-04-mj-beautybag",
+   "her-05-mk-watch",
+   "her-06-samantha-bag",
+   "her-07-jillstuart-set",
+   "her-08-maryquant-pouch",
+   "her-09-vivienne-pendant",
+   "her-10-agnesb-hankachi",
+   "her-11-pauljoe-hankachi",
+   "her-12-annasui-cream",
+   "her-13-gelatopique-pouch",
+   "her-14-francfranc-mug",
+   "her-15-coach-keycase"
+  ],
+  "videoUrl": "",
+  "layout": "category-ads",
+  "showCover": true,
+  "groups": [
+   {
+    "id": "tokimeki",
+    "title": "ときめきを、贈りたい。",
+    "productIds": [
+     "her-01-coach-bag",
+     "her-02-katespade-pendant",
+     "her-03-furla-wallet",
+     "her-04-mj-beautybag",
+     "her-05-mk-watch"
+    ],
+    "collage": "assets/creative/her-17/list-01-05.jpg",
+    "collageWidth": 1120,
+    "collageHeight": 1400,
+    "sortOrder": "provided-order",
+    "caption": "紹介用ビジュアル（実物写真）です。画像の01〜05と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
+   },
+   {
+    "id": "konomi",
+    "title": "好みに寄り添う、小物。",
+    "productIds": [
+     "her-06-samantha-bag",
+     "her-07-jillstuart-set",
+     "her-08-maryquant-pouch",
+     "her-09-vivienne-pendant",
+     "her-10-agnesb-hankachi"
+    ],
+    "collage": "assets/creative/her-17/list-06-10.jpg",
+    "collageWidth": 1120,
+    "collageHeight": 1400,
+    "sortOrder": "provided-order",
+    "caption": "紹介用ビジュアル（実物写真）です。画像の06〜10と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
+   },
+   {
+    "id": "mainichi",
+    "title": "毎日に、かわいいを。",
+    "productIds": [
+     "her-11-pauljoe-hankachi",
+     "her-12-annasui-cream",
+     "her-13-gelatopique-pouch",
+     "her-14-francfranc-mug",
+     "her-15-coach-keycase"
+    ],
+    "collage": "assets/creative/her-17/list-11-15.jpg",
+    "collageWidth": 1120,
+    "collageHeight": 1400,
+    "sortOrder": "provided-order",
+    "caption": "紹介用ビジュアル（実物写真）です。画像の11〜15と下の広告番号が対応しています。価格は2026年11月27日の掲載額で、最新情報は販売先でご確認ください。"
+   }
+  ],
+  "creativeAssets": {
+   "cover": "assets/creative/her-17/cover.jpg",
+   "origin": "user-supplied-social-artwork",
+   "summary": "assets/creative/her-17/summary.jpg",
+   "notes": "表紙・まとめ・グループ画像はレン提供の投稿用アートワーク。商品写真は楽天リンク作成画面で取得した実物写真。"
+  }
  }
 ]
